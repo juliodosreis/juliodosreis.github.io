@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Prof. Dr. Julio C. dos Reis
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Julio Cesar dos Reis
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Julio Cesar
+last_name: dos Reis
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institute of Computing, UNICAMP
+    url: https://ic.unicamp.br
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -144,10 +144,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: France
+    percent: 85
   - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
