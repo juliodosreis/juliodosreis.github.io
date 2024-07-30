@@ -3,7 +3,7 @@
 title: Prof. Dr. Julio C. dos Reis
 
 # Name pronunciation (optional)
-name_pronunciation: Julio Cesar dos Reis
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Julio Cesar
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Scientist
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dosreis@unicamp.br'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/juliodoreis
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/juliocesardosreis/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Associate professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at the UNICAMP and assistant researcher at the Public Research Centre Henri Tudor, Luxembourg. I earned a Ph.D. in Computer Science (2014) from the Faculty of Sciences at the University of Paris-Sud XI, France. I hold a M.Sc. degree in Computer Science (2011) and B.Tech. degree in Informatics (2008) from UNICAMP. 
