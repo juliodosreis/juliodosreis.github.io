@@ -188,6 +188,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Hello!
 
-Associate professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at the UNICAMP and assistant researcher at the Public Research Centre Henri Tudor, Luxembourg. I earned a Ph.D. in Computer Science (2014) from the Faculty of Sciences at the University of Paris-Sud XI, France. I hold a M.Sc. degree in Computer Science (2011) and B.Tech. degree in Informatics (2008) from UNICAMP. 
+I'm an Associate professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at the UNICAMP and assistant researcher at the Public Research Centre Henri Tudor, Luxembourg. Currently, Director of the Nucleus of Informatics Applied to Education (NIED/Unicamp) and Head of the Laboratory of Human-Digital Artifact Interaction (LInterHAD) at the IC/Unicamp. Associated Researcher in AI for Marketing at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC).
