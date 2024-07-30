@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:dosreis@unicamp.br'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/juliodosreis
   - icon: brands/github
@@ -44,16 +44,17 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=NpBP3-QAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9545-2098
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Ontologies
+  - Natural Language Processing
+  - Human-Computer Interaction 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Ph.D. in Computer Science
+    institution: University of Paris-XI, France
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +62,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MS.c. in Computer Science
+    institution: University of Campinas, Brazil
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: B.Tech. in Informatics
+    institution: University of Campinas, Brazil
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -144,7 +145,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: France
+  - name: French
     percent: 85
   - name: Portuguese
     percent: 100
