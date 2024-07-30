@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Dr. Julio C. dos Reis
+title: Julio C. dos Reis
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -10,8 +10,8 @@ first_name: Julio Cesar
 last_name: dos Reis
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,6 +45,12 @@ profiles:
     url: https://scholar.google.com/citations?user=NpBP3-QAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9545-2098
+ - icon: academicons/dblp
+    url: https://dblp.uni-trier.de/pid/71/7193.html
+ - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Julio-Dos-Reis
+ - icon: academicons/lattes
+    url: http://lattes.cnpq.br/2971609673131726
 
 interests:
   - Artificial Intelligence
