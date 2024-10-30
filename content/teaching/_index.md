@@ -1,7 +1,7 @@
 ---
 title: Teaching
-summary: My courses
-type: landing
+#summary: My courses
+#type: landing
 
 #cascade:
 #  - _target:

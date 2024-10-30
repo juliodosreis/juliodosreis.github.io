@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Julio academic website.'
+    description: 'Julio's academic website.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This is a personal page, and not an official Unicamp page. Its contents are of entire responsibility of Julio C. dos Reis.'
+    notice: '© {year} Me. This is a personal page, and not an official Unicamp webpage. Its contents are of entire responsibility of Julio C. dos Reis.'
     license:
       enable: true
       allow_derivatives: false
