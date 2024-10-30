@@ -1,7 +1,7 @@
 ---
 title: 'Students'
-#date: 2023-10-24
-#type: landing
+date: 2024-10-30
+type: landing
 ---
 
 Students
