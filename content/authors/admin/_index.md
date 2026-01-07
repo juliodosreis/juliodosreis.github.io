@@ -161,47 +161,63 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Award 1
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Abc
-    #icon: coursera
-    #summary: |
-    #  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Award 2
-    #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-11-25'
-    awarder: EEEEEE
-    #icon: edx
-    #summary: |
-    #  Abc
-  #- title: Neural Networks and Deep Learning
-  #  url: https://www.coursera.org/learn/neural-networks-deep-learning
-  #  date: '2023-11-25'
-  #  awarder: Coursera
-  #  icon: coursera
-  #  summary: |
-  #    I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  #- title: Blockchain Fundamentals
-  #  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #  date: '2023-07-01'
-  #  awarder: edX
-  #  icon: edx
-  #  summary: |
-  #    Learned:
-  #   - Synthesize your own blockchain solutions
-  #    - Gain an in-depth understanding of the specific mechanics of Bitcoin
-  #    - Understand Bitcoin’s real-life applications and learn how to attack and destroy 
-  #- title: 'Object-Oriented Programming in R'
-  #  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-  #  certificate_url: https://www.datacamp.com
-  #  date: '2023-01-21'
-  #  awarder: datacamp
-  #  icon: datacamp
-  #  summary: |
-  #    Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  # - title: Award 1
+  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
+  #   date: '2023-11-25'
+  #   awarder: Abc
+  #   icon: coursera
+  #   summary: |
+  #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Honorable mention to Best Ph.D. Thesis Award
+    awarder: Concourse of Thesis and Dissertations (Student André Regino) at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25)
+  - title: Best Paper Award
+    awarder: 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025)
+  - title: Best Paper Award
+    awarder: XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25)
+  - title: Best Paper Contender
+    awarder: 29th International Conference on Natural Language & Information Systems (NLDB’24)
+  - title: Best Paper Award
+    awarder: VIII Workshop de Computação Urbana (CoUrb’24) of the 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos 
+  - title: Best Student Paper Award Nominee
+    awarder: 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)
+  - title: Best Paper Candidate
+    awarder: 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)
+  - title: Best Paper Award
+    awarder: 25th International Conference on Human-Computer Interaction (HCII’23)
+  - title: 3rd Best Master Dissertation
+    awarder: Concourse of Thesis and Dissertations (Student André Regino) at the XXVIII Brazilian Symposium on Multimedia and Web (WebMedia’22)
+  - title: Best Student Paper Award
+    awarder: 14th International Conference on Knowledge Engineering and Ontology Development (KEOD’22)
+  - title: Best Paper Award
+    awarder: 24th International Conference on Enterprise Information Systems (ICEIS’22)
+  - title: Paper Honorable Mention Award
+    awarder: XV Brazilian e-Science Workshop (BreSci) collocated with the XLI Brazilian Computer Society Congress 2021, Brazil
+  - title: Best paper presentation
+    awarder: 6th Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at the ISWC 2020
+  - title: Best Paper Nominee
+    awarder: XVII Brazilian Congress in Health Informatics 2020, Brazil
+  - title: Best Master Thesis proposal
+    awarder: XIII Seminar on Ontology Research in Brazil - IV Doctoral and Masters Consortium on Ontologies (Student André Gomes Regino), Brazil
+  - title: Best Paper Nominee
+    awarder: 22nd International Conference on Enterprise Information Systems 2020, Czech Republic
+  - title: Best Paper Award
+    awarder: IEEE International Conference WETICE 2016, France
+  - title: Best 2016 Ph.D. Thesis Award
+    awarder: International Association for Research in Knowledge Extraction and Management (EGC), France
+  - title: Finalist in the 2015 Cor Baayen Award
+    awarder: ERCIM (European Research Consortium for Informatics and Mathematics) for grace promising young researchers in Computer Science
+  - title: Best Short Paper Award
+    awarder: XXX Brazilian Symposium on Databases (SBBD), Brazil
+  - title: 2nd Project Prize Award
+    awarder: 3rd Extended Semantic Web Summer School, Greece
+  - title: Best 2011 M.Sc. Thesis Award
+    awarder: Institute of Computing at the University of Campinas, Brazil
+  - title: M.Sc. Thesis finalist at the 2011
+    awarder: Concourse of Thesis promoted by the Brazilian Computer Society, Brazil
+  - title: Best Paper Award
+    awarder: International Conference on Information Society in 2011, United Kingdom
 ---
 
 ## Hello!
 
-I'm an Associate professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at the UNICAMP and assistant researcher at the Public Research Centre Henri Tudor, Luxembourg. Currently, Director of the Nucleus of Informatics Applied to Education (NIED/Unicamp) and Head of the Laboratory of Human-Digital Artifact Interaction (LInterHAD) at the IC/Unicamp. Associated Researcher in AI for Marketing at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC).
+Associate professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at UNICAMP and assistant researcher at the Public Research Centre Henri Tudor, Luxembourg. I earned a Ph.D. in Computer Science (2014) from the Faculty of Sciences at the University of Paris-Sud XI, France. I hold a M.Sc. Degree in Computer Science (2011) and B.Tech. Degree in Informatics (2008) from UNICAMP. My research interests include Natural Language Understanding, Generative and Agentic Artificial Intelligence, Knowledge Graphs, Computational Ontologies, Semantic Information Retrieval and Representation, and Human-AI Interaction.
