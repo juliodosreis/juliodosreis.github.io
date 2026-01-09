@@ -10,8 +10,8 @@ first_name: Julio Cesar
 last_name: dos Reis
 
 # Status emoji
-#status:
-#  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,24 +33,24 @@ profiles:
   - icon: at-symbol
     url: 'mailto:dosreis@unicamp.br'
     label: E-mail Me
- # - icon: brands/x
- #   url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/juliodosreis
-  - icon: brands/github
-    url: https://github.com/juliodosreis
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/juliocesardosreis/
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/2971609673131726
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=NpBP3-QAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9545-2098
-  - icon: academicons/dblp
-    url: https://dblp.uni-trier.de/pid/71/7193.html
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Julio-Dos-Reis
-  - icon: academicons/lattes
-    url: http://lattes.cnpq.br/2971609673131726
+  - icon: academicons/dblp
+    url: https://dblp.uni-trier.de/pid/71/7193.html
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/juliodosreis
+  # - icon: brands/github
+  #   url: https://github.com/juliodosreis
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/juliocesardosreis/
 
 interests:
   - Generative Artificial Intelligence
