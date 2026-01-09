@@ -53,10 +53,15 @@ profiles:
     url: http://lattes.cnpq.br/2971609673131726
 
 interests:
-  - Artificial Intelligence
-  - Computational Ontologies
-  - Natural Language Processing
-  - Human-Computer Interaction 
+  - Generative Artificial Intelligence
+  - Natural Language Understanding
+  - Computational Semantics
+  - Semantic Information Retrieval
+  - Knowledge Graphs
+  - Knowledge Evolution 
+  - Ontology Engineering
+  - User Experience
+  - Interaction Design
 
 education:
   - area: Ph.D. in Computer Science
