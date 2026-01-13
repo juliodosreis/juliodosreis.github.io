@@ -1,5 +1,4 @@
 ---
-title: 'Publications'
 date: 2026-01-12
 #type: landing
 ---
