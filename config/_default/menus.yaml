@@ -11,11 +11,11 @@ main:
     url: experience/
     weight: 11
   - name: Awards
-    url: /#awards
+    url: /#awards/
     #url: awards/    
     weight: 12  
   - name: Publications
-    url: publication/
+    url: publications/
     weight: 20
   - name: Projects
     url: projects/
