@@ -375,6 +375,126 @@
     
     <item>
       <title></title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;research-teams&#34;&gt;Research Teams&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+ (Laboratory of Human-Digital Artifact Interaction, IC/Unicamp)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+ (Laboratory of Information Systems, IC/Unicamp)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+ (Nucleus of Informatics applied to Education)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+ (Large-scale Heterogeneous Data and Knowledge)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;masters-degree-projects&#34;&gt;Master&amp;rsquo;s Degree Projects&lt;/h2&gt;
+&lt;p&gt;Scholarships are available for students regularly enrolled in the IC-UNICAMP graduate program (master&amp;rsquo;s level) to investigate the following research topics.&lt;/p&gt;
+&lt;h2 id=&#34;current-scientific-projects&#34;&gt;Current Scientific Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CNPq Universal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Customization of Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Research Productivity Grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application of Large Language Models for online monitoring of industrial processes. Industry Project in partnership with Petrobras S. A.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Construction and Use of Knowledge Bases in Automated Question and Answer Systems. Industry Project in partnership with GoBots Intelligent Solutions Ltda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;past-projects&#34;&gt;Past Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Learning Support via Natural Language Questions and Answers Systems. PRP/Unicamp Research grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KGevol: Dynamic Knowledge Graphs Extracted from Unstructured Textual Information. FAPESP Research grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interactive Construction of Knowledge Graphs for Clinical Information Capture. FAPESP Research Industrial Grant with Precision Data Ltda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Networked Remote Education for All - a low-cost virtual environment for vulnerable populations. FAPESP Research Grant with NIED&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+.	FAPESP Research Grant - Research, Innovation and Dissemination Centers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP Young Investigator grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Methods for semantic analysis of dialog flows in natural language in Portuguese. Industry Project in partnership with CI&amp;amp;T Software S/A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP Sprint grant with Swinburne University of Technology, Australia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dynamic Knowledge Graphs from Scientific Textual Documents. Unicamp grant with Cardiff University, UK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP Thematic Project grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arapuan: Interoperability of agricultural data in eScience. CNPq Research grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Geo-spatial processing of IOT streams in digital agriculture: the case for actor database systems. FAPESP Sprint grant with the University of Copenhagen, Denmark&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP/MCTI/MC/CGI grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling and Developing Actor Database Applications. A grant from the Danish Agency for Science and Higher Education (International Network Programme with the University of Copenhagen, Denmark)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. Postdoctoral FAPESP grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DynaMO: Reconciliation of Dynamic Medical Knowledge Organization Systems. Grant from the Luxembourg National Research Fund at the Luxembourg Institute of Science and Technology&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP/Microsoft Research grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. CNPq grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Harpia: Risk Analysis and Applied Artificial Intelligence&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/students/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/students/</guid>
@@ -1104,7 +1224,7 @@
 
 
 
-&lt;div id=&#34;chart-473169528&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-826741539&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1122,7 +1242,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-473169528&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-826741539&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
