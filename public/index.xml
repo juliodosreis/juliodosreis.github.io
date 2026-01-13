@@ -707,9 +707,82 @@
     <item>
       <title>Awards</title>
       <link>http://localhost:1313/awards/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/awards/</guid>
-      <description>&lt;p&gt;Awards&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Honorable mention to Best Ph.D. Thesis Award at the Concourse of Thesis and Dissertations (Student André Regino) at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award, 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Contender at the 29th International Conference on Natural Language &amp;amp; Information Systems (NLDB’24)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the VIII Workshop de Computação Urbana (CoUrb’24) of the 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Student Paper Award Nominee at the 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Candidate at the 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the 25th International Conference on Human-Computer Interaction (HCII’23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3rd Best Master Dissertation at the Concourse of Thesis and Dissertations (Student André Regino) at the XXVIII Brazilian Symposium on Multimedia and Web (WebMedia’22)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Student Paper Award at the 14th International Conference on Knowledge Engineering and Ontology Development (KEOD’22)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the 24th International Conference on Enterprise Information Systems (ICEIS’22)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paper Honorable Mention Award at the XV Brazilian e-Science Workshop (BreSci) collocated with the XLI Brazilian Computer Society Congress 2021, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best paper presentation at the 6th Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at the ISWC 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Nominee at the XVII Brazilian Congress in Health Informatics 2020, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Master Thesis proposal at the XIII Seminar on Ontology Research in Brazil - IV Doctoral and Masters Consortium on Ontologies (Student André Gomes Regino), Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Nominee at the 22nd International Conference on Enterprise Information Systems 2020, Czech Republic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award in the IEEE International Conference WETICE 2016, France&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best 2016 Ph.D. Thesis Award given by the International Association for Research in Knowledge Extraction and Management (EGC), France&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finalist in the 2015 Cor Baayen Award sponsored by the ERCIM (European Research Consortium for Informatics and Mathematics) for grace promising young researchers in Computer Science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Short Paper Award at the XXX Brazilian Symposium on Databases (SBBD), Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2nd Project Prize Award at the 3rd Extended Semantic Web Summer School, Greece&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best 2011 M.Sc. Thesis Award by the Institute of Computing at the University of Campinas, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;M.Sc. Thesis finalist at the 2011 Concourse of Thesis promoted by the Brazilian Computer Society, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the International Conference on Information Society in 2011, United Kingdom&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1002,7 +1075,7 @@
 
 
 
-&lt;div id=&#34;chart-653278914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-628753941&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1020,7 +1093,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-653278914&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-628753941&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

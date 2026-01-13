@@ -179,48 +179,6 @@ awards:
     awarder: 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025)
   - title: Best Paper Award
     awarder: XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25)
-  - title: Best Paper Contender
-    awarder: 29th International Conference on Natural Language & Information Systems (NLDB’24)
-  - title: Best Paper Award
-    awarder: VIII Workshop de Computação Urbana (CoUrb’24) of the 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos 
-  - title: Best Student Paper Award Nominee
-    awarder: 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)
-  - title: Best Paper Candidate
-    awarder: 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)
-  - title: Best Paper Award
-    awarder: 25th International Conference on Human-Computer Interaction (HCII’23)
-  - title: 3rd Best Master Dissertation
-    awarder: Concourse of Thesis and Dissertations (Student André Regino) at the XXVIII Brazilian Symposium on Multimedia and Web (WebMedia’22)
-  - title: Best Student Paper Award
-    awarder: 14th International Conference on Knowledge Engineering and Ontology Development (KEOD’22)
-  - title: Best Paper Award
-    awarder: 24th International Conference on Enterprise Information Systems (ICEIS’22)
-  - title: Paper Honorable Mention Award
-    awarder: XV Brazilian e-Science Workshop (BreSci) collocated with the XLI Brazilian Computer Society Congress 2021, Brazil
-  - title: Best paper presentation
-    awarder: 6th Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at the ISWC 2020
-  - title: Best Paper Nominee
-    awarder: XVII Brazilian Congress in Health Informatics 2020, Brazil
-  - title: Best Master Thesis proposal
-    awarder: XIII Seminar on Ontology Research in Brazil - IV Doctoral and Masters Consortium on Ontologies (Student André Gomes Regino), Brazil
-  - title: Best Paper Nominee
-    awarder: 22nd International Conference on Enterprise Information Systems 2020, Czech Republic
-  - title: Best Paper Award
-    awarder: IEEE International Conference WETICE 2016, France
-  - title: Best 2016 Ph.D. Thesis Award
-    awarder: International Association for Research in Knowledge Extraction and Management (EGC), France
-  - title: Finalist in the 2015 Cor Baayen Award
-    awarder: ERCIM (European Research Consortium for Informatics and Mathematics) for grace promising young researchers in Computer Science
-  - title: Best Short Paper Award
-    awarder: XXX Brazilian Symposium on Databases (SBBD), Brazil
-  - title: 2nd Project Prize Award
-    awarder: 3rd Extended Semantic Web Summer School, Greece
-  - title: Best 2011 M.Sc. Thesis Award
-    awarder: Institute of Computing at the University of Campinas, Brazil
-  - title: M.Sc. Thesis finalist at the 2011
-    awarder: Concourse of Thesis promoted by the Brazilian Computer Society, Brazil
-  - title: Best Paper Award
-    awarder: International Conference on Information Society in 2011, United Kingdom
 ---
 
 ## Hello!
