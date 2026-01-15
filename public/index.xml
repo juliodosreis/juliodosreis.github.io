@@ -46,28 +46,7 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;research-teams&#34;&gt;Research Teams&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
- (Laboratory of Human-Digital Artifact Interaction, IC/Unicamp)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
- (Laboratory of Information Systems, IC/Unicamp)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
- (Nucleus of Informatics applied to Education)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
- (Large-scale Heterogeneous Data and Knowledge)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;masters-degree-projects&#34;&gt;Master&amp;rsquo;s Degree Projects&lt;/h2&gt;
-&lt;p&gt;Scholarships are available for students regularly enrolled in the IC-UNICAMP graduate program (master&amp;rsquo;s level) to investigate the following research topics.&lt;/p&gt;
-&lt;h2 id=&#34;current-scientific-projects&#34;&gt;Current Scientific Projects&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;current-scientific-projects&#34;&gt;Current Scientific Projects&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;CNPq Universal&lt;/p&gt;
@@ -825,6 +804,56 @@
     </item>
     
     <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MC750: Human-Computer Interface Construction - 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;postgraduate&#34;&gt;Postgraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MO656: Introduction to the Semantic Web - 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;past-courses&#34;&gt;Past Courses&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate-1&#34;&gt;Undergraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MC750: Human-Computer Interface Construction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC302: Object-Oriented Programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC202: Data Structures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC102: Algorithms and Computer Programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operating Systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;postgraduate-1&#34;&gt;Postgraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MO657: Computational Ontology Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MO826: Topics in Information Systems – Semantic Web&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MO410: Databases&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Awards</title>
       <link>http://localhost:1313/awards/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
@@ -1187,7 +1216,7 @@
 
 
 
-&lt;div id=&#34;chart-691853427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-673825194&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1205,7 +1234,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-691853427&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-673825194&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1654,56 +1683,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
-      <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h2&gt;
-&lt;h3 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;MC750: Human-Computer Interface Construction - 
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;postgraduate&#34;&gt;Postgraduate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;MO656: Introduction to the Semantic Web - 
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;past-courses&#34;&gt;Past Courses&lt;/h2&gt;
-&lt;h3 id=&#34;undergraduate-1&#34;&gt;Undergraduate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;MC750: Human-Computer Interface Construction&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MC302: Object-Oriented Programming&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MC202: Data Structures&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MC102: Algorithms and Computer Programming&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Operating Systems&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;postgraduate-1&#34;&gt;Postgraduate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;MO657: Computational Ontology Engineering&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MO826: Topics in Information Systems – Semantic Web&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MO410: Databases&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

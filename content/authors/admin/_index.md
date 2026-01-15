@@ -43,14 +43,14 @@ profiles:
     url: https://www.researchgate.net/profile/Julio-Dos-Reis
   - icon: academicons/dblp
     url: https://dblp.uni-trier.de/pid/71/7193.html
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/juliodosreis
-  # - icon: brands/github
-  #   url: https://github.com/juliodosreis
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/juliocesardosreis/
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/juliodosreis
+  - icon: brands/github
+    url: https://github.com/juliodosreis
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/juliocesardosreis/
 
 interests:
   - Generative Artificial Intelligence
@@ -66,61 +66,59 @@ interests:
 education:
   - area: Ph.D. in Computer Science
     institution: University of Paris-XI, France
-    date_start: 2011-01-01
-    date_end: 2024-12-31
-    summary: |
-      Mapping Adaptation between Biomedical Knowledge Organization Systems. Supervised by Professor Chantal Reynaud-Delaître.
+    date_start: 2011-09-01
+    date_end: 2024-10-31
+    # summary: |
+    #   Mapping Adaptation between Biomedical Knowledge Organization Systems. Supervised by Professor Chantal Reynaud-Delaître.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'santec.tudor.lu/_media/team/dosreis/dos_reis_julio_cesar_24102014_vfinal.pdf'
   - area: MS.c. in Computer Science
     institution: University of Campinas, Brazil
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2009-03-01
+    date_end: 2011-03-31
+    button:
+      text: 'Read Thesis'
+      url: 'www.bibliotecadigital.unicamp.br/document/?code=000798651'
   - area: B.Tech. in Informatics
     institution: University of Campinas, Brazil
-    date_start: 2011-01-01
-    date_end: 2014-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2005-02-01
+    date_end: 2008-08-31
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Associate Professor of Computer Science
+    company_name: Unicamp
+    date_start: 2022-02-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+
+  - position: Director
+    company_name: Nucleus of Informatics Applied to Education
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2022-03-01
+    date_end: 2026-02-28
+  - position: Assistant Professor of Computer Science
+    company_name: Unicamp
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-06-01
+    date_end: 2022-01-31
+  - position: Postdoctoral Research
+    company_name: Unicamp
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-03-01
+    date_end: 2017-06-30
+  - position: Assistant Researcher
+    company_name: Luxembourg Institute of Science and Technology
+    company_url: ''
+    company_logo: ''
+    date_start: 2011-09-01
+    date_end: 2014-12-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+# See https://heroicons.com/outline
 skills:
   - name: Technical Skills
     items:
@@ -132,7 +130,11 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: llm
+        description: ''
+        percent: 40
+        icon: chat-bubble-left-right
+      - name: sparql
         description: ''
         percent: 40
         icon: circle-stack
@@ -140,14 +142,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        icon: globe-alt
       - name: Photography
         description: ''
         percent: 80
