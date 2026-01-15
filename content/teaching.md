@@ -1,28 +1,25 @@
----
-title: 'Teaching'
-date: 2026-01-12
-#type: landing
----
-
 ## Current Courses
-• MC750: Construção de Interfaces Homem-Computador (1/2023) - [Lesson Plan]()
+### Undergraduate
+- MC750: Human-Computer Interface Construction - [Lesson Plan]()
 
-• MO656: Introdução à Web Semântica (Pós-graduação) (2/2023) - [Lesson Plan]()
+### Postgraduate
+- MO656: Introduction to the Semantic Web - [Lesson Plan]()
 
 ## Past Courses
+### Undergraduate
+- MC750: Human-Computer Interface Construction
 
-• MO657: Engenharia de Ontologias Computacionais (Pós-graduação) (2/2020) - [Lesson Plan]()
+- MC302: Object-Oriented Programming
 
-• MO826: Tópicos em Sistemas de Informação – Web Semântica (Pós-graduação) (2/2019) - [Lesson Plan]()
+- MC202: Data Structures
 
-• MC750: Construção de Interfaces Homem-Computador (2/2018; 1/2019; 2/2019; 1/2020; 2/2020) - [Lesson Plan]()
+- MC102: Algorithms and Computer Programming
 
-• MO410: Banco de Dados (Pós-graduação) (2/2018) - [Lesson Plan]()
+- Operating Systems
 
-• MC302: Programação Orientada a Objetos (1/2018) - [Lesson Plan]()
+### Postgraduate
+- MO657: Computational Ontology Engineering
 
-• MC202: Estrutura de Dados (2/2017) - [Lesson Plan]()
+- MO826: Topics in Information Systems – Semantic Web
 
-• MC102: Algoritmos e Programação de Computadores (1/2016) - [Lesson Plan]()
-
-• Sistemas Operacionais (1/2015; 2/2015)
+- MO410: Databases

@@ -907,35 +907,6 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
-      <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h2&gt;
-&lt;p&gt;• MC750: Construção de Interfaces Homem-Computador (1/2023) - 
-&lt;/p&gt;
-&lt;p&gt;• MO656: Introdução à Web Semântica (Pós-graduação) (2/2023) - 
-&lt;/p&gt;
-&lt;h2 id=&#34;past-courses&#34;&gt;Past Courses&lt;/h2&gt;
-&lt;p&gt;• MO657: Engenharia de Ontologias Computacionais (Pós-graduação) (2/2020) - 
-&lt;/p&gt;
-&lt;p&gt;• MO826: Tópicos em Sistemas de Informação – Web Semântica (Pós-graduação) (2/2019) - 
-&lt;/p&gt;
-&lt;p&gt;• MC750: Construção de Interfaces Homem-Computador (2/2018; 1/2019; 2/2019; 1/2020; 2/2020) - 
-&lt;/p&gt;
-&lt;p&gt;• MO410: Banco de Dados (Pós-graduação) (2/2018) - 
-&lt;/p&gt;
-&lt;p&gt;• MC302: Programação Orientada a Objetos (1/2018) - 
-&lt;/p&gt;
-&lt;p&gt;• MC202: Estrutura de Dados (2/2017) - 
-&lt;/p&gt;
-&lt;p&gt;• MC102: Algoritmos e Programação de Computadores (1/2016) - 
-&lt;/p&gt;
-&lt;p&gt;• Sistemas Operacionais (1/2015; 2/2015)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
@@ -1224,7 +1195,7 @@
 
 
 
-&lt;div id=&#34;chart-721639548&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-713452968&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1242,7 +1213,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-721639548&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-713452968&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1691,6 +1662,56 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MC750: Human-Computer Interface Construction - 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;postgraduate&#34;&gt;Postgraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MO656: Introduction to the Semantic Web - 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;past-courses&#34;&gt;Past Courses&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate-1&#34;&gt;Undergraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MC750: Human-Computer Interface Construction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC302: Object-Oriented Programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC202: Data Structures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC102: Algorithms and Computer Programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operating Systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;postgraduate-1&#34;&gt;Postgraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MO657: Computational Ontology Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MO826: Topics in Information Systems – Semantic Web&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MO410: Databases&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
