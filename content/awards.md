@@ -3,7 +3,6 @@ title: 'Awards'
 date: 2026-01-12
 #type: landing
 ---
-
 - Honorable mention to Best Ph.D. Thesis Award at the Concourse of Thesis and Dissertations (Student André Regino) at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25)
 
 - Best Paper Award, 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025).

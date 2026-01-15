@@ -2,7 +2,6 @@
 date: 2026-01-12
 #type: landing
 ---
-
 ## Journals
 ### 2026
 - SANTOS, F.; DOS REIS, J. C.; DA SILVA REIS, M. 2026. [Enhancing Clustering Stability, Compactness, and Separation in Multimodal Data Environments](https://doi.org/10.1016/j.datak.2025.102536). Data & Knowledge Engineering (DKE). Vol 162. ISSN: 0169-023X

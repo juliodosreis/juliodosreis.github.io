@@ -1,3 +1,7 @@
+---
+date: 2026-01-12
+#type: landing
+---
 ## Current Courses
 ### Undergraduate
 - MC750: Human-Computer Interface Construction - [Lesson Plan]()
