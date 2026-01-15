@@ -68,8 +68,6 @@ education:
     institution: University of Paris-XI, France
     date_start: 2011-09-01
     date_end: 2024-10-31
-    # summary: |
-    #   Mapping Adaptation between Biomedical Knowledge Organization Systems. Supervised by Professor Chantal Reynaud-Delaître.
     button:
       text: 'Read Thesis'
       url: 'santec.tudor.lu/_media/team/dosreis/dos_reis_julio_cesar_24102014_vfinal.pdf'
@@ -132,11 +130,11 @@ skills:
         icon: chart-bar
       - name: llm
         description: ''
-        percent: 40
+        percent: 80
         icon: chat-bubble-left-right
       - name: sparql
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -160,17 +158,7 @@ languages:
     percent: 100
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  # - title: Award 1
-  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-  #   date: '2023-11-25'
-  #   awarder: Abc
-  #   icon: coursera
-  #   summary: |
-  #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Honorable mention to Best Ph.D. Thesis Award
     awarder: Concourse of Thesis and Dissertations (Student André Regino) at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25)
   - title: Best Paper Award
@@ -179,6 +167,4 @@ awards:
     awarder: XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25)
 ---
 
-## Hello!
-
-Associate professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at UNICAMP and assistant researcher at the Public Research Centre Henri Tudor, Luxembourg. I earned a Ph.D. in Computer Science (2014) from the Faculty of Sciences at the University of Paris-Sud XI, France. I hold a M.Sc. Degree in Computer Science (2011) and B.Tech. Degree in Informatics (2008) from UNICAMP. My research interests include Natural Language Understanding, Generative and Agentic Artificial Intelligence, Knowledge Graphs, Computational Ontologies, Semantic Information Retrieval and Representation, and Human-AI Interaction.
+I’m an Associate Professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at UNICAMP and Assistant Researcher at the Luxembourg Institute of Science and Technology, Luxembourg. Acted as Director of the Nucleus of Informatics Applied to Education (NIED/Unicamp). Currently, Head of the Laboratory of Human-Digital Artifact Interaction (LInterHAD) and Associate Researcher at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC).
