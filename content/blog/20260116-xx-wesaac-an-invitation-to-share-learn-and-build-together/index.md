@@ -1,12 +1,12 @@
 ---
 title: "XX WESAAC: An Invitation to Share, Learn, and Build Together"
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: "Invite to XX WESAAC: An Invitation to Share, Learn, and Build Together"
 date: 2026-01-16
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**BRACIS**](https://bracis.sbc.org.br/2026/)'
 
 authors:
   - admin
