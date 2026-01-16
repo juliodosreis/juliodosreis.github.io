@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 About my Research'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         My research agenda centers on investigating and developing methods and technologies for knowledge representation, semantic data management, and intelligent, human-centered systems. I have made sustained contributions to ontology engineering, knowledge graphs, Semantic Web technologies, and natural language processing, with particular emphasis on the evolution, alignment, and validation of dynamic knowledge structures. More recently, my investigations have expanded to include generative and agentic artificial intelligence, exploring the integration of language models with symbolic representations to support explainable, context-aware intelligent systems.
