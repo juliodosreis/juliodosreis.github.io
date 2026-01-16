@@ -1,11 +1,11 @@
 ---
 title: "Multi-Agent LLM Approach for Moderating E-Commerce Customer Service Responses"
 authors:
-- admin
-- GOMES, T.
-- REGINO, A. G.
-- CAUS, R.
-- CHICO, V. J. S.
+  - GOMES, T.
+  - REGINO, A. G.
+  - CAUS, R.
+  - CHICO, V. J. S.
+  - admin
 
 date: "2025-10-11T00:00:00Z"
 doi: ""

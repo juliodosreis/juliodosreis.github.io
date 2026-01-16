@@ -114,10 +114,10 @@ date: 2026-01-12
 
 ## Books
 ### 2023
-VALENTE, J. A.; BARANAUSKAS, M. C. C.; D’ABREU, J. V. V.; LINHALIS, F.; DOS REIS, J. C. 2023. [As quatro décadas do NIED: projetos, memórias e reflexões](https://www.nied.unicamp.br/wp-content/uploads/2023/12/Livro-Nied-40-anos-VALENTE,J.-A.-et-al.-As%20quatro-d%C3%A9cadas-do-NIED-projetos,-mem%C3%B3rias-e-reflex%C3%B5es.-Campinas,SP-BCCL-UNICAMP,2023.pdf). Campinas, SP: BCCL/UNICAMP. ISBN: 978-65-88816-57-8. DOI: 10.20396/ISBN9786588816578. (In Portuguese)
+- VALENTE, J. A.; BARANAUSKAS, M. C. C.; D’ABREU, J. V. V.; LINHALIS, F.; DOS REIS, J. C. 2023. [As quatro décadas do NIED: projetos, memórias e reflexões](https://www.nied.unicamp.br/wp-content/uploads/2023/12/Livro-Nied-40-anos-VALENTE,J.-A.-et-al.-As%20quatro-d%C3%A9cadas-do-NIED-projetos,-mem%C3%B3rias-e-reflex%C3%B5es.-Campinas,SP-BCCL-UNICAMP,2023.pdf). Campinas, SP: BCCL/UNICAMP. ISBN: 978-65-88816-57-8. DOI: 10.20396/ISBN9786588816578. (In Portuguese)
 
 ### 2022
-ORLANDI, F.; DAUX, D.; DOS REIS, J. C.; VIDAL, M. 2022. [Proceedings of the 7th Workshop on Managing the Evolution and Preservation of the Data Web (MEPDaW)](https://ceur-ws.org/Vol-3225/) co-located with the 20th International Semantic Web Conference (ISWC 2021), Virtual event, October 25th, 2021. CEUR Workshop Proceedings 3225, CEUR-WS.org
+- ORLANDI, F.; DAUX, D.; DOS REIS, J. C.; VIDAL, M. 2022. [Proceedings of the 7th Workshop on Managing the Evolution and Preservation of the Data Web (MEPDaW)](https://ceur-ws.org/Vol-3225/) co-located with the 20th International Semantic Web Conference (ISWC 2021), Virtual event, October 25th, 2021. CEUR Workshop Proceedings 3225, CEUR-WS.org
 
 ## Book Chapters
 ### 2025
@@ -157,3 +157,4 @@ ORLANDI, F.; DAUX, D.; DOS REIS, J. C.; VIDAL, M. 2022. [Proceedings of the 7th 
 - DOS REIS, J. C.; BONACIN, R; BARANAUSKAS, M. C. C. 2011. [Prospecting an Inclusive Search Mechanism for Social Network Services](link.springer.com/chapter/10.1007/978-3-642-19802-1_38?LI=true). In ICEIS 2010 – Revised Selected Papers. LNBIP. Springer. Vol. 73, pp. 555-570.
 
 - DOS REIS, J. C.; BONACIN, R.; MARTINS, M. C. 2011. [Designing Mobile Phone Interfaces for Collaborative Learning in Everyday Life](santec.tudor.lu/_media/team/dosreis/caplivro_mobile.pdf). In Mobile Phones: Technology, Networks and User Issues. Micaela C. Barnes and Neil P. Meyers (Eds.), Nova Science Publishers, Inc. pp. 133-154
+

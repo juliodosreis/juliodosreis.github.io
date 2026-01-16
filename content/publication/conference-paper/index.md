@@ -1,13 +1,13 @@
 ---
 title: 'Suggesting Product Prices in Automotive E-commerce: A Study Assessing Regression Models and Explicability'
 authors:
-  - admin
   - REGINO, A. G.
   - SHIMIZU, G. Y.
   - ZAGATTI, F. R.
   - LOPES, F. L.
   - BONACIN, R.
   - CIFERRI, C. D. A.
+  - admin
 
 date: '2026-01-01T00:00:00Z'
 doi: ''

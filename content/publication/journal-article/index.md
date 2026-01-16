@@ -1,9 +1,9 @@
 ---
 title: "Enhancing Clustering Stability, Compactness, and Separation in Multimodal Data Environments"
 authors:
-- admin
 - SANTOS, F.
 - DA SILVA REIS, M.
+- admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

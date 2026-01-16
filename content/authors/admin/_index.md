@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jreis@ic.unicamp.br'
+    url: 'mailto:dosreis@unicamp.br'
     label: E-mail Me
   - icon: academicons/lattes
     url: http://lattes.cnpq.br/2971609673131726
@@ -43,8 +43,6 @@ profiles:
     url: https://www.researchgate.net/profile/Julio-Dos-Reis
   - icon: academicons/dblp
     url: https://dblp.uni-trier.de/pid/71/7193.html
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/juliodosreis
   - icon: brands/github
@@ -70,14 +68,14 @@ education:
     date_end: 2024-10-31
     button:
       text: 'Read Thesis'
-      url: 'santec.tudor.lu/_media/team/dosreis/dos_reis_julio_cesar_24102014_vfinal.pdf'
-  - area: MS.c. in Computer Science
+      url: 'https://drive.google.com/file/d/1FDaa0TsLP8u3S8mc0JfdB2aA2qTCouqm/view?usp=sharing'
+  - area: M.Sc. in Computer Science
     institution: University of Campinas, Brazil
     date_start: 2009-03-01
     date_end: 2011-03-31
     button:
       text: 'Read Thesis'
-      url: 'www.bibliotecadigital.unicamp.br/document/?code=000798651'
+      url: 'https://drive.google.com/file/d/1T8gWPMJxYePg_IA5AtC01QcfxKG_8ak1/view?usp=sharing'
   - area: B.Tech. in Informatics
     institution: University of Campinas, Brazil
     date_start: 2005-02-01
@@ -143,11 +141,15 @@ skills:
       - name: Tennis
         description: ''
         percent: 60
-        icon: globe-alt
+        icon: magnifying-glass-plus
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Traveling
+        description: ''
+        percent: 100
+        icon: map
 
 languages:
   - name: English

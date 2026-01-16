@@ -4,10 +4,10 @@ date: 2026-01-12
 ---
 ## Current Courses
 ### Undergraduate
-- MC750: Human-Computer Interface Construction - [Lesson Plan]()
+- MC750: Human-Computer Interface Construction - [Syllabus (in Portuguese)](https://www.dac.unicamp.br/portal/caderno-de-horarios/2026/1/S/G/IC/MC750)
 
-### Postgraduate
-- MO656: Introduction to the Semantic Web - [Lesson Plan]()
+### Graduate
+- MO656: Introduction to the Semantic Web - [Syllabus (in Portuguese)](https://www.dac.unicamp.br/portal/caderno-de-horarios/2025/2/S/P/IC/MO656)
 
 ## Past Courses
 ### Undergraduate
@@ -21,7 +21,7 @@ date: 2026-01-12
 
 - Operating Systems
 
-### Postgraduate
+### Graduate
 - MO657: Computational Ontology Engineering
 
 - MO826: Topics in Information Systems – Semantic Web

@@ -16,7 +16,7 @@ date: 2026-01-12
 - Paula Jeniffer dos Santos Viriato. Personalization of Automated Generation of Educational Tasks Based on Learning Analytics. IC/UNICAMP.
 
 ### M.Sc. Candidates
-Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/ UNICAMP.
+- Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/ UNICAMP.
 
 - Maria Clara Castro Higino de Sousa. Exploring Artificial Intelligence techniques in selection study groups and data collection in research clinics. IC/UNICAMP.
 
