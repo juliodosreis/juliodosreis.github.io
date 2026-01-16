@@ -1200,37 +1200,7 @@
     
 
 
-  <span class="font-bold">
-      Julio C. dos Reis</span><span class="relative inline-block ml-1" x-data="{ tooltip: false }">
-          <button
-            @mouseenter="tooltip = true"
-            @mouseleave="tooltip = false"
-            @click="tooltip = !tooltip"
-            class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
-            data-tooltip="Equal contribution"
-            aria-label="Equal contribution"
-            type="button"
-          >
-            <svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-              <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
-            </svg>
-          </button>
-          <div
-            x-show="tooltip"
-            x-transition:enter="transition ease-out duration-200"
-            x-transition:enter-start="opacity-0 transform scale-95"
-            x-transition:enter-end="opacity-100 transform scale-100"
-            x-transition:leave="transition ease-in duration-150"
-            x-transition:leave-start="opacity-100 transform scale-100"
-            x-transition:leave-end="opacity-0 transform scale-95"
-            @click.away="tooltip = false"
-            class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
-            x-cloak
-          >
-            Equal contribution
-            <div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"></div>
-          </div>
-        </span>, <span >
+  <span >
       SANTOS, F.</span><span class="relative inline-block ml-1" x-data="{ tooltip: false }">
           <button
             @mouseenter="tooltip = true"
@@ -1262,6 +1232,36 @@
           </div>
         </span>, <span >
       DA SILVA REIS, M.</span><span class="relative inline-block ml-1" x-data="{ tooltip: false }">
+          <button
+            @mouseenter="tooltip = true"
+            @mouseleave="tooltip = false"
+            @click="tooltip = !tooltip"
+            class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
+            data-tooltip="Equal contribution"
+            aria-label="Equal contribution"
+            type="button"
+          >
+            <svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+            </svg>
+          </button>
+          <div
+            x-show="tooltip"
+            x-transition:enter="transition ease-out duration-200"
+            x-transition:enter-start="opacity-0 transform scale-95"
+            x-transition:enter-end="opacity-100 transform scale-100"
+            x-transition:leave="transition ease-in duration-150"
+            x-transition:leave-start="opacity-100 transform scale-100"
+            x-transition:leave-end="opacity-0 transform scale-95"
+            @click.away="tooltip = false"
+            class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
+            x-cloak
+          >
+            Equal contribution
+            <div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"></div>
+          </div>
+        </span>, <span class="font-bold">
+      Julio C. dos Reis</span><span class="relative inline-block ml-1" x-data="{ tooltip: false }">
           <button
             @mouseenter="tooltip = true"
             @mouseleave="tooltip = false"
@@ -1418,14 +1418,14 @@
     
 
 
-  <span class="font-bold">
-      Julio C. dos Reis</span>, <span >
+  <span >
       REGINO, A. G.</span>, <span >
       SHIMIZU, G. Y.</span>, <span >
       ZAGATTI, F. R.</span>, <span >
       LOPES, F. L.</span>, <span >
       BONACIN, R.</span>, <span >
-      CIFERRI, C. D. A.</span>
+      CIFERRI, C. D. A.</span>, <span class="font-bold">
+      Julio C. dos Reis</span>
   </span>
   (2026).
   <a href="/publication/conference-paper/" class="underline">Suggesting Product Prices in Automotive E-commerce: A Study Assessing Regression Models and Explicability</a>.
@@ -1526,12 +1526,12 @@
     
 
 
-  <span class="font-bold">
-      Julio C. dos Reis</span>, <span >
+  <span >
       GOMES, T.</span>, <span >
       REGINO, A. G.</span>, <span >
       CAUS, R.</span>, <span >
-      CHICO, v. J. S.</span>
+      CHICO, v. J. S.</span>, <span class="font-bold">
+      Julio C. dos Reis</span>
   </span>
   (2025).
   <a href="/publication/preprint/" class="underline">Multi-Agent LLM Approach for Moderating E-Commerce Customer Service Responses</a>.
@@ -1727,7 +1727,7 @@
 
     
     <script>
-    window.__HBX_LOGS__ = {"currentPage":{"buildId":"1768582364","file":"publication/_index.md","kind":"section","layout":"","path":"/publication/","section":"publication","title":"Publications","type":"publication"},"deps":[{"path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","vendor":false,"version":""},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify","time":"2025-12-01 03:15:47 +0000 UTC","vendor":false,"version":"v1.2.0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","time":"2025-11-08 00:16:06 +0000 UTC","vendor":false,"version":"v0.10.0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics","time":"2025-12-01 03:15:47 +0000 UTC","vendor":false,"version":"v0.3.0"}],"entries":[{"buildId":"1768582364","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in event/example/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768582364},{"buildId":"1768582364","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/journal-article/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768582364},{"buildId":"1768582364","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/journal-article/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768582364},{"buildId":"1768582364","id":"","level":"info","message":"✅  Using sections from front matter for page / (found 4 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1768582364},{"buildId":"1768582364","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/conference-paper/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768582364},{"buildId":"1768582364","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/conference-paper/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768582364},{"buildId":"1768582364","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/preprint/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768582364},{"buildId":"1768582364","id":"","level":"info","message":"✅  Using sections from front matter for page /experience/ (found 3 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1768582364}],"generatedAt":"2026-01-16T16:52:44Z","hugo":{"goVersion":"go1.25.3","version":"0.152.2"},"modules":{"bloxTailwind":{"path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","version":"v0.10.0"}},"version":1};
+    window.__HBX_LOGS__ = {"currentPage":{"buildId":"1768600787","file":"publication/_index.md","kind":"section","layout":"","path":"/publication/","section":"publication","title":"Publications","type":"publication"},"deps":[{"path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","vendor":false,"version":""},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify","time":"2025-12-01 03:15:47 +0000 UTC","vendor":false,"version":"v1.2.0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/starters/academic-cv","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","time":"2025-11-08 00:16:06 +0000 UTC","vendor":false,"version":"v0.10.0"},{"owner_path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics","time":"2025-12-01 03:15:47 +0000 UTC","vendor":false,"version":"v0.3.0"}],"entries":[{"buildId":"1768600787","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in event/example/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768600787},{"buildId":"1768600787","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/journal-article/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768600787},{"buildId":"1768600787","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/journal-article/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768600787},{"buildId":"1768600787","id":"","level":"info","message":"✅  Using sections from front matter for page / (found 4 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1768600788},{"buildId":"1768600787","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/conference-paper/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768600787},{"buildId":"1768600787","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/conference-paper/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768600787},{"buildId":"1768600787","id":"callout-deprecated","level":"warn","message":"The `callout` shortcode is deprecated in publication/preprint/index.md. Use standard Markdown alert syntax instead, such as `\u003e [!NOTE]`.","page":"/","source":{"docs":"https://docs.hugoblox.com/reference/markdown/#callouts","name":"callout","type":"shortcode"},"timestamp":1768600787},{"buildId":"1768600787","id":"","level":"info","message":"✅  Using sections from front matter for page /experience/ (found 3 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1768600788}],"generatedAt":"2026-01-16T21:59:48Z","hugo":{"goVersion":"go1.25.3","version":"0.152.2"},"modules":{"bloxTailwind":{"path":"github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind","version":"v0.10.0"}},"version":1};
   </script>
     <script>
     (function(){
