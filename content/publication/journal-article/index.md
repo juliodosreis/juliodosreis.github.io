@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Enhancing Clustering Stability, Compactness, and Separation in Multimodal Data Environments"
 authors:
+- SANTOS, F.
+- DA SILVA REIS, M.
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Equal contribution"
+date: "2026-03-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.datak.2025.102536"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,50 +20,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Data & Knowledge Engineering (DKE)"
+publication_short: "Vol 162. ISSN: 0169-023X"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  Effective customer segmentation, crucial for tailored marketing strategies, relies on stable and distinct clustering methods. Traditional clustering approaches often focus on structured data, limiting their effectiveness when handling multimodal information. This study originally introduces a multimodal framework to enhance clustering stability, compactness, and separation by integrating categorical, numerical, and textual data. Our framework addresses existing limitations through three core components: a transformer-based embedding model for textual analysis, a data fusion layer for integrating diverse data types, and a generative model for refining cluster consistency. We rigorously assess the effectiveness of our framework using five stability metrics: Adjusted Rand Index (ARI), Adjusted Mutual Information Score (AMIS), BagClust (BG), Hierarchical Agglomerative Nesting (HAN), and Optimal Transport Alignment (OTA). Additionally, we use the Davies–Bouldin Score (DBS) to evaluate cluster compactness and separation. Real-world datasets (Yelp, Melbourne Airbnb, PetFinder.my, Women’s Clothing Reviews) were used to benchmark our approach against four existing methods. Results demonstrate that our framework achieves superior clustering stability, compactness, and separation, advancing multimodal learning for more nuanced customer segmentation.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0169023X25001314?via%3Dihub
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}

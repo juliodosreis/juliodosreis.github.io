@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio C. dos Reis</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julio C. dos Reis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Julio C. dos Reis</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including 
+ such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Clustering Stability, Compactness, and Separation in Multimodal Data Environments</title>
+      <link>http://localhost:1313/publication/journal-article/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XX WESAAC: An Invitation to Share, Learn, and Build Together</title>
+      <link>http://localhost:1313/blog/20260116-xx-wesaac-an-invitation-to-share-learn-and-build-together/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20260116-xx-wesaac-an-invitation-to-share-learn-and-build-together/</guid>
+      <description>&lt;p&gt;I am pleased to announce the XX edition of the Workshop-School on Agents, Environments, and Applications (WESAAC), for which I have the honor of serving as General Chair. WESAAC holds a special place in the Brazilian agents community, and this new edition continues its tradition as both a scientific forum and a formative space for researchers at different stages of their academic journey. 
+.&lt;/p&gt;
+&lt;p&gt;WESAAC was conceived as more than a conventional workshop. It is also an environment designed to encourage learning, dialogue, and collaboration. Over the years, it has brought together undergraduate students, M.Sc. and Ph.D. candidates, and senior researchers, creating a unique setting where early ideas are welcomed, ongoing projects are refined, and mature research is openly discussed. The program will combine short courses led by experienced researchers with technical sessions featuring full papers, short papers, and demo sessions.&lt;/p&gt;
+&lt;p&gt;As General Chair, one of my main goals for this edition is to reinforce WESAAC as a space where research-in-progress is valued as much as finalized results. I strongly encourage submissions that reflect different stages of academic work—whether exploratory, theoretical, applied, or interdisciplinary. Sharing challenges, partial results, and lessons learned is essential to building a strong, connected research community.&lt;/p&gt;
+&lt;p&gt;The XX WESAAC will take place alongside the 
+ in Cuiabá, MT, Brazil, in October 2026, offering participants the opportunity to engage not only with the agent community but also with the broader intelligent systems ecosystem, reinforcing WESAAC&amp;rsquo;s role as a key national forum for multi-agent systems research.&lt;/p&gt;
+&lt;p&gt;If you are working on autonomous agents, multi-agent systems, learning and coordination mechanisms, agent-based simulation, LLM agents, or real-world applications of agent technologies, I warmly invite you to submit your article. Further information on the important dates will be provided as appropriate. Whether this is your first academic contribution or part of a long-term research agenda, WESAAC is a place to exchange ideas, receive constructive feedback, connect with peers who share a passion for agent-based systems, and engage in meaningful discussions.&lt;/p&gt;
+&lt;p&gt;I look forward to welcoming you to this edition of WESAAC and to the conversations, ideas, and collaborations that will emerge from it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
+&lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SANTOS, F.; DOS REIS, J. C.; DA SILVA REIS, M. 2026. 
+. Data &amp;amp; Knowledge Engineering (DKE). Vol 162. ISSN: 0169-023X&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MOHAMED, A. H.; COSTA, J. B. D.; SOUZA, A. M. D. S.; VILLAS, L. A.; DOS REIS, J. C. 2025. 
+. Journal of Internet Services and Applications. Vol 16(1), pp. 543–553. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; DOS REIS, J. C. 2025. 
+. Semantic Web Journal (SWJ). ISSN: 1570-0844.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CHICO, V. J. S.; REGINO, A.; DOS REIS, J. C. 2025. BENCH4T3: A Framework to Create Benchmarks for Text-to-Triples Alignment Generation. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FIGUEIREDO, E.; ROSA, F.; DOS REIS, J. C.; DAMETTO, M.; BONACIN, R. 2024. 
+. Journal of Biomedical Informatics (JBI). ISSN: 1532-0464.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VICTORELLI, E. Z.; DOS REIS, J. C. 2024. 
+. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Haddadi, S. J.; Farshidvard, A.; DOS SANTOS SILVA, F.; DOS REIS, J. C.; DA SILVA REIS, M. 2024. 
+. Expert Systems with Applications (ESWA). Vol (246) ISSN: 0957-4174.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; DOS REIS, J. C.; BARANAUSKAS. M. C. C. 2024. 
+. Vol 27(2), pp. 87-113. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GASPAR, R.D.P.; GONÇALVES, V.P.; FILHO, G.P.R.; DOS REIS, J. C.; FERRUCIO, F. R.; BONACIN, R. 2024. 
+. Universal Access Information Society (UAIS), Vol. 23, pp. 305–328. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;REGINO, A.; CAUS, R.; HOCHGREB, V.; DOS REIS, J. C. 2023. 
+. SN Computer Science (SNCS). 4, 689. ISSN: 2662-995X. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SANCHES, M. F. S.; SA, J. M. C.; SOUZA, R. R.; SOUZA, A. M.; DOS REIS, J. C.; VILLAS, L. A. 2023.  
+. SN Computer Science (SNCS). ISSN: 2662-995X. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;YAMAMOTO, V. E.; DESTRO, J. M.; DOS REIS, J. C. 2023. 
+. Journal of Biomedical Semantics (JBMS). 14, 16 ISSN: 2041-1480. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;GASPAR, R. P.; GONÇALVES, V. P.; FILHO, G. P. R.; DOS REIS, J. C.; ROSA, F. F.; BONACIN, R. 2022. 
+. Universal Access in the Information Society (UAIS). ISSN: 1615-5289. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; DOS REIS, J. C.; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2022. 
+. Computers &amp;amp; Education (C&amp;amp;E). Vol 176. ISSN: 0360-1315. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BORGES, G. C.; DOS REIS, J. C.; MEDEIROS. C. B.; 2022. 
+. Revista de Informática Teórica e Aplicada (RITA). Vol. 29(1) pp. 91-101. ISSN: 2175-2745&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BRITO, D.; JUNIOR, J. L. C.; BONACIN, R.; DOS REIS, J. C. 2022. 
+. Revista de Informática Teórica e Aplicada (RITA). Vol. 29 (2), pp. 95-120. ISSN: 2175-2745&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BONACIN, R.; DOS REIS, J. C.; ARAUJO, J. A. R. 2022. 
+. Vol 21, pp. 691–716. ISSN: 1615-5289. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;TOSI, M. D. L.; DOS REIS, J. C. 2021. 
+. International Journal of Metadata, Semantics and Ontologies (IJMSO). Vol. 15 (2). pp 121-132.  ISSN: 1744-2621&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GOTTARDI, T; MEDEIROS. C. B.; DOS REIS, J. C. 2021. 
+. Journal of Information and Data Management (JIDM). Vol. 12(5), pp. 469–489. ISSN: 2178-7107&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VALENTE, J. A.; CACEFFO, R.; BONACIN, R.; DOS REIS, J. C.; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2021. 
+. British Journal of Educational Technology (BJET). Vol 52 (3), pp. 986-1003. ISSN:1467-8535. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TOSI, M. D. L.; DOS REIS, J. C. 2021. 
+. Journal of Informetrics (JOI). Vol 15 (1).  ISSN 1751-1577. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LOMBELLO, L. O.; CATINI, R.; BONACIN, R.; DOS REIS, J. C. 2021. 
+. SN Computer Science (SNCS). Vol 2 (6). ISSN: 2661-8907. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;REGINO, A. G.; MORSHED, A.; BONACIN, R.; DOS REIS, J. C.; SELLIS, T. 2021. 
+. Semantic Web Journal (SWJ). Vol 12 (3) pp. 517-541. ISSN: 1570-0844. DOI: 10.3233/SW-200398&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;VICTORELLI, E. Z.; DOS REIS, J. C.; HORNUNG, H.; PRADO, A. B. 2020. 
+. International Journal of Human-Computer Studies (IJHCS). ISSN: 1071-5819. Vol. 134, pp. 13-32.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ARAUJO, R. J.; DOS REIS, J. C.; BONACIN, R. 2020. 
+. International Journal of Universal Access in the Information Society (UAIS). ISSN: 1615-5289. Vol. 19(1), pp. 81-98.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MENDONÇA, R. R.; BRITO, D. F.; ROSA, F. F., DOS REIS, J. C.; BONACIN, R. 2020. 
+. Information. ISSN 2078-2489. Vol. 11(3), pp. 154.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ROSSANEZ, A.; DOS REIS, J. C.; TORRES, R. S.; RIBAUPIERRE, H. 2020. 
+. BMC Medical Informatics and Decision Making. Vol 20 (314) ISSN: 1472-6947. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TOSI, M. D. L.; DOS REIS, J. C. 2020. 
+. Journal of Information Science. Online first.  ISSN: 0165-5515 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;BONACIN, R.; DOS REIS, J. C.; BARANAUSKAS, M.C.C. 2019. 
+. SBC Journal on Interactive Systems. ISSN: 2236-3297. Vol 10(1), pp.1-15.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MOREIRA, E. A.; DOS REIS, J. C.; BARANAUSKAS, M.C.C. 2019. 
+. Brazilian Journal of Computers in Education (RBIE). ISSN: 1414-5685. Vol 27(1), pp. 58-82. DOI: 10.5753/RBIE.2019.27.01.58&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;BONACIN, R.; DOS REIS, J. C.; PERCIANI, E. M.; NABUCO, O. 2018. 
+. Ingénierie des Systèmes d&amp;rsquo;Information. Lavoisier. ISSN: 1633-1311. Vol 23 (2), pp.111-135. doi:10.3166/isi.23.2.111-135&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R.; JENSEN, C. J.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2018. 
+. Interacting with Computers (IwC). Oxford. ISSN: 0953-5438. Vol. 30 (4), pp. 315–335&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2018. 
+. Computers in Human Behavior (CHB). Elsevier. ISSN: 0747-5632. Vol. 85, pp. 146-162&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2016&#34;&gt;2016&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MOTA, M. S.; DOS REIS, J. C.; GOUTTE, S.; SANTANCHE, A. 2016. 
+. Journal of Information and Data Management (JIDM). ISSN: 2178-7107. Vol. 7 (3), pp. 231–246.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABACHA, A. B.; DOS REIS, J. C.; MRABET, Y; PRUSKI, C.; DA SILVEIRA, M. 2016. 
+. Journal of Biomedical Semantics (JBMS). ISSN: 2041-1480. Vol. 7 (1), pp. 1-15.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2015&#34;&gt;2015&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2015. 
+. Journal of Biomedical Informatics (JBI). Elsevier. ISSN: 1532-0464. Vol. 55 (0), pp. 153-173.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DA SILVEIRA, M.; DOS REIS, J. C.; PRUSKI, C. 2015. 
+. Yearbook of Medical Informatics. IMIA. ISSN: 0943-4747. Vol. 10(1), pp. 125-133.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; DINH, D.; DA SILVEIRA, M.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 
+. Artificial Intelligence in Medicine (AIIM). Elsevier. ISSN: 0933-3657. Vol. 63 (3), pp. 153-170.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. 
+. Expert Systems with Applications (ESWA). Elsevier. ISSN: 0957-4174.  Vol. 42 (3), pp. 1465-1478.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2014&#34;&gt;2014&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DINH, D.; DOS REIS, J. C.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. 
+. Journal of Web Semantics (JWS). Elsevier. ISSN: 1570-8268. Vol. 29 (0), pp. 53-66.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. 
+. Journal of Biomedical Informatics (JBI). Elsevier. ISSN: 1532-0464. Vol. 47, pp. 71-82.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R; BARANAUSKAS, M. C. C. 2014. 
+. International Journal of Universal Access in the Information Society (UAIS). Springer. ISSN: 1615-5289. Vol. 13 (2), pp. 125-145.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2013&#34;&gt;2013&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;BONACIN, R.; DOS REIS, J. C.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2013. 
+. International Journal of Collaborative Enterprise (IJCEnt). Inderscience. Vol. 3 (2/3), pp. 130-150.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FIGUEIREDO, A. M. C.; DOS REIS, J. C.; RODRIGUES, M. A. 2012. 
+. International Journal Multimedia and Image Processing (IJMIP). Vol. 3 (1/2), pp. 143-149.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2012&#34;&gt;2012&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; DOS REIS, J. C. 2012. 
+. International Journal for Digital Society (IJDS). Vol. 3, (1), pp. 595-604.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2011&#34;&gt;2011&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R; BARANAUSKAS, M. C. C. 2011. 
+. International Journal of Web Portals (IJWP). Vol. 3 (3), pp. 27-40.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. 
+. Revista Fonte. Vol. 8 (11), pp. 59-69. (in Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;h3 id=&#34;2023-1&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;VALENTE, J. A.; BARANAUSKAS, M. C. C.; D’ABREU, J. V. V.; LINHALIS, F.; DOS REIS, J. C. 2023. 
+. Campinas, SP: BCCL/UNICAMP. ISBN: 978-65-88816-57-8. DOI: 10.20396/ISBN9786588816578. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022-1&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ORLANDI, F.; DAUX, D.; DOS REIS, J. C.; VIDAL, M. 2022. 
+ co-located with the 20th International Semantic Web Conference (ISWC 2021), Virtual event, October 25th, 2021. CEUR Workshop Proceedings 3225, CEUR-WS.org&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book-chapters&#34;&gt;Book Chapters&lt;/h2&gt;
+&lt;h3 id=&#34;2025-1&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ZEVALLOS-QUISPE, J. M.; REGINO, A.; CHICO, V. J. S.; HOCHGREB, V.; DOS REIS, J. C. 2025. UpKG: A Framework for Integrating and Evaluating Novel Domains into Knowledge Graphs. In Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2023. Communications in Computer and Information Science Springer. Volume 2454; Chapter 10, Springer. F. Coenen et al. (Eds.): IC3K2023, CCIS2454, pp.1–29. 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-2&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;REGINO, A.; CAUS, R.; HOCHGREB, V.; DOS REIS, J. C. 2023. 
+. In Coenen, F., et al. Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2022. Communications in Computer and Information Science Springer. Vol. X1842, 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021-1&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DOS REIS, J. C.; DOS SANTOS, A. C.; DUARTE, E. F.; GONÇALVES, F. M.; FRANÇA, B. B. N.; BONACIN, R.; BARANAUSKAS, M.C.C. 2021. 
+. In Enterprise Information Systems - ICEIS 2020 – Revised Selected Papers. LNBIP. Springer. Vol. 417, pp. 730-752.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2020-1&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;VICTORELLI, E. Z.; DOS REIS, J. C.; DOS SANTOS, A. A. S.; SCHIOZER, D. J. 2020. 
+. In Filipe J., Śmiałek M., Brodsky A., Hammoudi S. (eds.) Enterprise Information Systems - ICEIS 2019 – Revised Selected Papers. LNBIP. Springer. Vol. 378, pp. 334-360.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VENERO, S. K.; SCHMERL, B.; DOS REIS, J. C.; MONTECCHI, L.; RUBIRA, C. M. F. 2020. 
+. In Enterprise, Business-Process and Information Systems Modeling S. Nurcan et al. (Eds.): BPMDS 2020/EMMSAD 2020, LNBIP. Vol. 387, pp. 1–16.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2018-1&#34;&gt;2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;D’ABREU, J. V. V.; DOS REIS, J. C. 2018. 
+. Em Tecnologia e Educação: passado, presente e o que está por vir. Organizador(es): José Armando Valente Fernanda Maria Pereira Freire; Flávia Linhalis Arantes – Campinas, SP, Brasil. NIED/UNICAMP. ISBN 978-85-88833-10-4 (In portuguese).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2017&#34;&gt;2017&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DOS REIS, J.C.; JENSEN, C. J.; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2017. 
+. S. Hammoudi et al. (Eds.): ICEIS 2016 – Revised Selected Papers. LNBIP. Springer. Vol. 291, pp. 414–435.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2016-1&#34;&gt;2016&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HORNUNG, H.; DOS REIS, J. C.; BONACIN, R. 2016. 
+. In Pragmáticas: vertentes contemporâneas. 1ed. Porto Alegre: EDIPUCRS - Editora Universitária da PUCRS, pp. 417-442. (in Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2015-1&#34;&gt;2015&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DOS REIS, J. C.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2015. 
+. In The Semantic Web: ESWC 2012 – Satellite Events. LNCS. Springer. Vol. 7540, pp. 163–175.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2013-1&#34;&gt;2013&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;BONACIN, R.; HORNUNG, H.; DOS REIS, J.C.; PEREIRA, R.; BARANAUSKAS, M.C.C. 2013. 
+. In ICEIS 2012 – Revised Selected Papers. LNBIP. Springer. Vol. 141, pp. 410-426.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R. 2013. 
+. In Codesign de Redes Digitais: Tecnologia e educação a serviço da inclusão social. Porto Alegre, Penso Editora. pp. 156-173 (in Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HORNUNG, H.; DOS REIS, J. C.; BONACIN, R. 2013. 
+. In Codesign de Redes Digitais: Tecnologia e educação a serviço da inclusão social. Porto Alegre, Penso Editora. pp. 275-293 (in Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2011-1&#34;&gt;2011&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R; BARANAUSKAS, M. C. C. 2011. 
+. In ICEIS 2010 – Revised Selected Papers. LNBIP. Springer. Vol. 73, pp. 555-570.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DOS REIS, J. C.; BONACIN, R.; MARTINS, M. C. 2011. 
+. In Mobile Phones: Technology, Networks and User Issues. Micaela C. Barnes and Neil P. Meyers (Eds.), Nova Science Publishers, Inc. pp. 133-154&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;current-scientific-projects&#34;&gt;Current Scientific Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CNPq Universal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Customization of Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Research Productivity Grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application of Large Language Models for online monitoring of industrial processes. Industry Project in partnership with Petrobras S. A.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Construction and Use of Knowledge Bases in Automated Question and Answer Systems. Industry Project in partnership with GoBots Intelligent Solutions Ltda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;past-projects&#34;&gt;Past Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Learning Support via Natural Language Questions and Answers Systems. PRP/Unicamp Research grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KGevol: Dynamic Knowledge Graphs Extracted from Unstructured Textual Information. FAPESP Research grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interactive Construction of Knowledge Graphs for Clinical Information Capture. FAPESP Research Industrial Grant with Precision Data Ltda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Networked Remote Education for All - a low-cost virtual environment for vulnerable populations. FAPESP Research Grant with NIED&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+.	FAPESP Research Grant - Research, Innovation and Dissemination Centers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP Young Investigator grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Methods for semantic analysis of dialog flows in natural language in Portuguese. Industry Project in partnership with CI&amp;amp;T Software S/A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP Sprint grant with Swinburne University of Technology, Australia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dynamic Knowledge Graphs from Scientific Textual Documents. Unicamp grant with Cardiff University, UK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP Thematic Project grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arapuan: Interoperability of agricultural data in eScience. CNPq Research grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Geo-spatial processing of IOT streams in digital agriculture: the case for actor database systems. FAPESP Sprint grant with the University of Copenhagen, Denmark&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP/MCTI/MC/CGI grant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling and Developing Actor Database Applications. A grant from the Danish Agency for Science and Higher Education (International Network Programme with the University of Copenhagen, Denmark)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. Postdoctoral FAPESP grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DynaMO: Reconciliation of Dynamic Medical Knowledge Organization Systems. Grant from the Luxembourg National Research Fund at the Luxembourg Institute of Science and Technology&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. FAPESP/Microsoft Research grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+. CNPq grant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Harpia: Risk Analysis and Applied Artificial Intelligence&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/students/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/students/</guid>
+      <description>&lt;h2 id=&#34;current-students&#34;&gt;Current Students&lt;/h2&gt;
+&lt;h3 id=&#34;postdoctoral-researchers&#34;&gt;Postdoctoral researchers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Eryck Pedro da Silva. Arquitetura multiagentes com base em LLMs para auxiliar tomadas de decisão.  Start: 01/12/2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;phd-candidates&#34;&gt;Ph.D. Candidates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fillipe dos Santos Silva. From Stable Clusters to Personalized Recommendations: Integrating Structured and Textual Data. IC/UNICAMP (H.IAAC – Industry Research Scholarship). Supervision with Prof. Marcelo da Silva Reis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Victor Jesus Sotelo Chico. Multimodal knowledge representation combining text and triple encoding for question-answering systems. IC/UNICAMP (Capes scholarship – GoBots industry research partnership).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paula Jeniffer dos Santos Viriato. Personalization of Automated Generation of Educational Tasks Based on Learning Analytics. IC/UNICAMP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;msc-candidates&#34;&gt;M.Sc. Candidates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/ UNICAMP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maria Clara Castro Higino de Sousa. Exploring Artificial Intelligence techniques in selection study groups and data collection in research clinics. IC/UNICAMP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rodrigo Oliveira Caus. Combining Frequently Asked Questions and Generative Models for Question Answering in e-Commerce. IC/UNICAMP (GoBots Industry Research Partnership).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Júlia Ferreira Tessler. Learning by teaching via LLM-Based Agents. IC/UNICAMP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ana Consuelo Portilho Paixão. Generative AI-based Feedback Assistant for Question Answering. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ronaldinho Vega Centeno Olivera. IC/UNICAMP. Adaptando Modelos de Linguagem para RAG. (Petrobras Industry Research Partnership)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Felipe Duarte Dominges. Compact LLMs for Portuguese Multiple Choice Questionnaire Generation: Accessible AI in Education. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alejandro Núñez Arroyo. Systematic evaluation framework for LLM-based multi-agent systems. IC/UNICAMP. (Petrobras Industry Research Partnership)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gabriel Lopes de Barros. 2025. Memory-based planning in cognitive multi-agent systems based on LLMs. (Petrobras Industry Research Partnership)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guilherme de Godoi Monteiro. 2025. Paradigmas conversacionais e suas implicações no mecanismo de planejamento em sistemas multiagentes baseados em LLMs. (Petrobras Industry Research Partnership)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lucas Bellusci D&amp;rsquo;Andréa. 2025. Data processing and integration for autonomous campaign management in marketplaces based on AI agents. (GoBots Industry Research Partnership)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiago Perrupato Antunes. 2025. AI Agents for Autonomous Management of Advertising Campaigns in Marketplaces. (GoBots Industry Research Partnership)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+&lt;h3 id=&#34;postdoctoral-researchers-1&#34;&gt;Postdoctoral researchers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rafael Roque de Souza. Framework for task-oriented chatbot development. IC/UNICAMP. (CI&amp;amp;T – Industry Research Scholarship) 01/02/2022 until 28/02/2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;doctorates&#34;&gt;Doctorates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sheila Venero. Conceptual Modeling and Automated Planning for Knowledge-Intensive Processes under Uncertainty. IC/UNICAMP. (CNPq scholarship). Supervision with Prof. Cecília Mary Fischer Rubira and Prof. Leonardo Montecchi. Ph.D. thesis. Defense: 14/11/2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Geovanna Evelyn Espinoza Taype. A Socioenactive System Empowered by AI Studied through Emotional Contagion Phenomenon. IC/UNICAMP (FAPESP scholarship). Supervision with Prof. Maria Cecília Calani Baranauskas. Ph.D. thesis. Defense: 22/08/2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;André Gomes Regino. Enhancing Knowledge Graphs with Large Language Models: Contributions to E-commerce Question Answering Systems. IC/UNICAMP (CNPq scholarship – GoBots industry research partnership). Ph.D. thesis. Defense: 25/04/2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luiz Aparecido Virginio Junior. Addressing Patient Safety in Healthcare: The Heath Information Technology Safety Maturity Model. Ph.D. thesis. Defense: 27/05/2024. IC/UNICAMP (CNPq scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Anderson Rossanez. Entity Evolution in Temporal Knowledge Graphs. Ph.D. thesis. Defense: 24/05/2024. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eliane Zambon Victorelli Dias. Design and Evaluation of the user experience in Human-Data Interaction: An approach combining guidelines and participatory design. Ph.D. thesis. Defense: 16/03/2021. IC/UNICAMP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Juliana Medeiros Destro. Cross-Language Ontology Matching. Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;masters&#34;&gt;Masters&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sadeeq Olalekan Bello. Cognitive Architecture-Driven Ensemble Learning for Real-Time Churn Prediction. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 19/12/2024. Supervision with Prof. Marcelo da Silva Reis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;William Ferreira da Silva Filho. MAEVE: A Dataset Generator Framework for Predicting Customer Behavior in Digital Marketing. IC/ UNICAMP (H.IAAC – industry research). M.Sc. thesis. Defense: 26/11/2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maria Jêsca Nobre De Queiroz. Imaginaction: Uma Perspectiva Socioenativa da Imaginação em Sistemas Interativos. IC/UNICAMP. (Capes scholarship). M.Sc. thesis. Defense: 25/11/2024. Supervision with Prof. Emanuel Felipe Duarte&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Patrick Anderson Matias de Araújo. Topic Modeling Influence on Sentiment Analysis from User-Generated Product Reviews. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 14/11/2024. Supervision with Prof. Marcelo da Silva Reis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aissa Hadj Mohamed. Efficient Communication in Federated Learning. IC/UNICAMP (Capes scholarship). M.Sc. thesis. Defense: 15/10/2024. Supervision with Prof. Leandro Aparecido Villas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jesamin Melissa Zevallos Quispe. UpKG: A Framework to Insert New Domains in Knowledge Graphs. M.Sc. thesis. Defense: 29/12/2023. IC/UNICAMP. (Capes scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jader Martins Camboim de Sá. Curricular Transfer Learning for Complex Grammar Acquisition in Language Models. M.Sc. thesis. Defense: 20/12/2022. IC/UNICAMP. Supervision with Prof. Leandro Aparecido Villas (CI&amp;amp;T – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gustavo Caetano Borges. Scientific Semantic Metasearch: A platform to scientific data recovery. M.Sc. thesis. Defense: 07/12/2022.  IC/UNICAMP. Supervision with Prof. Claudia Bauzer Medeiros&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paula Jeniffer dos Santos Viriato. Humanization Evaluation in Chatbots. M.Sc. thesis. Defense: 30/09/2022. IC/UNICAMP. Supervision with Prof. Leandro Aparecido Villas (CI&amp;amp;T – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Victor Jesus Sotelo Chico. Controlled natural language sentence generation in Portuguese language relying on transformer-based learning architectures: Results for the E-commerce domain. M.Sc. thesis. Defense: 29/03/2022. IC/UNICAMP. (Capes scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enio de Jesus Pontes Monteiro. Assisted Adaptation of Semantic Annotations on RDF datasets. M.Sc. thesis. Defense: 13/12/2021. IC/UNICAMP (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Marcos Vinícius Macêdo Borges. Semantic-enhanced recommendation of video lectures relying on ontology-based annotations. M.Sc. thesis. Defense: 10/03/2021. IC/UNICAMP (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;André Gomes Regino. Link Maintenance in the Semantic Web. M.Sc. thesis. Defense: 09/03/2021. IC/UNICAMP (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jeanfranco David Farfan Escobedo. Context-based intention classification in natural language dialog flow processing. M.Sc. thesis. Defense: 02/03/2021. IC/UNICAMP (Wavy – industry research scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Andressa Cristina dos Santos. Guidelines for the evaluation of systems in Socioenactive Scenarios. M.Sc. thesis. Defense: 05/08/2020. IC/UNICAMP, Brazil (CAPES scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mauro Dalle Lucca Tosi. Constructing Knowledge Graphs from Textual Documents for Scientific Literature Analysis. M.Sc. thesis. Defense: 09/03/2020. IC/UNICAMP, Brazil (CAPES scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ricardo José de Araújo. Ontology-based User Interface Adaptation for Colorblind People. M.Sc. thesis. Defense: 17/02/2017. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Edemar Mendes Perciani. Exploring Intentions in Information Retrieval of Electronic Health Records. M.Sc. thesis. Defense: 02/12/2016. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fagner Leal Pantoja. Generating Knowledge Networks from Phenotypic Descriptions. M.Sc. thesis. Defense: 05/08/2016. IC/UNICAMP, Brazil. Supervision with Prof. André Santanchè.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fabrício Matheus Gonçalves. Interaction Design of Computational Systems to Support Active Learning. M.Sc. thesis. Defense: 04/02/2016. IC/UNICAMP, Brazil. Collaboration in the supervision with Prof. M. Cecília C. Baranauskas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cristiane Josely Jensen. Interaction Design of Mechanisms to Support Users Expressing Intentions in Collaborative Systems. M.Sc. thesis. Defense: 04/11/2015. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;undergraduate-students--bachelor-final-projects&#34;&gt;Undergraduate Students – Bachelor Final Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bruno Amaral Teixeira de Freitas. 2025. Strive: Orquestração de cobranças coletivas via pagamentos instantâneos. Bachelor Final Project. IC-PFG-25-49.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiago Feliciano Gomes. 2025. Moderando Conteúdo Textual via Sistema Multiagentes com Modelos de Linguagem. Bachelor Final Project. IC-PFG-25-03.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Henrique Minetto Duarte Oliveira, Gabriel Dias de Oliveira. 2025. Design e Desenvolvimento de um Sistema de Apoio à Aprendizagem integrado com IA Generativa. Bachelor Final Project. IC-PFG-25-02.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mauricio Lorenzetti Bezerra. 2023. Monitoramento cardíaco não-invasivo aplicado à predição de estados afetivos. Bachelor Final Project. IC-PFG-23-56.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Andreis G. M. Purim. 2023. Active Learning for Natural Language Data Annotation.  Bachelor Final Project. IC-PFG-23-55.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enrico Delbuono. 2023. Transcrição Automática de Vídeos para Textos em Linguagem Natural. Bachelor Final Project. IC-PFG-23-54.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arthur Cemin Baia. 2023. Treinamento de Modelos Generativos Multilíngues: Aplicação em Sistemas de Perguntas e Respostas. Bachelor Final Project. IC-PFG-23-53.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gabriely da Cruz Camilo. 2023.  Design de uma Plataforma de Autoestudo. Bachelor Final Project. IMEEC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thiago Pinheiro. 2023. Geração de triplas RDF com base em Textos Clínicos. Bachelor Final Project. IC-PFG-23-03.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Renan H. Bastos. 2023. Geração Automática de alternativas em Linguagem Natural para Questões. Bachelor Final Project. IC-PFG-23-05.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gabriel de F. Garcia. 2023. Design de uma Aplicação Interativa para Captura de Informação Clínica. Bachelor Final Project. IC-PFG-23-04.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Caio Henrique Pardal Dos Santos. 2022. Concepção e implementação de um wizard para análise de grafos de conhecimentos temporais. Bachelor Final Project. IC-PFG-22-22.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paulo A. Martins Januário. 2022. Predição do estado afetivo de usuários a partir da análise de dados fisiológicos. Bachelor Final Project. IC-PFG-22-21.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luma Oliveira Lombello. 2022. Experiência multi-sensorial na captura de estados afetivos: Uma oficina para estudo do fenômeno. Bachelor Final Project. IC-PFG-22-20.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Danilo Miranda Gusicuma and Lucas Roberto de Souza. 2021. Avaliação na Plataforma OpenDesign.  Bachelor Final Project. IC-PFG-21-35.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eduardo Moreira Freitas de Souza. 2021. Visualização Interativa da Evolução de Grafos de Conhecimento. Bachelor Final Project. IC-PFG-21-34. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rodrigo Oliveira Caus. 2021. Investigando Similaridade para Diferenciar Instâncias de Conceitos em Grafos de Conhecimento. Bachelor Final Project. FEEC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luiz Eduardo Araujo Zucchi. 2021. Sistema automatizado de questão e respostas em e-commerce baseado em similaridade de sentenças multilíngues. Bachelor Final Project. IC-PFG-21-14. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mateus Joaquim. 2021. Aprimorando a Experiência do Consumidor na Devolução de produtos no E-commerce. Bachelor Final Project. IC-PFG-21-13. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Victor Eiti Yamamoto. 2020. Link Visualization and Evaluation in LOD. Bachelor Final Project. IC-PFG-20-25. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Diogo Teles Sant&amp;rsquo;Anna. 2020. Modelagem em ontologias de relações de compatibilidade entre produtos em E-commerce. Bachelor Final Project. IC-PFG-20-24. IC/UNICAMP (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Victor Eiti Yamamoto. 2020. Alignment of Knowledge Graphs based on Learning to Rank techniques. Bachelor Final Project. IC-PFG-20-03. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Leandro Augusto Fernandes de Magalhães. 2019. Participatory Design in the OpenDesign Platform. Bachelor Final Project. IC-PFG-19-35. IC/UNICAMP (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mateus de Carvalho Coelho. 2019. Learning to build sparql queries from natural language questions. Bachelor Final Project. IC-PFG-19-33. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thiago Silva de Farias and Henrique Noronha Facioli. 2019. Integrating Scholarly Data with Knowledge Graphs. Bachelor Final Project. IC-PFG-19-34.  IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Carlos Robson Alves de Oliveira. 2019. Participatory Design of a Recycling Cooperative Management System. Bachelor Final Project. IC-PFG-19-32.  IC/UNICAMP (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Túlio Brandão Soares Martins. 2019. Addressing Inconsistencies in the DBPedia Evolution. Bachelor Final Project. IC-PFG-19-36. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pedro Stringhini. 2019. Spatio-temporal question answering based on RDF knowledge bases. Bachelor Final Project. IC-PFG-19-08. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guilherme Pereira Gribeler. 2018. Semantic Metadata Extraction from Subtitles of Video Lectures. Bachelor Final Project. IC-PFG-18-25. IC/UNICAMP&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scientific-initiation-students&#34;&gt;Scientific Initiation Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gabriel Castilho Mazzeu. 2025. Designing Gamificação visando Engajamento em ambiente de Aprendizagem Digital. (PIBIC scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Victor Honório Pereira da Silva. 2025. Um assistente conversacional em ambiente de aprendizagem digital. (PIBIC scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lucca De Souza Amodio. 2025. Geração automática de diferentes tipos de questões de múltipla escolha com níveis de dificuldade. (PIBIC scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hayla Pereira Belozi Vasconcellos. 2025. Design e desenvolvimento de um sistema gerador automático de flashcards. (PIBIC scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Isaac Werner Sales Fritsch. 2024. Plataforma Web de apoio à aprendizagem via geração de Questões e Respostas por usuários. (PIBIC scholarship - Initiation in Technological Development and Innovation)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ariadne Cenko Bigheti. 2023. Geração de triplas RDF a partir de fonte de dados Semi estruturados. (GoBots – industry research scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arthur Baia. 2023. Refinamento de Modelos de Linguagem para Sistemas de Respostas Automatizadas. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Henrique Theodor Schutz Foerste. 2022. Anotação de Entidades em Diálogos Textuais Na Língua Portuguesa. (Ci&amp;amp;T – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Andreis Purim. 2022. Assis: Uma ferramenta de anotação de diálogos em linguagem natural. (Ci&amp;amp;T – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Valclayton Gois Duarte. 2022. Modelos para a geração automatizada de sentenças sintéticas na Língua Portuguesa. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arathi Zanvettor Guedes. 2022. Mineração de dados para automatização de ordens no mercado financeiro futuro. (PIBIC scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luiz Eduardo Araujo Zucchi. 2020. DeepFAQ - Automated Question-Answering System based on Question Similarity. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Diogo Teles Sant&amp;rsquo;Anna. 2020. Domain modeling for semantic interpretation of unstructured texts. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daniel Pereira Ferragut. 2020. Automated generation of rules from the processing of textual questions and answers. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rodrigo Oliveira Caus. 2020. Consistency in knowledge graphs created from unstructured texts. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lucas dos Santos Ramos. 2020. Semantic analysis of unstructured texts in intelligent customer service systems. (GoBots – industry research scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mariana Teixeira Bisca. 2019. Updating RDF-based semantic annotations. (PRP-UNICAMP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Julio Kiyoshi Rodrigues Matsoui. 2019. Evolution Impact of Linked Open Data. (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Túlio Brandão Soares Martins. 2019. Consistency Check on the DBPedia Evolution. (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luma Oliveira Lombello. 2019. Heterogeneous Ontology Networks. (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Felipe Correia Labbate. 2019. Semantic Beacons. (CNPq scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Victor Yamamoto. 2019. Ontology Evolution driven Mapping Refinement. (SAE-UNICAMP scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gabriel Oliveira dos Santos. 2019. Identification of Cross-lingual Ontology Mappings. (FAPESP scholarship).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Giovanna Batalha. 2019. Management of Semantic Markups in Web Pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pedro Alan Tapia Ramos. 2018. Interaction Design of Oil Reserves Management Software. (CEPETRO–UNICAMP scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gabriel Volpato Giliotti. 2018. Semantic refinement of ontology alignments. (SAE-UNICAMP scholarship)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h2 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MC750: Human-Computer Interface Construction - 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graduate&#34;&gt;Graduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MO656: Introduction to the Semantic Web - 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;past-courses&#34;&gt;Past Courses&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate-1&#34;&gt;Undergraduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MC750: Human-Computer Interface Construction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC302: Object-Oriented Programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC202: Data Structures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MC102: Algorithms and Computer Programming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operating Systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graduate-1&#34;&gt;Graduate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MO657: Computational Ontology Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MO826: Topics in Information Systems – Semantic Web&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MO410: Databases&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Honorable mention to Best Ph.D. Thesis Award at the Concourse of Thesis and Dissertations (Student André Regino) at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award, 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Contender at the 29th International Conference on Natural Language &amp;amp; Information Systems (NLDB’24)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the VIII Workshop de Computação Urbana (CoUrb’24) of the 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best Student Paper Award Nominee at the 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Candidate at the 15th International Joint Conference on Knowledge Engineering and Ontology Development (KEOD’23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the 25th International Conference on Human-Computer Interaction (HCII’23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;3rd Best Master Dissertation at the Concourse of Thesis and Dissertations (Student André Regino) at the XXVIII Brazilian Symposium on Multimedia and Web (WebMedia’22)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Student Paper Award at the 14th International Conference on Knowledge Engineering and Ontology Development (KEOD’22)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the 24th International Conference on Enterprise Information Systems (ICEIS’22)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper Honorable Mention Award at the XV Brazilian e-Science Workshop (BreSci) collocated with the XLI Brazilian Computer Society Congress 2021, Brazil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best paper presentation at the 6th Natural Language Interfaces for the Web of Data (NLIWOD) Workshop at the ISWC 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Nominee at the XVII Brazilian Congress in Health Informatics 2020, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Master Thesis proposal at the XIII Seminar on Ontology Research in Brazil - IV Doctoral and Masters Consortium on Ontologies (Student André Gomes Regino), Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Nominee at the 22nd International Conference on Enterprise Information Systems 2020, Czech Republic&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2016&#34;&gt;2016&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award in the IEEE International Conference WETICE 2016, France&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best 2016 Ph.D. Thesis Award given by the International Association for Research in Knowledge Extraction and Management (EGC), France&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2015&#34;&gt;2015&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Finalist in the 2015 Cor Baayen Award sponsored by the ERCIM (European Research Consortium for Informatics and Mathematics) for grace promising young researchers in Computer Science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Short Paper Award at the XXX Brazilian Symposium on Databases (SBBD), Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2nd Project Prize Award at the 3rd Extended Semantic Web Summer School, Greece&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2011&#34;&gt;2011&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best 2011 M.Sc. Thesis Award by the Institute of Computing at the University of Campinas, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;M.Sc. Thesis finalist at the 2011 Concourse of Thesis promoted by the Brazilian Computer Society, Brazil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best Paper Award at the International Conference on Information Society in 2011, United Kingdom&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Suggesting Product Prices in Automotive E-commerce: A Study Assessing Regression Models and Explicability</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent LLM Approach for Moderating E-Commerce Customer Service Responses</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my 
+ on LLMs.&lt;/p&gt;
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Julio C. dos Reis</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
