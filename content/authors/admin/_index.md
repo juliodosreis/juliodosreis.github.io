@@ -51,6 +51,7 @@ profiles:
     url: https://www.linkedin.com/in/juliocesardosreis/
 
 interests:
+  - Agentic Artificial Intelligence
   - Generative Artificial Intelligence
   - Natural Language Understanding
   - Computational Semantics
@@ -58,8 +59,7 @@ interests:
   - Knowledge Graphs
   - Knowledge Evolution 
   - Ontology Engineering
-  - User Experience
-  - Interaction Design
+  - User Experience Design  
 
 education:
   - area: Ph.D. in Computer Science
