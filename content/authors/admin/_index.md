@@ -62,6 +62,10 @@ interests:
   - User Experience Design  
 
 education:
+  - area: Habilitation in Computer Science
+    institution: University of Campinas, Brazil
+    date_start: 2020-12-15
+    date_end: 2020-12-15
   - area: Ph.D. in Computer Science
     institution: University of Paris-XI, France
     date_start: 2011-09-01
@@ -80,6 +84,10 @@ education:
     institution: University of Campinas, Brazil
     date_start: 2005-02-01
     date_end: 2008-08-31
+  - area: Technical School in Informatics
+    institution: ETEC Hortolândia, Brazil
+    date_start: 2003-02-01
+    date_end: 2004-12-31
 
 work:
   - position: Associate Professor of Computer Science
