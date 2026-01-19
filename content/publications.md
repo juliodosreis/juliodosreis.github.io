@@ -16,9 +16,7 @@ date: 2026-01-12
 
 - MOHAMED, A. H.; COSTA, J. B. D.; SOUZA, A. M. D. S.; VILLAS, L. A.; **DOS REIS, J. C.** 2025. Empowering Client Selection with Local Knowledge Distillation for Efficient Federated Learning in Non-IID Data. Journal of Internet Services and Applications. Vol 16(1), pp. 543–553. [https://doi.org/10.5753/jisa.2025.5154](https://doi.org/10.5753/jisa.2025.5154)
 
-- REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2025. A Systematic Literature Review on RDF Triple Generation from Natural
-
-Language Texts. Semantic Web Journal (SWJ). ISSN: 1570-0844.
+- REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2025. [A Systematic Literature Review on RDF Triple Generation from Natural Language Texts](https://journals.sagepub.com/doi/10.1177/22104968251398355). Semantic Web Journal (SWJ). ISSN: 1570-0844.
 
 - CHICO, V. J. S.; REGINO, A.; **DOS REIS, J. C.** 2025. BENCH4T3: A Framework to Create Benchmarks for Text-to-Triples Alignment Generation. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804.
 
