@@ -2,49 +2,53 @@
 date: 2026-01-12
 #type: landing
 ---
-## Current Scientific Projects
-- CNPq Universal
+## Ongoing Scientific Projects
 
-- Customization of Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Research Productivity Grant.
+- Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Universal. PI
 
-- Application of Large Language Models for online monitoring of industrial processes. Industry Project in partnership with Petrobras S. A.
+- Customization of Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Research Productivity Grant. PI
 
-- [H.IAAC: Hub for Artificial Intelligence and Cognitive Architecture](https://hiaac.unicamp.br/en/about-the-hub/)
+- A Multi-Agent LLM-based Approach to Personalized Generation of Learning Activities. FAPESP Research grant. PI
 
-- Construction and Use of Knowledge Bases in Automated Question and Answer Systems. Industry Project in partnership with GoBots Intelligent Solutions Ltda.
+- [Application of Large Language Models for online monitoring of industrial processes] (https://aaiims-unicamp.github.io/). Industry Project in partnership with Petrobras S. A.  PI
+
+- [H.IAAC: Hub for Artificial Intelligence and Cognitive Architecture](https://hiaac.unicamp.br/en/about-the-hub/). Associate Researcher.
+
+- Construction and Use of Knowledge Bases in Automated Question and Answer Systems. Industry Project in partnership with GoBots Intelligent Solutions Ltda. PI
 
 
-## Past Projects
+## Concluded Scientific Projects as Principal Investigator
 
-- Learning Support via Natural Language Questions and Answers Systems. PRP/Unicamp Research grant.
+- Learning Support via Natural Language Questions and Answers Systems. PRP/Unicamp Research grant. 
 
-- KGevol: Dynamic Knowledge Graphs Extracted from Unstructured Textual Information. FAPESP Research grant.
+- KGevol: Dynamic Knowledge Graphs Extracted from Unstructured Textual Information. FAPESP Research grant. 
 
-- Interactive Construction of Knowledge Graphs for Clinical Information Capture. FAPESP Research Industrial Grant with Precision Data Ltda.
+- [EvOLoD: Linked Data Evolution on the Semantic Web](bv.fapesp.br/en/auxilios/98006/evolod-linked-data-evolution-on-the-semantic-web/). FAPESP Young Investigator grant. PI
 
-- Networked Remote Education for All - a low-cost virtual environment for vulnerable populations. FAPESP Research Grant with NIED
+- [Managing the Effects of Linked Data Evolution](https://bv.fapesp.br/en/auxilios/101612/managing-the-effects-of-linked-data-evolution/). FAPESP Sprint grant with Swinburne University of Technology, Australia. 
 
-- [Center for Computing in Engineering & Sciences](cces.unicamp.br/).	FAPESP Research Grant - Research, Innovation and Dissemination Centers
+- Dynamic Knowledge Graphs from Scientific Textual Documents. Unicamp grant with Cardiff University, UK.  
 
-- [EvOLoD: Linked Data Evolution on the Semantic Web](bv.fapesp.br/en/auxilios/98006/evolod-linked-data-evolution-on-the-semantic-web/). FAPESP Young Investigator grant
+- Interactive Construction of Knowledge Graphs for Clinical Information Capture. FAPESP Research Industrial Grant with Precision Data Ltda. 
 
-- Methods for semantic analysis of dialog flows in natural language in Portuguese. Industry Project in partnership with CI&T Software S/A
-
-- [Managing the Effects of Linked Data Evolution](https://bv.fapesp.br/en/auxilios/101612/managing-the-effects-of-linked-data-evolution/). FAPESP Sprint grant with Swinburne University of Technology, Australia
-
-- Dynamic Knowledge Graphs from Scientific Textual Documents. Unicamp grant with Cardiff University, UK 
-
-- [Socioenactive Systems: Investigating New Dimensions in the Design of Interaction](interhad.nied.unicamp.br/projetos/socio-enactive-systems). FAPESP Thematic Project grant
-
-- Arapuan: Interoperability of agricultural data in eScience. CNPq Research grant
-
-- Geo-spatial processing of IOT streams in digital agriculture: the case for actor database systems. FAPESP Sprint grant with the University of Copenhagen, Denmark
-
-- [OpenDesign: Techniques and Artifacts for the Socially Aware Design of Computing Systems](https://interhad.nied.unicamp.br/projetos/opendesign). FAPESP/MCTI/MC/CGI grant
-
-- Modeling and Developing Actor Database Applications. A grant from the Danish Agency for Science and Higher Education (International Network Programme with the University of Copenhagen, Denmark)
+- Methods for semantic analysis of dialog flows in natural language in Portuguese. Industry Project in partnership with CI&T Software S/A. PI
 
 - [iMEanT: Methods for Dealing with Meanings and Intentions on Interactive Collaborative Systems](www.bv.fapesp.br/en/bolsas/157059/imeant-methods-for-dealing-with-meanings-and-intentions-on-interactive-collaborative-systems/). Postdoctoral FAPESP grant.
+
+
+## Concluded Scientific Projects as Associate Researcher
+
+- Networked Remote Education for All - a low-cost virtual environment for vulnerable populations. FAPESP Research Grant with NIED. 
+
+- [Socioenactive Systems: Investigating New Dimensions in the Design of Interaction](interhad.nied.unicamp.br/projetos/socio-enactive-systems). FAPESP Thematic Project grant. 
+
+- Arapuan: Interoperability of agricultural data in eScience. CNPq Research grant. 
+
+- Geo-spatial processing of IOT streams in digital agriculture: the case for actor database systems. FAPESP Sprint grant with the University of Copenhagen, Denmark. Associate Researcher
+
+- [OpenDesign: Techniques and Artifacts for the Socially Aware Design of Computing Systems](https://interhad.nied.unicamp.br/projetos/opendesign). FAPESP/MCTI/MC/CGI grant. 
+
+- Modeling and Developing Actor Database Applications. A grant from the Danish Agency for Science and Higher Education (International Network Programme with the University of Copenhagen, Denmark)
 
 - DynaMO: Reconciliation of Dynamic Medical Knowledge Organization Systems. Grant from the Luxembourg National Research Fund at the Luxembourg Institute of Science and Technology  
 
