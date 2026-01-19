@@ -91,7 +91,7 @@ education:
 
 work:
   - position: Associate Professor of Computer Science
-    company_name: Unicamp
+    company_name: University of Campinas, Brazil
     date_start: 2022-02-01
     date_end: ''
   - position: Deputy of the Research Committee at the Institute of Computing
@@ -185,6 +185,8 @@ skills:
 languages:
   - name: English
     percent: 100
+  - name: Spanish
+    percent: 40
   - name: French
     percent: 85
   - name: Portuguese
