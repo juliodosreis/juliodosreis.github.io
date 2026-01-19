@@ -94,31 +94,54 @@ work:
     company_name: Unicamp
     date_start: 2022-02-01
     date_end: ''
-
-  - position: Director
-    company_name: Nucleus of Informatics Applied to Education
+  - position: Deputy of the Research Committee at the Institute of Computing
+    company_name: University of Campinas, Brazil
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: ''
+  - position: Director of the Nucleus of Informatics Applied to Education
+    company_name: University of Campinas, Brazil
     company_url: ''
     company_logo: ''
     date_start: 2022-03-01
     date_end: 2026-02-28
+  - position: Deputy of the Information Systems Departament at the Institute of Computing
+    company_name: University of Campinas, Brazil
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2025-10-01
   - position: Assistant Professor of Computer Science
-    company_name: Unicamp
+    company_name: University of Campinas, Brazil
     company_url: ''
     company_logo: ''
     date_start: 2017-06-01
     date_end: 2022-01-31
-  - position: Postdoctoral Research
-    company_name: Unicamp
+  - position: Postdoctoral Researcher
+    company_name: University of Campinas, Brazil
     company_url: ''
     company_logo: ''
     date_start: 2015-03-01
     date_end: 2017-06-30
+  - position: Lecturer in Computer Science
+    company_name: UNIFACCAMP, Brazil
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-02-01
+    date_end: 2015-12-30
   - position: Assistant Researcher
-    company_name: Luxembourg Institute of Science and Technology
+    company_name: Luxembourg Institute of Science and Technology, Luxembourg
     company_url: ''
     company_logo: ''
     date_start: 2011-09-01
     date_end: 2014-12-31
+  - position: Research Scholar
+    company_name: Center for Information Technology Renato Archer, Brazil
+    company_url: ''
+    company_logo: ''
+    date_start: 2009-01-01
+    date_end: 2011-08-30
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
