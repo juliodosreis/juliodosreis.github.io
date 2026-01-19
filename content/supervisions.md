@@ -6,7 +6,7 @@ date: 2026-01-12
 
 ### Postdoctoral researchers
 
-- Eryck Pedro da Silva. Arquitetura multiagentes com base em LLMs para auxiliar tomadas de decisão.  Start: 01/12/2024. 
+- Eryck Pedro da Silva. [Arquitetura multiagentes com base em LLMs para auxiliar tomadas de decisão](https://aaiims-unicamp.github.io/products/).  Start: 01/12/2024. 
 
 ### Ph.D. Candidates
 - Fillipe dos Santos Silva. From Stable Clusters to Personalized Recommendations: Integrating Structured and Textual Data. IC/UNICAMP (H.IAAC – Industry Research Scholarship). Supervision with Prof. Marcelo da Silva Reis.
@@ -58,9 +58,9 @@ date: 2026-01-12
 
 - Anderson Rossanez. Entity Evolution in Temporal Knowledge Graphs. Ph.D. thesis. Defense: 24/05/2024. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres.
 
-- Eliane Zambon Victorelli Dias. Design and Evaluation of the user experience in Human-Data Interaction: An approach combining guidelines and participatory design. Ph.D. thesis. Defense: 16/03/2021. IC/UNICAMP.
+- Eliane Zambon Victorelli Dias. [Design and Evaluation of the user experience in Human-Data Interaction: An approach combining guidelines and participatory design](repositorio.unicamp.br/jspui/bitstream/REPOSIP/359648/1/Victorelli_ElianeZambon_D.pdf). Ph.D. thesis. Defense: 16/03/2021. IC/UNICAMP.
 
-- Juliana Medeiros Destro. Cross-Language Ontology Matching. Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
+- Juliana Medeiros Destro. [Cross-Language Ontology Matching](repositorio.unicamp.br/bitstream/REPOSIP/335171/1/Destro_JulianaMedeiros_D.pdf). Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
 
 ### Masters
 - Sadeeq Olalekan Bello. Cognitive Architecture-Driven Ensemble Learning for Real-Time Churn Prediction. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 19/12/2024. Supervision with Prof. Marcelo da Silva Reis.
@@ -85,25 +85,25 @@ date: 2026-01-12
 
 - Enio de Jesus Pontes Monteiro. Assisted Adaptation of Semantic Annotations on RDF datasets. M.Sc. thesis. Defense: 13/12/2021. IC/UNICAMP (FAPESP scholarship). 
 
-- Marcos Vinícius Macêdo Borges. Semantic-enhanced recommendation of video lectures relying on ontology-based annotations. M.Sc. thesis. Defense: 10/03/2021. IC/UNICAMP (FAPESP scholarship). 
+- Marcos Vinícius Macêdo Borges. [Semantic-enhanced recommendation of video lectures relying on ontology-based annotations](repositorio.unicamp.br/jspui/bitstream/REPOSIP/360339/1/Borges_MarcosViniciusMacedo_M.pdf). M.Sc. thesis. Defense: 10/03/2021. IC/UNICAMP (FAPESP scholarship). 
 
-- André Gomes Regino. Link Maintenance in the Semantic Web. M.Sc. thesis. Defense: 09/03/2021. IC/UNICAMP (FAPESP scholarship). 
+- André Gomes Regino. [Link Maintenance in the Semantic Web](repositorio.unicamp.br/bitstream/REPOSIP/359985/1/Regino_AndreGomes_M.pdf). M.Sc. thesis. Defense: 09/03/2021. IC/UNICAMP (FAPESP scholarship). 
 
-- Jeanfranco David Farfan Escobedo. Context-based intention classification in natural language dialog flow processing. M.Sc. thesis. Defense: 02/03/2021. IC/UNICAMP (Wavy – industry research scholarship).
+- Jeanfranco David Farfan Escobedo. [Context-based intention classification in natural language dialog flow processing](repositorio.unicamp.br/jspui/bitstream/REPOSIP/359679/1/FarfanEscobedo_JeanfrancoDavid_M.pdf). M.Sc. thesis. Defense: 02/03/2021. IC/UNICAMP (Wavy – industry research scholarship).
 
-- Andressa Cristina dos Santos. Guidelines for the evaluation of systems in Socioenactive Scenarios. M.Sc. thesis. Defense: 05/08/2020. IC/UNICAMP, Brazil (CAPES scholarship).
+- Andressa Cristina dos Santos. [Guidelines for the evaluation of systems in Socioenactive Scenarios](repositorio.unicamp.br/jspui/handle/REPOSIP/350903). M.Sc. thesis. Defense: 05/08/2020. IC/UNICAMP, Brazil (CAPES scholarship).
 
-- Mauro Dalle Lucca Tosi. Constructing Knowledge Graphs from Textual Documents for Scientific Literature Analysis. M.Sc. thesis. Defense: 09/03/2020. IC/UNICAMP, Brazil (CAPES scholarship). 
+- Mauro Dalle Lucca Tosi. [Constructing Knowledge Graphs from Textual Documents for Scientific Literature Analysis](https://lis-unicamp.github.io/wp-content/uploads/2020/DissertacaoMauro.pdf). M.Sc. thesis. Defense: 09/03/2020. IC/UNICAMP, Brazil (CAPES scholarship). 
 
-- Ricardo José de Araújo. Ontology-based User Interface Adaptation for Colorblind People. M.Sc. thesis. Defense: 17/02/2017. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
+- Ricardo José de Araújo. [Ontology-based User Interface Adaptation for Colorblind People](www.cc.faccamp.br/Dissertacoes/RicardoJoseAraujo.pdf). M.Sc. thesis. Defense: 17/02/2017. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
 
-- Edemar Mendes Perciani. Exploring Intentions in Information Retrieval of Electronic Health Records. M.Sc. thesis. Defense: 02/12/2016. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
+- Edemar Mendes Perciani. [Exploring Intentions in Information Retrieval of Electronic Health Records](www.cc.faccamp.br/Dissertacoes/EdemarMendesPerciani.pdf). M.Sc. thesis. Defense: 02/12/2016. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
 
-- Fagner Leal Pantoja. Generating Knowledge Networks from Phenotypic Descriptions. M.Sc. thesis. Defense: 05/08/2016. IC/UNICAMP, Brazil. Supervision with Prof. André Santanchè.
+- Fagner Leal Pantoja. [Generating Knowledge Networks from Phenotypic Descriptions](www.lis.ic.unicamp.br/wp-content/uploads/2016/12/fagner-dissertacao-vfinal.pdf). M.Sc. thesis. Defense: 05/08/2016. IC/UNICAMP, Brazil. Supervision with Prof. André Santanchè.
 
-- Fabrício Matheus Gonçalves. Interaction Design of Computational Systems to Support Active Learning. M.Sc. thesis. Defense: 04/02/2016. IC/UNICAMP, Brazil. Collaboration in the supervision with Prof. M. Cecília C. Baranauskas.
+- Fabrício Matheus Gonçalves. [Interaction Design of Computational Systems to Support Active Learning](https://repositorio.unicamp.br/Acervo/Detalhe/970901). M.Sc. thesis. Defense: 04/02/2016. IC/UNICAMP, Brazil. Collaboration in the supervision with Prof. M. Cecília C. Baranauskas.
 
-- Cristiane Josely Jensen. Interaction Design of Mechanisms to Support Users Expressing Intentions in Collaborative Systems. M.Sc. thesis. Defense: 04/11/2015. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
+- Cristiane Josely Jensen. [Interaction Design of Mechanisms to Support Users Expressing Intentions in Collaborative Systems](www.cc.faccamp.br/Dissertacoes/CristianeJoselyJensen.pdf). M.Sc. thesis. Defense: 04/11/2015. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
 
 ### Undergraduate Students – Bachelor Final Projects
 - Bruno Amaral Teixeira de Freitas. 2025. Strive: Orquestração de cobranças coletivas via pagamentos instantâneos. Bachelor Final Project. IC-PFG-25-49.  IC/UNICAMP
@@ -114,55 +114,55 @@ date: 2026-01-12
 
 - Mauricio Lorenzetti Bezerra. 2023. Monitoramento cardíaco não-invasivo aplicado à predição de estados afetivos. Bachelor Final Project. IC-PFG-23-56.  IC/UNICAMP
 
-- Andreis G. M. Purim. 2023. Active Learning for Natural Language Data Annotation.  Bachelor Final Project. IC-PFG-23-55.  IC/UNICAMP
+- Andreis G. M. Purim. 2023. [Active Learning for Natural Language Data Annotation](https://www.ic.unicamp.br/~reltech/PFG/2023/PFG-23-55.pdf).  Bachelor Final Project. IC-PFG-23-55.  IC/UNICAMP
 
-- Enrico Delbuono. 2023. Transcrição Automática de Vídeos para Textos em Linguagem Natural. Bachelor Final Project. IC-PFG-23-54.  IC/UNICAMP
+- Enrico Delbuono. 2023. [Transcrição Automática de Vídeos para Textos em Linguagem Natural](https://www.ic.unicamp.br/~reltech/PFG/2023/PFG-23-54.pdf). Bachelor Final Project. IC-PFG-23-54.  IC/UNICAMP
 
 - Arthur Cemin Baia. 2023. Treinamento de Modelos Generativos Multilíngues: Aplicação em Sistemas de Perguntas e Respostas. Bachelor Final Project. IC-PFG-23-53.  IC/UNICAMP
 
-- Gabriely da Cruz Camilo. 2023.  Design de uma Plataforma de Autoestudo. Bachelor Final Project. IMEEC/UNICAMP
+- Gabriely da Cruz Camilo. 2023. [Design de uma Plataforma de Autoestudo](https://drive.google.com/file/d/1gP5PDnrRAjl_ve51Pz65FYUBCvqFQEwK/view?usp=sharing). Bachelor Final Project. IMEEC/UNICAMP
 
-- Thiago Pinheiro. 2023. Geração de triplas RDF com base em Textos Clínicos. Bachelor Final Project. IC-PFG-23-03.  IC/UNICAMP
+- Thiago Pinheiro. 2023. [Geração de triplas RDF com base em Textos Clínicos](https://www.ic.unicamp.br/~reltech/PFG/2023/PFG-23-03.pdf). Bachelor Final Project. IC-PFG-23-03.  IC/UNICAMP
 
 - Renan H. Bastos. 2023. Geração Automática de alternativas em Linguagem Natural para Questões. Bachelor Final Project. IC-PFG-23-05.  IC/UNICAMP
 
 - Gabriel de F. Garcia. 2023. Design de uma Aplicação Interativa para Captura de Informação Clínica. Bachelor Final Project. IC-PFG-23-04.  IC/UNICAMP
 
-- Caio Henrique Pardal Dos Santos. 2022. Concepção e implementação de um wizard para análise de grafos de conhecimentos temporais. Bachelor Final Project. IC-PFG-22-22.  IC/UNICAMP
+- Caio Henrique Pardal Dos Santos. 2022. [Concepção e implementação de um wizard para análise de grafos de conhecimentos temporais](https://www.ic.unicamp.br/~reltech/PFG/2022/PFG-22-22.pdf). Bachelor Final Project. IC-PFG-22-22.  IC/UNICAMP
 
-- Paulo A. Martins Januário. 2022. Predição do estado afetivo de usuários a partir da análise de dados fisiológicos. Bachelor Final Project. IC-PFG-22-21.  IC/UNICAMP
+- Paulo A. Martins Januário. 2022. [Predição do estado afetivo de usuários a partir da análise de dados fisiológicos](https://www.ic.unicamp.br/~reltech/PFG/2022/PFG-22-21.pdf). Bachelor Final Project. IC-PFG-22-21.  IC/UNICAMP
 
-- Luma Oliveira Lombello. 2022. Experiência multi-sensorial na captura de estados afetivos: Uma oficina para estudo do fenômeno. Bachelor Final Project. IC-PFG-22-20.  IC/UNICAMP
+- Luma Oliveira Lombello. 2022. [Experiência multi-sensorial na captura de estados afetivos: Uma oficina para estudo do fenômeno](https://www.ic.unicamp.br/~reltech/PFG/2022/PFG-22-20.pdf). Bachelor Final Project. IC-PFG-22-20.  IC/UNICAMP
 
-- Danilo Miranda Gusicuma and Lucas Roberto de Souza. 2021. Avaliação na Plataforma OpenDesign.  Bachelor Final Project. IC-PFG-21-35.  IC/UNICAMP
+- Danilo Miranda Gusicuma and Lucas Roberto de Souza. 2021. [Avaliação na Plataforma OpenDesign](https://www.ic.unicamp.br/~reltech/PFG/2021/PFG-21-35.pdf).  Bachelor Final Project. IC-PFG-21-35.  IC/UNICAMP
 
-- Eduardo Moreira Freitas de Souza. 2021. Visualização Interativa da Evolução de Grafos de Conhecimento. Bachelor Final Project. IC-PFG-21-34. IC/UNICAMP
+- Eduardo Moreira Freitas de Souza. 2021. [Visualização Interativa da Evolução de Grafos de Conhecimento](https://www.ic.unicamp.br/~reltech/PFG/2021/PFG-21-34.pdf). Bachelor Final Project. IC-PFG-21-34. IC/UNICAMP
 
-- Rodrigo Oliveira Caus. 2021. Investigando Similaridade para Diferenciar Instâncias de Conceitos em Grafos de Conhecimento. Bachelor Final Project. FEEC/UNICAMP
+- Rodrigo Oliveira Caus. 2021. [Investigando Similaridade para Diferenciar Instâncias de Conceitos em Grafos de Conhecimento](https://drive.google.com/file/d/1Fq6f2XouCoBkm3aHTIKEQSUXBV9gm7m9/view). Bachelor Final Project. FEEC/UNICAMP
 
-- Luiz Eduardo Araujo Zucchi. 2021. Sistema automatizado de questão e respostas em e-commerce baseado em similaridade de sentenças multilíngues. Bachelor Final Project. IC-PFG-21-14. IC/UNICAMP
+- Luiz Eduardo Araujo Zucchi. 2021. [Sistema automatizado de questão e respostas em e-commerce baseado em similaridade de sentenças multilíngues](https://www.ic.unicamp.br/~reltech/PFG/2021/PFG-21-14.pdf). Bachelor Final Project. IC-PFG-21-14. IC/UNICAMP
 
-- Mateus Joaquim. 2021. Aprimorando a Experiência do Consumidor na Devolução de produtos no E-commerce. Bachelor Final Project. IC-PFG-21-13. IC/UNICAMP
+- Mateus Joaquim. 2021. [Aprimorando a Experiência do Consumidor na Devolução de produtos no E-commerce](https://www.ic.unicamp.br/~reltech/PFG/2021/PFG-21-13.pdf). Bachelor Final Project. IC-PFG-21-13. IC/UNICAMP
 
-- Victor Eiti Yamamoto. 2020. Link Visualization and Evaluation in LOD. Bachelor Final Project. IC-PFG-20-25. IC/UNICAMP
+- Victor Eiti Yamamoto. 2020. [Link Visualization and Evaluation in LOD](https://www.ic.unicamp.br/~reltech/PFG/2020/PFG-20-25.pdf). Bachelor Final Project. IC-PFG-20-25. IC/UNICAMP
 
-- Diogo Teles Sant'Anna. 2020. Modelagem em ontologias de relações de compatibilidade entre produtos em E-commerce. Bachelor Final Project. IC-PFG-20-24. IC/UNICAMP (In Portuguese)
+- Diogo Teles Sant'Anna. 2020. [Modelagem em ontologias de relações de compatibilidade entre produtos em E-commerce](https://www.ic.unicamp.br/~reltech/PFG/2020/PFG-20-24.pdf). Bachelor Final Project. IC-PFG-20-24. IC/UNICAMP (In Portuguese)
 
-- Victor Eiti Yamamoto. 2020. Alignment of Knowledge Graphs based on Learning to Rank techniques. Bachelor Final Project. IC-PFG-20-03. IC/UNICAMP
+- Victor Eiti Yamamoto. 2020. [Alignment of Knowledge Graphs based on Learning to Rank techniques](https://www.ic.unicamp.br/~reltech/PFG/2020/PFG-20-03.pdf). Bachelor Final Project. IC-PFG-20-03. IC/UNICAMP
 
-- Leandro Augusto Fernandes de Magalhães. 2019. Participatory Design in the OpenDesign Platform. Bachelor Final Project. IC-PFG-19-35. IC/UNICAMP (In Portuguese)
+- Leandro Augusto Fernandes de Magalhães. 2019. [Participatory Design in the OpenDesign Platform](www.ic.unicamp.br/~reltech/PFG/2019/PFG-19-35.pdf). Bachelor Final Project. IC-PFG-19-35. IC/UNICAMP (In Portuguese)
 
-- Mateus de Carvalho Coelho. 2019. Learning to build sparql queries from natural language questions. Bachelor Final Project. IC-PFG-19-33. IC/UNICAMP
+- Mateus de Carvalho Coelho. 2019. [Learning to build sparql queries from natural language questions](www.ic.unicamp.br/~reltech/PFG/2019/PFG-19-33.pdf). Bachelor Final Project. IC-PFG-19-33. IC/UNICAMP
 
-- Thiago Silva de Farias and Henrique Noronha Facioli. 2019. Integrating Scholarly Data with Knowledge Graphs. Bachelor Final Project. IC-PFG-19-34.  IC/UNICAMP
+- Thiago Silva de Farias and Henrique Noronha Facioli. 2019. [Integrating Scholarly Data with Knowledge Graphs](www.ic.unicamp.br/~reltech/PFG/2019/PFG-19-34.pdf). Bachelor Final Project. IC-PFG-19-34.  IC/UNICAMP
 
-- Carlos Robson Alves de Oliveira. 2019. Participatory Design of a Recycling Cooperative Management System. Bachelor Final Project. IC-PFG-19-32.  IC/UNICAMP (In Portuguese)
+- Carlos Robson Alves de Oliveira. 2019. [Participatory Design of a Recycling Cooperative Management System](www.ic.unicamp.br/~reltech/PFG/2019/PFG-19-32.pdf). Bachelor Final Project. IC-PFG-19-32.  IC/UNICAMP (In Portuguese)
 
-- Túlio Brandão Soares Martins. 2019. Addressing Inconsistencies in the DBPedia Evolution. Bachelor Final Project. IC-PFG-19-36. IC/UNICAMP
+- Túlio Brandão Soares Martins. 2019. [Addressing Inconsistencies in the DBPedia Evolution](www.ic.unicamp.br/~reltech/PFG/2019/PFG-19-36.pdf). Bachelor Final Project. IC-PFG-19-36. IC/UNICAMP
 
-- Pedro Stringhini. 2019. Spatio-temporal question answering based on RDF knowledge bases. Bachelor Final Project. IC-PFG-19-08. IC/UNICAMP
+- Pedro Stringhini. 2019. [Spatio-temporal question answering based on RDF knowledge bases](www.ic.unicamp.br/~reltech/PFG/2019/PFG-19-08.pdf). Bachelor Final Project. IC-PFG-19-08. IC/UNICAMP
 
-- Guilherme Pereira Gribeler. 2018. Semantic Metadata Extraction from Subtitles of Video Lectures. Bachelor Final Project. IC-PFG-18-25. IC/UNICAMP
+- Guilherme Pereira Gribeler. 2018. [Semantic Metadata Extraction from Subtitles of Video Lectures](https://www.ic.unicamp.br/~reltech/PFG/2018/PFG-18-25.pdf). Bachelor Final Project. IC-PFG-18-25. IC/UNICAMP
 
 ### Scientific Initiation Students
 - Gabriel Castilho Mazzeu. 2025. Designing Gamificação visando Engajamento em ambiente de Aprendizagem Digital. (PIBIC scholarship)
@@ -209,10 +209,10 @@ date: 2026-01-12
 
 - Victor Yamamoto. 2019. Ontology Evolution driven Mapping Refinement. (SAE-UNICAMP scholarship)
 
-- Gabriel Oliveira dos Santos. 2019. Identification of Cross-lingual Ontology Mappings. (FAPESP scholarship). 
+- Gabriel Oliveira dos Santos. 2019. [Identification of Cross-lingual Ontology Mappings](www.ic.unicamp.br/~reltech/2019/19-01.pdf). (FAPESP scholarship). 
 
 - Giovanna Batalha. 2019. Management of Semantic Markups in Web Pages. 
 
-- Pedro Alan Tapia Ramos. 2018. Interaction Design of Oil Reserves Management Software. (CEPETRO–UNICAMP scholarship)
+- Pedro Alan Tapia Ramos. 2018. [Interaction Design of Oil Reserves Management Software](https://sol.sbc.org.br/index.php/ihc_estendido/article/view/4179/4110). (CEPETRO–UNICAMP scholarship)
 
 - Gabriel Volpato Giliotti. 2018. Semantic refinement of ontology alignments. (SAE-UNICAMP scholarship)
