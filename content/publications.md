@@ -14,9 +14,9 @@ date: 2026-01-12
 
 ### 2025
 
-- MOHAMED, A. H.; COSTA, J. B. D.; SOUZA, A. M. D. S.; VILLAS, L. A.; **DOS REIS, J. C.** 2025. Empowering Client Selection with Local Knowledge Distillation for Efficient Federated Learning in Non-IID Data. Journal of Internet Services and Applications. Vol 16(1), pp. 543–553. [https://doi.org/10.5753/jisa.2025.5154](https://doi.org/10.5753/jisa.2025.5154)
+- MOHAMED, A. H.; COSTA, J. B. D.; SOUZA, A. M. D. S.; VILLAS, L. A.; **DOS REIS, J. C.** 2025. [Empowering Client Selection with Local Knowledge Distillation for Efficient Federated Learning in Non-IID Data](https://doi.org/10.5753/jisa.2025.5154). Journal of Internet Services and Applications. Vol 16(1), pp. 543–553.
 
-- REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2025. [A Systematic Literature Review on RDF Triple Generation from Natural Language Texts](https://journals.sagepub.com/doi/10.1177/22104968251398355). Semantic Web Journal (SWJ). ISSN: 1570-0844.
+- REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2025. A Systematic Literature Review on RDF Triple Generation from Natural Language Texts. Semantic Web Journal (SWJ). ISSN: 1570-0844.
 
 - CHICO, V. J. S.; REGINO, A.; **DOS REIS, J. C.** 2025. BENCH4T3: A Framework to Create Benchmarks for Text-to-Triples Alignment Generation. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804.
 
@@ -28,29 +28,29 @@ date: 2026-01-12
 
 - HADDADI, S. J.; FARSHIDVARD, A.; DOS SANTOS SILVA, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. Customer churn prediction in imbalanced datasets with resampling methods: A comparative study. Expert Systems with Applications (ESWA). Vol (246) ISSN: 0957-4174.
 
-- GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS. M. C. C. 2024. Enactive Interaction in Technology-based Learning Environments: A Systematic Literature Review. Educational Technology & Society. Vol 27(2), pp. 87-113. [https://doi.org/10.30191/ETS.202404_27(2).RP02](https://doi.org/10.30191/ETS.202404_27(2).RP02).
+- GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS. M. C. C. 2024. [Enactive Interaction in Technology-based Learning Environments: A Systematic Literature Review. Educational Technology & Society](https://doi.org/10.30191/ETS.202404_27(2).RP02). Vol 27(2), pp. 87-113.
 
-- GASPAR, R.D.P.; GONÇALVES, V.P.; FILHO, G.P.R.; **DOS REIS, J. C.**; FERRUCIO, F. R.; BONACIN, R. 2024. Toward improved co-designing home care solutions based on personas and design thinking with older users. Universal Access Information Society (UAIS), Vol. 23, pp. 305–328. [https://doi.org/10.1007/s10209-022-00940-5](https://doi.org/10.1007/s10209-022-00940-5)
+- GASPAR, R.D.P.; GONÇALVES, V.P.; FILHO, G.P.R.; **DOS REIS, J. C.**; FERRUCIO, F. R.; BONACIN, R. 2024. [Toward improved co-designing home care solutions based on personas and design thinking with older users](https://doi.org/10.1007/s10209-022-00940-5). Universal Access Information Society (UAIS), Vol. 23, pp. 305–328.
 
 ### 2023
 
-- REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2023. Leveraging Knowledge Graphs for E-commerce Product Recommendations. SN Computer Science (SNCS). 4, 689. ISSN: 2662-995X. [https://doi.org/10.1007/s42979-023-02149-6](https://doi.org/10.1007/s42979-023-02149-6)
+- REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2023. [Leveraging Knowledge Graphs for E-commerce Product Recommendations](https://doi.org/10.1007/s42979-023-02149-6). SN Computer Science (SNCS). 4, 689. ISSN: 2662-995X.
 
-- SANCHES, M. F. S.; SA, J. M. C.; SOUZA, R. R.; SOUZA, A. M.; **DOS REIS, J. C.**; VILLAS, L. A. 2023. Automatic Extraction of Conversation Flows from Human Dialogues: Understanding their Impact to Refine NLP Models. SN Computer Science (SNCS). ISSN: 2662-995X. [https://doi.org/10.1007/s42979-023-02148-7](https://doi.org/10.1007/s42979-023-02148-7)
+- SANCHES, M. F. S.; SA, J. M. C.; SOUZA, R. R.; SOUZA, A. M.; **DOS REIS, J. C.**; VILLAS, L. A. 2023. [Automatic Extraction of Conversation Flows from Human Dialogues: Understanding their Impact to Refine NLP Models](https://doi.org/10.1007/s42979-023-02148-7). SN Computer Science (SNCS). ISSN: 2662-995X.
 
-- YAMAMOTO, V. E.; DESTRO, J. M.; **DOS REIS, J. C.** 2023. Context-based Refinement of Mappings in Evolving Life Science Ontologies. Journal of Biomedical Semantics (JBMS). 14, 16 ISSN: 2041-1480. [https://doi.org/10.1186/s13326-023-00294-8](https://doi.org/10.1186/s13326-023-00294-8)
+- YAMAMOTO, V. E.; DESTRO, J. M.; **DOS REIS, J. C.** 2023. [Context-based Refinement of Mappings in Evolving Life Science Ontologies](https://doi.org/10.1186/s13326-023-00294-8). Journal of Biomedical Semantics (JBMS). 14, 16 ISSN: 2041-1480.
 
 ### 2022
 
-- GASPAR, R. P.; GONÇALVES, V. P.; FILHO, G. P. R.; **DOS REIS, J. C.**; ROSA, F. F.; BONACIN, R. 2022. Toward improved co‑designing home care solutions based on personas and design thinking with older users. Universal Access in the Information Society (UAIS). ISSN: 1615-5289. [https://doi.org/10.1007/s10209-022-00940-5](https://doi.org/10.1007/s10209-022-00940-5)
+- GASPAR, R. P.; GONÇALVES, V. P.; FILHO, G. P. R.; **DOS REIS, J. C.**; ROSA, F. F.; BONACIN, R. 2022. [Toward improved co‑designing home care solutions based on personas and design thinking with older users](https://doi.org/10.1007/s10209-022-00940-5). Universal Access in the Information Society (UAIS). ISSN: 1615-5289.
 
-- CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2022. Children’s Social Interactions Within a Socioenactive Scenario. Computers & Education (C&E). Vol 176. ISSN: 0360-1315. [https://doi.org/10.1016/j.compedu.2021.104324](https://doi.org/10.1016/j.compedu.2021.104324)
+- CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2022. [Children’s Social Interactions Within a Socioenactive Scenario](https://doi.org/10.1016/j.compedu.2021.104324). Computers & Education (C&E). Vol 176. ISSN: 0360-1315. 
 
 - BORGES, G. C.; DOS REIS, J. C; MEDEIROS. C. B.; 2022. SSM: a semantic metasearch platform for scientific data retrieval. Revista de Informática Teórica e Aplicada (RITA). Vol. 29(1) pp. 91-101. ISSN: 2175-2745
 
 - BRITO, D.; JUNIOR, J. L. C.; BONACIN, R.; **DOS REIS, J. C.** 2022. Exploring Supervised Techniques for Automated Recognition of Intentions Classes from Portuguese Free Texts on Agriculture. Revista de Informática Teórica e Aplicada (RITA). Vol. 29 (2), pp. 95-120. ISSN: 2175-2745
 
-- BONACIN, R.; **DOS REIS, J. C.**; ARAUJO, J. A. R. 2022. An Ontology-based Framework for Improving Colour Vision Deficiency Accessibility. International Journal of Universal Access in the Information Society (UAIS). Vol 21, pp. 691–716. ISSN: 1615-5289. [https://doi.org/10.1007/s10209-021-00791-6](https://doi.org/10.1007/s10209-021-00791-6)
+- BONACIN, R.; **DOS REIS, J. C.**; ARAUJO, J. A. R. 2022. [An Ontology-based Framework for Improving Colour Vision Deficiency Accessibility](https://doi.org/10.1007/s10209-021-00791-6). International Journal of Universal Access in the Information Society (UAIS). Vol 21, pp. 691–716. ISSN: 1615-5289.
 
 ### 2021
 
@@ -58,11 +58,11 @@ date: 2026-01-12
 
 - GOTTARDI, T; MEDEIROS. C. B.; **DOS REIS, J. C.** 2021. Semantic Search to Foster Scientific Findability: A Systematic Literature Review. Journal of Information and Data Management (JIDM). Vol. 12(5), pp. 469–489. ISSN: 2178-7107
 
-- VALENTE, J. A.; CACEFFO, R.; BONACIN, R.; **DOS REIS, J. C.**; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2021. Embodied-based Environment for Kindergarten Children: revisiting constructionist ideas. British Journal of Educational Technology (BJET). Vol 52 (3), pp. 986-1003. ISSN:1467-8535. [https://doi.org/10.1111/bjet.13078](https://doi.org/10.1111/bjet.13078)
+- VALENTE, J. A.; CACEFFO, R.; BONACIN, R.; **DOS REIS, J. C.**; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2021. [Embodied-based Environment for Kindergarten Children: revisiting constructionist ideas](https://doi.org/10.1111/bjet.13078). British Journal of Educational Technology (BJET). Vol 52 (3), pp. 986-1003. ISSN:1467-8535.
 
-- TOSI, M. D. L.; **DOS REIS, J. C.** 2021. SciKGraph: A knowledge graph approach to structure a scientific field. Journal of Informetrics (JOI). Vol 15 (1).  ISSN 1751-1577. [https://doi.org/10.1016/j.joi.2020.101109](https://doi.org/10.1016/j.joi.2020.101109)
+- TOSI, M. D. L.; **DOS REIS, J. C.** 2021. [SciKGraph: A knowledge graph approach to structure a scientific field](https://doi.org/10.1016/j.joi.2020.101109). Journal of Informetrics (JOI). Vol 15 (1).  ISSN 1751-1577.
 
-- LOMBELLO, L. O.; CATINI, R.; BONACIN, R.; **DOS REIS, J. C.** 2021. A Metamodel for Bridging Heterogeneous Ontologies: A Fuzzy RDF Approach. SN Computer Science (SNCS). Vol 2 (6). ISSN: 2661-8907 [https://doi.org/10.1007/s42979-020-00386-7](https://doi.org/10.1007/s42979-020-00386-7)
+- LOMBELLO, L. O.; CATINI, R.; BONACIN, R.; **DOS REIS, J. C.** 2021. [A Metamodel for Bridging Heterogeneous Ontologies: A Fuzzy RDF Approach](https://doi.org/10.1007/s42979-020-00386-7). SN Computer Science (SNCS). Vol 2 (6). ISSN: 2661-8907
 
 - REGINO, A. G.; MORSHED, A.; BONACIN, R.; **DOS REIS, J. C.**; SELLIS, T. 2021. Link maintenance for integrity in linked open data evolution: Literature survey and open challenges. Semantic Web Journal (SWJ). Vol 12 (3) pp. 517-541. ISSN: 1570-0844. DOI: 10.3233/SW-200398
 
@@ -74,9 +74,9 @@ date: 2026-01-12
 
 - MENDONÇA, R. R.; BRITO, D. F.; ROSA, F. F., **DOS REIS, J. C.**; BONACIN, R. 2020. A Framework for Detecting Intentions of Criminal Acts in Social Media: A Case Study on Twitter. Information. ISSN 2078-2489. Vol. 11(3), pp. 154.
 
-- ROSSANEZ, A.; **DOS REIS, J. C.**; TORRES, R. S.; RIBAUPIERRE, H. 2020. KGen: A Knowledge Graph Generator from Biomedical Scientific Literature. BMC Medical Informatics and Decision Making. Vol 20 (314) ISSN: 1472-6947 [https://doi.org/10.1186/s12911-020-01341-5](https://doi.org/10.1186/s12911-020-01341-5)
+- ROSSANEZ, A.; **DOS REIS, J. C.**; TORRES, R. S.; RIBAUPIERRE, H. 2020. [KGen: A Knowledge Graph Generator from Biomedical Scientific Literature](https://doi.org/10.1186/s12911-020-01341-5). BMC Medical Informatics and Decision Making. Vol 20 (314) ISSN: 1472-6947
 
-- TOSI, M. D. L.; **DOS REIS, J. C.** 2020. Understanding the evolution of a scientific field by clustering and visualizing knowledge graphs. Journal of Information Science. Online first. ISSN: 0165-5515 [https://doi.org/10.1177/0165551520937915](https://doi.org/10.1177/0165551520937915)
+- TOSI, M. D. L.; **DOS REIS, J. C.** 2020. [Understanding the evolution of a scientific field by clustering and visualizing knowledge graphs](https://doi.org/10.1177/0165551520937915). Journal of Information Science. Online first. ISSN: 0165-5515
 
 ### 2019
 
@@ -90,7 +90,7 @@ date: 2026-01-12
 
 - **DOS REIS, J. C.**; BONACIN, R.; JENSEN, C. J.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2018. Designing Interactive Mechanisms to Support the Communication of Users’ Intentions. Interacting with Computers (IwC). Oxford. ISSN: 0953-5438. Vol. 30 (4), pp. 315–335
 
-- DOS REIS, J.C.; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2018. Intenticons: Participatory Selection of Emoticons for Communication of Intentions. Computers in Human Behavior (CHB). Elsevier. ISSN: 0747-5632. Vol. 85, pp. 146-162
+- **DOS REIS, J. C.**; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2018. Intenticons: Participatory Selection of Emoticons for Communication of Intentions. Computers in Human Behavior (CHB). Elsevier. ISSN: 0747-5632. Vol. 85, pp. 146-162
 
 ### 2016
 
@@ -118,7 +118,7 @@ date: 2026-01-12
 
 ### 2013
 
-- BONACIN, R.; DOS REIS, J.C.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2013. An Ontological Model for Supporting Intention-based Information Sharing on Collaborative Problem Solving. International Journal of Collaborative Enterprise (IJCEnt). Inderscience. Vol. 3 (2/3), pp. 130-150.
+- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; BARANAUSKAS, M.C.C. 2013. An Ontological Model for Supporting Intention-based Information Sharing on Collaborative Problem Solving. International Journal of Collaborative Enterprise (IJCEnt). Inderscience. Vol. 3 (2/3), pp. 130-150.
 
 - FIGUEIREDO, A. M. C.; **DOS REIS, J. C.**; RODRIGUES, M. A. 2012. Improving Access to Software Architecture Knowledge: An Ontology-based Search Approach. International Journal Multimedia and Image Processing (IJMIP). Vol. 3 (1/2), pp. 143-149.
 
@@ -146,11 +146,11 @@ date: 2026-01-12
 
 ### 2025
 
-- ZEVALLOS-QUISPE, J. M.; REGINO, A.; CHICO, V. J. S.; HOCHGREB, V.; **DOS REIS, J. C.** 2025. UpKG: A Framework for Integrating and Evaluating Novel Domains into Knowledge Graphs. In Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2023. Communications in Computer and Information Science Springer. Volume 2454; Chapter 10, Springer. F. Coenen et al. (Eds.): IC3K2023, CCIS2454, pp.1–29. [https://doi.org/10.1007/978-3-031-87569-4_10](https://doi.org/10.1007/978-3-031-87569-4_10)
+- ZEVALLOS-QUISPE, J. M.; REGINO, A.; CHICO, V. J. S.; HOCHGREB, V.; **DOS REIS, J. C.** 2025. [UpKG: A Framework for Integrating and Evaluating Novel Domains into Knowledge Graphs](https://doi.org/10.1007/978-3-031-87569-4_10). In Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2023. Communications in Computer and Information Science Springer. Volume 2454; Chapter 10, Springer. F. Coenen et al. (Eds.): IC3K2023, CCIS2454, pp.1–29.
 
 ### 2023
 
-- REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2023. From Natural Language Texts to RDF Triples: A Novel Approach to Generating E-Commerce Knowledge Graphs. In Coenen, F., et al. Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2022. Communications in Computer and Information Science Springer. Vol. X1842, [https://doi.org/10.1007/978-3-031-43471-6_7](https://doi.org/10.1007/978-3-031-43471-6_7)
+- REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2023. [From Natural Language Texts to RDF Triples: A Novel Approach to Generating E-Commerce Knowledge Graphs](https://doi.org/10.1007/978-3-031-43471-6_7). In Coenen, F., et al. Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2022. Communications in Computer and Information Science Springer. Vol. X1842
 
 ### 2021
 
@@ -268,11 +268,7 @@ date: 2026-01-12
 
 - MOHAMED, A. H.; SOUZA, A. M. D. S.; COSTA, J. B. D.; VILLAS, L. A.; **DOS REIS, J. C.** 2024. Combining Client Selection Strategy with Knowledge Distillation for Federated Learning in Non-IID Data. In Proceedings of the 29th IEEE Symposium on Computers and Communications (ISCC’24). Paris, France.
 
-- MOHAMED, A. H.; SOUZA, A. M. D. S.; COSTA, J. B. D.; VILLAS, L. A.; **DOS REIS, J. C.** 2024. FedSeleKDistill: Empoderando a Escolha de Clientes com a
-
-Destilacão do Conhecimento para Aprendizado Federado em
-
-Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos – VIII Workshop de Computação Urbana (CoUrb), Niteroi, RJ, Brazil (In Portuguese) [Best Paper Award]
+- MOHAMED, A. H.; SOUZA, A. M. D. S.; COSTA, J. B. D.; VILLAS, L. A.; **DOS REIS, J. C.** 2024. FedSeleKDistill: Empoderando a Escolha de Clientes com a Destilacão do Conhecimento para Aprendizado Federado em Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos – VIII Workshop de Computação Urbana (CoUrb), Niteroi, RJ, Brazil (In Portuguese) [Best Paper Award]
 
 - REGINO, A.; **DOS REIS, J. C.** 2024. Generating E-commerce Related Knowledge Graph from Text: Open Challenges and Early Results using LLMs. In Proceedings of the 3rd International Workshop on Knowledge Graph Generation from Text (TEXT2KG’24) co-located at the Extended Semantic Web Conference (ESWC).
 
@@ -294,7 +290,7 @@ Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas
 
 - CHICO, V. J. S.; ZUCCHI, L.; FERRAGUT, D.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2023. Automated question answering via natural language sentence similarity: Achievements for Brazilian e-commerce platforms. In Proceedings of the 15th Symposium in Information and Human Language Technology (STIL’23). Belo Horizonte, Brazil.
 
-- FOERSTE, H. T. S.; PURIM, A. G. M.; SOUZA, R. R.; **DOS REIS, J. C.** 2023. Assis: Online Semi-Automatic Dialog Annotation Tool. XIX Brazilian Symposium on Information Systems. Pp. 37–44. Maceió, Alagoas, Brazil. DOI: [https://doi.org/10.1145/3592813.3592886](https://doi.org/10.1145/3592813.3592886)
+- FOERSTE, H. T. S.; PURIM, A. G. M.; SOUZA, R. R.; **DOS REIS, J. C.** 2023. [Assis: Online Semi-Automatic Dialog Annotation Tool](https://doi.org/10.1145/3592813.3592886). XIX Brazilian Symposium on Information Systems. Pp. 37–44. Maceió, Alagoas, Brazil.
 
 - PERES, S. B. D.; **DOS REIS, J. C.** 2023. VeeMo: An universal exergame for kindergarten. In Proceedings of the 25th International Conference on Human-Computer Interaction (HCII’23). Copenhagen, Denmark. LNCS.
 
@@ -328,9 +324,9 @@ Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas
 
 - CAUS, R; **DOS REIS, J. C.** 2021. Investigando Similaridade para Diferenciar Instâncias de Conceitos em Grafos de Conhecimento. In Proceedings of the 14º Seminário de Pesquisa em Ontologias no Brasil (ONTOBRAS 2021). Virtual event.
 
-- MOHAMED, A. H.; **DOS REIS, J. C.**; VILLAS, L. A. 2021. Forecasting Citywide Crowd Flows with Unbalanced Human Mobility Distributions. In Proceedings of the 19th ACM International Symposium on Mobility Management and Wireless Access (MobiWac’21). pp 63-70. [https://doi.org/10.1145/3479241.3486687](https://doi.org/10.1145/3479241.3486687)
+- MOHAMED, A. H.; **DOS REIS, J. C.**; VILLAS, L. A. 2021. [Forecasting Citywide Crowd Flows with Unbalanced Human Mobility Distributions](https://doi.org/10.1145/3479241.3486687). In Proceedings of the 19th ACM International Symposium on Mobility Management and Wireless Access (MobiWac’21). pp 63-70.
 
-- BORGES, G. C.; **DOS REIS, J. C.**; MEDEIROS. C. B. 2021. Addressing search in scientific open data repositories: A semantic metasearch platform. XV Brazilian e-Science Workshop (BreSci’21). XLI Congresso da Sociedade Brasileira de Computação. Virtual conference Pp. 81-88. DOI: [https://doi.org/10.5753/bresci.2021](https://doi.org/10.5753/bresci.2021) [Honorable Mention Award]
+- BORGES, G. C.; **DOS REIS, J. C.**; MEDEIROS. C. B. 2021. [Addressing search in scientific open data repositories: A semantic metasearch platform](https://doi.org/10.5753/bresci.2021). XV Brazilian e-Science Workshop (BreSci’21). XLI Congresso da Sociedade Brasileira de Computação. Virtual conference Pp. 81-88. [Honorable Mention Award]
 
 - GONÇALVES, J. A. V.; **DOS REIS, J. C.**; BONACIN, R. 2021. Tangible Solutions for Learning Basic Math Skills: Exploring concepts of emotions and enaction. In Proceedings of the 23rd International Conference on Human-Computer Interaction (HCII’21). Virtual Conference. Springer, pp. 133-152
 
@@ -346,9 +342,7 @@ Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas
 
 - REGINO, A. G.; **DOS REIS, J. C.** 2020. Discovering Semantically Broken Links in LOD Datasets. In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp. 17-26. Virtual event.
 
-- ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2020. Representing Scientific Literature Evolution via Temporal Knowledge Graphs. In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp.
-
-33-42. Virtual event.
+- ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2020. Representing Scientific Literature Evolution via Temporal Knowledge Graphs. In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp. 33-42. Virtual event.
 
 - VICTORELLI, E. Z; **DOS REIS, J. C.** 2020. Human-Data Interaction Design Guidelines for Visualization Systems. In: In Proceedings of the XIX Brazilian Symposium on Human Factors in Computing Systems (IHC'20). pp. 191-200. Virtual event.
 
@@ -490,7 +484,7 @@ Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas
 
 - BONACIN, R.; HORNUNG, H.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. Interacting with Dynamic Social Knowledge: Revealing Challenges through an Analysis of Pragmatic Aspects of Problem Solving. In Proceedings of the 14th International Conference on Enterprise Information Systems (ICEIS’12). Wroclaw, Poland, pp. 54-63. [Best Paper Nominee]
 
-- HORNUNG, H.; BONACIN, R.; DOS REIS, J.C.; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. Identifying Pragmatic Patterns of Collaborative Problem Solving. In Proceedings of the IADIS International Conference WWW/Internet (ICWI’12). Madrid, Spain, pp. 379-387
+- HORNUNG, H.; BONACIN, R.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. Identifying Pragmatic Patterns of Collaborative Problem Solving. In Proceedings of the IADIS International Conference WWW/Internet (ICWI’12). Madrid, Spain, pp. 379-387
 
 ### 2011
 - **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. Beyond the Social Search: Personalizing the Semantic Search in Social Networks. In Proceedings of the 14th International Conference on Human-Computer Interaction (HCII’11). LNCS. Vol. 6778, pp. 345-354
