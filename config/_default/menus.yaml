@@ -19,8 +19,8 @@ main:
   - name: Research
     url: research/
     weight: 14
-  - name: Students
-    url: students/
+  - name: Supervisions
+    url: supervisions/
     weight: 15
   - name: Teaching
     url: teaching/
