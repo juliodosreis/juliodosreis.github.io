@@ -264,13 +264,13 @@ date: 2026-01-12
 
 - ARAUJO, P. A. M.; HADDADI, S. J.; SANTOS, F.; DA SILVA REIS, M; **DOS REIS, J. C.** 2024. [Topic Modeling Influence in Sentiment Analysis from User-generated Product Reviews.](https://ieeexplore.ieee.org/abstract/document/10880303) In Proceedings of the 32nd International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE’24). Reggio Emilia, Italy.
 
-- SANTOS, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. SERIEMA: A Framework to Enhance Clustering Stability, Compactness, and Separation by Fusing Multimodal Data. In Proceedings of the 29th International Conference on Natural Language & Information Systems (NLDB’24). Turin, Italy. [Best Paper Contender]
+- SANTOS, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. SERIEMA: A Framework to Enhance Clustering Stability, Compactness, and Separation by Fusing Multimodal Data. In Proceedings of the 29th International Conference on Natural Language & Information Systems (NLDB’24). Turin, Italy. [**Best Paper Contender**]
 
 - CHICO, V. J. S.; TESSLER, J.; BONACIN, R.; **DOS REIS, J. C.** 2024. BEQuizzer: AI-based Quiz Automatic Generation in the Portuguese Language. In Proceedings of the 29th International Conference on Natural Language & Information Systems (NLDB’24). Turin, Italy.
 
 - MOHAMED, A. H.; SOUZA, A. M. D. S.; COSTA, J. B. D.; VILLAS, L. A.; **DOS REIS, J. C.** 2024. Combining Client Selection Strategy with Knowledge Distillation for Federated Learning in Non-IID Data. In Proceedings of the 29th IEEE Symposium on Computers and Communications (ISCC’24). Paris, France.
 
-- MOHAMED, A. H.; SOUZA, A. M. D. S.; COSTA, J. B. D.; VILLAS, L. A.; **DOS REIS, J. C.** 2024. FedSeleKDistill: Empoderando a Escolha de Clientes com a Destilacão do Conhecimento para Aprendizado Federado em Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos – VIII Workshop de Computação Urbana (CoUrb), Niteroi, RJ, Brazil (In Portuguese) [Best Paper Award]
+- MOHAMED, A. H.; SOUZA, A. M. D. S.; COSTA, J. B. D.; VILLAS, L. A.; **DOS REIS, J. C.** 2024. FedSeleKDistill: Empoderando a Escolha de Clientes com a Destilacão do Conhecimento para Aprendizado Federado em Dados Não-IID. In 42º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos – VIII Workshop de Computação Urbana (CoUrb), Niteroi, RJ, Brazil (In Portuguese) [**Best Paper Award**]
 
 - REGINO, A.; **DOS REIS, J. C.** 2024. Generating E-commerce Related Knowledge Graph from Text: Open Challenges and Early Results using LLMs. In Proceedings of the 3rd International Workshop on Knowledge Graph Generation from Text (TEXT2KG’24) co-located at the Extended Semantic Web Conference (ESWC).
 
@@ -298,7 +298,7 @@ date: 2026-01-12
 
 - VIRIATO, P. J. S.; SOUZA, R. R.; VILLAS, L. A.; **DOS REIS, J. C.** 2023. Revealing Chatbot Humanization Impact Factors. In Proceedings of the 25th International Conference on Human-Computer Interaction (HCII’23). Copenhagen, Denmark. LNCS.
 
-- VIRIATO, P. J. S.; SOUZA, R. R.; VILLAS, L. A.; **DOS REIS, J. C.** 2023. A Framework for Humanization Evaluation in Chatbots. In Proceedings of the 25th International Conference on Human-Computer Interaction (HCII’23). Copenhagen, Denmark. LNCS. [Best paper award]
+- VIRIATO, P. J. S.; SOUZA, R. R.; VILLAS, L. A.; **DOS REIS, J. C.** 2023. A Framework for Humanization Evaluation in Chatbots. In Proceedings of the 25th International Conference on Human-Computer Interaction (HCII’23). Copenhagen, Denmark. LNCS. [**Best Paper award**]
 
 - DIAS, E. Z. V.; **DOS REIS, J. C.** 2023. Evaluating User Experience in Information Visualization Systems: UXIV an Evaluation Questionnaire. In Proceedings of the 25th International Conference on Human-Computer Interaction (HCII’23). Copenhagen, Denmark. LNCS.
 
@@ -314,13 +314,13 @@ date: 2026-01-12
 
 - REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2022. QART: A Framework to Transform Natural Language Questions and Answers into RDF Triples. In Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K’22). Vol 2, pp 55-65. DOI: 10.5220/0011529200003335, Valletta, Malta.
 
-- REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2022. Knowledge Graph-based Product Recommendations on e-Commerce Platforms. In Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K’22).  Vol 2, pp 32-42. DOI: 10.5220/0011388300003335, Valletta, Malta. [Best Paper Award]
+- REGINO, A.; CAUS, R.; HOCHGREB, V.; **DOS REIS, J. C.** 2022. Knowledge Graph-based Product Recommendations on e-Commerce Platforms. In Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K’22).  Vol 2, pp 32-42. DOI: 10.5220/0011388300003335, Valletta, Malta. [**Best Paper Award**]
 
 - COELHO, R. S. V.; **DOS REIS, J. C.**; BONACIN, R.; SELLERI, F.; DANTAS, F. E. D. 2022.  An Ontology-based Approach to Annotating Enactive Educational Media: Studies in math learning. In Proceedings of the 24th International Conference on Human-Computer Interaction (HCII’22). Virtual. LNCS. Vol 13328.
 
 - QUEIROZ, M. J. N; DUARTE, E. F.; PIMENTA. J.R. O. G.; **DOS REIS, J. C.** 2022. Imagination on Interactive Installations: A Systematic Literature Review. In Proceedings of the 24th International Conference on Enterprise Information Systems (ICEIS’22). Online streaming. Pp. 223-234. DOI: 10.5220/0011040100003179
 
-- SANCHES, M. F.; SA, J. M. C.; SOUZA, A. M.; SILVA, D. A.; SOUZA, R. R.; **DOS REIS, J. C.**; VILLAS, L. A. 2022. MCCD: Generating Human Natural Language Conversational Datasets. In Proceedings of the 24th International Conference on Enterprise Information Systems (ICEIS’22). Online streaming. Pp. 247-255. DOI: 10.5220/0011077400003179 [Best Paper Award]
+- SANCHES, M. F.; SA, J. M. C.; SOUZA, A. M.; SILVA, D. A.; SOUZA, R. R.; **DOS REIS, J. C.**; VILLAS, L. A. 2022. MCCD: Generating Human Natural Language Conversational Datasets. In Proceedings of the 24th International Conference on Enterprise Information Systems (ICEIS’22). Online streaming. Pp. 247-255. DOI: 10.5220/0011077400003179 [**Best Paper Award**]
 
 ### 2021
 
@@ -336,7 +336,7 @@ date: 2026-01-12
 
 ### 2020
 
-- VIRGINIO, L.; **DOS REIS, J. C.** 2020. Health IT and Patient Safety: Finding Relations Between EMRAM and SAFER Guides. In Proceedings of the XVII Brazilian Congress in Health Informatics. Virtual Event. [Best Paper Nominee]
+- VIRGINIO, L.; **DOS REIS, J. C.** 2020. Health IT and Patient Safety: Finding Relations Between EMRAM and SAFER Guides. In Proceedings of the XVII Brazilian Congress in Health Informatics. Virtual Event. [**Best Paper Nominee**]
 
 - SANT’ANNA, D. T.; CAUS, R. O.; RAMOS, L. S.; HOCHGREB, V.; **DOS REIS, J. C.** 2020. Generating Knowledge Graphs from Unstructured Texts: Experiences in the E-commerce Field for Question Answering. In 6th International Workshop on Natural Language Interfaces for the Web of Data (NLIWOD’20) co-located at the 19th International Semantic Web Conference (ISWC'20). Virtual event.
 
@@ -348,9 +348,9 @@ date: 2026-01-12
 
 - VICTORELLI, E. Z; **DOS REIS, J. C.** 2020. Human-Data Interaction Design Guidelines for Visualization Systems. In: In Proceedings of the XIX Brazilian Symposium on Human Factors in Computing Systems (IHC'20). pp. 191-200. Virtual event.
 
-- **DOS REIS, J. C.**; DOS SANTOS, A. C.; DUARTE, E. F.; GONÇALVES, F. M.; FRANÇA, B. B. N.; BONACIN, R.; BARANAUSKAS, M.C.C. 2020. Articulating Socially Aware Design Artifacts and User Stories in the Conception of the OpenDesign Platform. In Proceedings of the 22nd International Conference on Enterprise Information Systems (ICEIS’20). Prague, pp. 523-532. Online streaming. [Best Paper Nominee]
+- **DOS REIS, J. C.**; DOS SANTOS, A. C.; DUARTE, E. F.; GONÇALVES, F. M.; FRANÇA, B. B. N.; BONACIN, R.; BARANAUSKAS, M.C.C. 2020. Articulating Socially Aware Design Artifacts and User Stories in the Conception of the OpenDesign Platform. In Proceedings of the 22nd International Conference on Enterprise Information Systems (ICEIS’20). Prague, pp. 523-532. Online streaming. [**Best Paper Nominee**]
 
-- GONÇALVES, D. A; BARANAUSKAS, M.C.C.; **DOS REIS, J. C.**; TODT, E. 2020. Facial Expressions Animation in Sign Language based on Spatio-Temporal Centroid. In Proceedings of the 22nd International Conference on Enterprise Information Systems (ICEIS’20). Prague, pp. 463-475. Online streaming. [Best Paper Nominee]
+- GONÇALVES, D. A; BARANAUSKAS, M.C.C.; **DOS REIS, J. C.**; TODT, E. 2020. Facial Expressions Animation in Sign Language based on Spatio-Temporal Centroid. In Proceedings of the 22nd International Conference on Enterprise Information Systems (ICEIS’20). Prague, pp. 463-475. Online streaming. [**Best Paper Nominee**]
 
 - VALENTE, J.; CACEFFO, R.; MOREIRA, E. A.; BONACIN, R.; **DOS REIS, J. C.**; LUQUE, M.; D’ABREU, J. V.; GONÇALVES, F. M.; BRENNAND, C.; BARANAUSKAS, M.C.C. 2020. A Robot-based Activity for Kindergarten Children: An Embodied Exercise. Proceedings of Constructionism Conference. Dublin, Ireland, p. 137-143.
 
@@ -440,14 +440,14 @@ date: 2026-01-12
 
 - ARAUJO, R. J.; **DOS REIS, J. C.**; BONACIN, R. 2016. Ontology-based Adaptive Interfaces for Colorblind Users. In Proceedings of the 18th International Conference on Human-Computer Interaction (HCII’16). Toronto, Canada. LNCS. Vol. 9737, pp. 27-37.
 
-- **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M. 2016. Intention-based Information Retrieval of Electronic Health Records. In Proceedings of the 25th IEEE International Conference on Enabling Technologies (WETICE’16). Paris, France, pp. 217-222 [Best Paper Award]
+- **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M. 2016. Intention-based Information Retrieval of Electronic Health Records. In Proceedings of the 25th IEEE International Conference on Enabling Technologies (WETICE’16). Paris, France, pp. 217-222 [**Best Paper Award**]
 
 - **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M.; BARANAUSKAS, M.C.C. 2016. Analysis and Representation of Illocutions from Electronic Health Records. In Proceedings of the 17th International Conference on Informatics and Semiotics in Organisations (ICISO’16). Campinas, Brazil. Vol. 477, pp. 209-218.
 
-- **DOS REIS, J. C.**; JENSEN, C. J.; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2016. Expressive icons for the communication of intentions. In Proceedings of the 18th International Conference on Enterprise Information Systems (ICEIS’16). Roma, Italy. Vol 2, pp. 388-399. [Best Paper Nominee]
+- **DOS REIS, J. C.**; JENSEN, C. J.; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2016. Expressive icons for the communication of intentions. In Proceedings of the 18th International Conference on Enterprise Information Systems (ICEIS’16). Roma, Italy. Vol 2, pp. 388-399. [**Best Paper Nominee**]
 
 ### 2015
-- **DOS REIS, J. C.**; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. Heuristiques pour l’adaptation des mappings entre ontologies dynamiques. In Proceedings of the 15th Conference on Knowledge Extraction and Management (EGC’15). Luxembourg, pp. 239-250. (In French) [Best Paper Nominee]
+- **DOS REIS, J. C.**; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. Heuristiques pour l’adaptation des mappings entre ontologies dynamiques. In Proceedings of the 15th Conference on Knowledge Extraction and Management (EGC’15). Luxembourg, pp. 239-250. (In French) [**Best Paper Nominee**]
 
 - JENSEN, C. J.; **DOS REIS, J. C.**; BONACIN, R. 2015. An Interaction Design Method to Support the Expression of User Intentions in Collaborative Systems. In Proceedings of the 17th International Conference on Human-Computer Interaction (HCII’15). LNCS. Vol. 9169, pp. 214-226.
 
@@ -484,7 +484,7 @@ date: 2026-01-12
 
 - BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; BARANAUSKAS, M.C.C. 2012. An Ontological Model for Representing Pragmatic Aspects of Collaborative Problem Solving. In Proceedings of the IEEE 21st International Conference on Enabling Technologies (WETICE’12). Toulouse, France, pp. 444-449
 
-- BONACIN, R.; HORNUNG, H.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. Interacting with Dynamic Social Knowledge: Revealing Challenges through an Analysis of Pragmatic Aspects of Problem Solving. In Proceedings of the 14th International Conference on Enterprise Information Systems (ICEIS’12). Wroclaw, Poland, pp. 54-63. [Best Paper Nominee]
+- BONACIN, R.; HORNUNG, H.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. Interacting with Dynamic Social Knowledge: Revealing Challenges through an Analysis of Pragmatic Aspects of Problem Solving. In Proceedings of the 14th International Conference on Enterprise Information Systems (ICEIS’12). Wroclaw, Poland, pp. 54-63. [**Best Paper Nominee**]
 
 - HORNUNG, H.; BONACIN, R.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. Identifying Pragmatic Patterns of Collaborative Problem Solving. In Proceedings of the IADIS International Conference WWW/Internet (ICWI’12). Madrid, Spain, pp. 379-387
 
@@ -495,7 +495,7 @@ date: 2026-01-12
 
 - ALMEIDA, L. D. A; HAYASHI, E. C. S.; **DOS REIS, J. C.**; COSTA, P. D. P; BARANAUSKAS, M.C.C.; DE MARTINO, J. M. 2011. Augmenting Accessibility in Social Networks: a Virtual Presenter. In Proceedings of the 13th International Conference on Enterprise Information Systems (ICEIS’11). Beijing, China, pp. 225-234
 
-- PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; **DOS REIS, J. C.** 2011. Interaction Design of Social Software: Clarifying requirements through a culturally aware artifact. In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 310-315. [Best Paper Award]
+- PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; **DOS REIS, J. C.** 2011. Interaction Design of Social Software: Clarifying requirements through a culturally aware artifact. In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 310-315. [**Best Paper Award**]
 
 - FIGUEIREDO, A. M. C.; **DOS REIS, J. C.**; RODRIGUES, M. A. 2011. Semantic Search for Software Architecture Knowledge: A proposal for Virtual Communities Environment. In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 287-291
 
