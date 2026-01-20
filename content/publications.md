@@ -10,23 +10,25 @@ date: 2026-01-12
 
 ### 2026
 
-- SANTOS, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2026. Enhancing Clustering Stability, Compactness, and Separation in Multimodal Data Environments. Data & Knowledge Engineering (DKE). Vol 162. ISSN: 0169-023X
+- KALIDAS, V.; ROSSANEZ, A.; REGINO, A. G., **DOS REIS, J. C.**; TORRES, R. S. 2026. ELSA-Compliant Explainable Recommender Systems. ACM Transactions on Recommender Systems (TORS). EISSN: 2770-6699. (to be published)
+
+- CHICO, V. J. S.; REGINO, A.; **DOS REIS, J. C.** 2026. BENCH4T3: A Framework to Create Benchmarks for Text-to-Triples Alignment Generation. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804. (to be published)
+
+- SANTOS, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2026. [Enhancing Clustering Stability, Compactness, and Separation in Multimodal Data Environments](https://www.sciencedirect.com/science/article/abs/pii/S0169023X25001314?via%3Dihub). Data & Knowledge Engineering (DKE). Vol 162. ISSN: 0169-023X
 
 ### 2025
 
 - MOHAMED, A. H.; COSTA, J. B. D.; SOUZA, A. M. D. S.; VILLAS, L. A.; **DOS REIS, J. C.** 2025. [Empowering Client Selection with Local Knowledge Distillation for Efficient Federated Learning in Non-IID Data](https://doi.org/10.5753/jisa.2025.5154). Journal of Internet Services and Applications. Vol 16(1), pp. 543–553.
 
-- REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2025. A Systematic Literature Review on RDF Triple Generation from Natural Language Texts. Semantic Web Journal (SWJ). ISSN: 1570-0844.
-
-- CHICO, V. J. S.; REGINO, A.; **DOS REIS, J. C.** 2025. BENCH4T3: A Framework to Create Benchmarks for Text-to-Triples Alignment Generation. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804.
+- REGINO, A.; ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2025. [A Systematic Literature Review on RDF Triple Generation from Natural Language Texts](https://journals.sagepub.com/doi/10.1177/22104968251398355). Semantic Web Journal – Interoperability, Usability, Applicability. (SWJ). Vol 17(1). ISSN: 1570-0844.
 
 ### 2024
 
-- FIGUEIREDO, E.; ROSA, F.; **DOS REIS, J. C.**; DAMETTO, M.; BONACIN, R. 2024. The Reuse of Electronic Health Records Information Models in the Oncology Domain: Studies with the BioFrame Framework. Journal of Biomedical Informatics (JBI). ISSN: 1532-0464.
+- FIGUEIREDO, E.; ROSA, F.; **DOS REIS, J. C.**; DAMETTO, M.; BONACIN, R. 2024. [The Reuse of Electronic Health Records Information Models in the Oncology Domain: Studies with the BioFrame Framework](https://pubmed.ncbi.nlm.nih.gov/39127228/). Journal of Biomedical Informatics (JBI). ISSN: 1532-0464.
 
-- VICTORELLI, E. Z.; **DOS REIS, J. C.** 2024. Adopting Human-data Interaction Guidelines and Participatory Practices for Supporting Inexperienced Designers in Information Visualization Applications. Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804.
+- VICTORELLI, E. Z.; **DOS REIS, J. C.** 2024. [Adopting Human-data Interaction Guidelines and Participatory Practices for Supporting Inexperienced Designers in Information Visualization Applications.](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/2592) Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804. 30(1), 35–54. https://doi.org/10.5753/jbcs.2024.259
 
-- HADDADI, S. J.; FARSHIDVARD, A.; DOS SANTOS SILVA, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. Customer churn prediction in imbalanced datasets with resampling methods: A comparative study. Expert Systems with Applications (ESWA). Vol (246) ISSN: 0957-4174.
+- HADDADI, S. J.; FARSHIDVARD, A.; DOS SANTOS SILVA, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. [Customer churn prediction in imbalanced datasets with resampling methods: A comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035881). Expert Systems with Applications (ESWA). Vol (246) ISSN: 0957-4174. Vol (246).
 
 - GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS. M. C. C. 2024. [Enactive Interaction in Technology-based Learning Environments: A Systematic Literature Review. Educational Technology & Society](https://doi.org/10.30191/ETS.202404_27(2).RP02). Vol 27(2), pp. 87-113.
 
@@ -46,17 +48,17 @@ date: 2026-01-12
 
 - CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2022. [Children’s Social Interactions Within a Socioenactive Scenario](https://doi.org/10.1016/j.compedu.2021.104324). Computers & Education (C&E). Vol 176. ISSN: 0360-1315. 
 
-- BORGES, G. C.; DOS REIS, J. C; MEDEIROS. C. B.; 2022. SSM: a semantic metasearch platform for scientific data retrieval. Revista de Informática Teórica e Aplicada (RITA). Vol. 29(1) pp. 91-101. ISSN: 2175-2745
+- BORGES, G. C.; **DOS REIS, J. C.**; MEDEIROS. C. B.; 2022. [SSM: a semantic metasearch platform for scientific data retrieval.](https://seer.ufrgs.br/rita/article/view/RITA_Vol29_Nr1_91/pdf) Revista de Informática Teórica e Aplicada (RITA). Vol. 29(1) pp. 91-101. ISSN: 2175-2745
 
-- BRITO, D.; JUNIOR, J. L. C.; BONACIN, R.; **DOS REIS, J. C.** 2022. Exploring Supervised Techniques for Automated Recognition of Intentions Classes from Portuguese Free Texts on Agriculture. Revista de Informática Teórica e Aplicada (RITA). Vol. 29 (2), pp. 95-120. ISSN: 2175-2745
+- BRITO, D.; JUNIOR, J. L. C.; BONACIN, R.; **DOS REIS, J. C.** 2022. [Exploring Supervised Techniques for Automated Recognition of Intentions Classes from Portuguese Free Texts on Agriculture.](https://www.seer.ufrgs.br/rita/article/view/117481) Revista de Informática Teórica e Aplicada (RITA). Vol. 29 (2), pp. 95-120. ISSN: 2175-2745
 
 - BONACIN, R.; **DOS REIS, J. C.**; ARAUJO, J. A. R. 2022. [An Ontology-based Framework for Improving Colour Vision Deficiency Accessibility](https://doi.org/10.1007/s10209-021-00791-6). International Journal of Universal Access in the Information Society (UAIS). Vol 21, pp. 691–716. ISSN: 1615-5289.
 
 ### 2021
 
-- TOSI, M. D. L.; **DOS REIS, J. C.** 2021. Keyphrases extraction from single textual documents based on semantically defined background knowledge and co-occurrence graphs. International Journal of Metadata, Semantics and Ontologies (IJMSO). Vol. 15 (2). pp 121-132. ISSN: 1744-2621
+- TOSI, M. D. L.; **DOS REIS, J. C.** 2021. [Keyphrases extraction from single textual documents based on semantically defined background knowledge and co-occurrence graphs.](https://dl.acm.org/doi/abs/10.1504/ijmso.2021.120284) International Journal of Metadata, Semantics and Ontologies (IJMSO). Vol. 15 (2). pp 121-132. ISSN: 1744-2621
 
-- GOTTARDI, T; MEDEIROS. C. B.; **DOS REIS, J. C.** 2021. Semantic Search to Foster Scientific Findability: A Systematic Literature Review. Journal of Information and Data Management (JIDM). Vol. 12(5), pp. 469–489. ISSN: 2178-7107
+- GOTTARDI, T; MEDEIROS. C. B.; **DOS REIS, J. C.** 2021. [Semantic Search to Foster Scientific Findability: A Systematic Literature Review.](https://journals-sol.sbc.org.br/index.php/jidm/article/view/1919) Journal of Information and Data Management (JIDM). Vol. 12(5), pp. 469–489. ISSN: 2178-7107
 
 - VALENTE, J. A.; CACEFFO, R.; BONACIN, R.; **DOS REIS, J. C.**; GONCALVES, D. A.; BARANAUSKAS. M. C. C. 2021. [Embodied-based Environment for Kindergarten Children: revisiting constructionist ideas](https://doi.org/10.1111/bjet.13078). British Journal of Educational Technology (BJET). Vol 52 (3), pp. 986-1003. ISSN:1467-8535.
 
@@ -64,7 +66,7 @@ date: 2026-01-12
 
 - LOMBELLO, L. O.; CATINI, R.; BONACIN, R.; **DOS REIS, J. C.** 2021. [A Metamodel for Bridging Heterogeneous Ontologies: A Fuzzy RDF Approach](https://doi.org/10.1007/s42979-020-00386-7). SN Computer Science (SNCS). Vol 2 (6). ISSN: 2661-8907
 
-- REGINO, A. G.; MORSHED, A.; BONACIN, R.; **DOS REIS, J. C.**; SELLIS, T. 2021. Link maintenance for integrity in linked open data evolution: Literature survey and open challenges. Semantic Web Journal (SWJ). Vol 12 (3) pp. 517-541. ISSN: 1570-0844. DOI: 10.3233/SW-200398
+- REGINO, A. G.; MORSHED, A.; BONACIN, R.; **DOS REIS, J. C.**; SELLIS, T. 2021. [Link maintenance for integrity in linked open data evolution: Literature survey and open challenges.](https://journals.sagepub.com/doi/10.3233/SW-200398) Semantic Web Journal (SWJ). Vol 12 (3) pp. 517-541. ISSN: 1570-0844. DOI: 10.3233/SW-200398
 
 ### 2020
 
@@ -260,7 +262,7 @@ date: 2026-01-12
 
 - VIRGINIO, L.; **DOS REIS, J. C.** 2024. Application of a Health Information Technology Safety Maturity Model in Brazilian Hospitals. In Proceedings of the XX Congresso Brasileiro de Informática em Saúde (CBIS’24). Belo Horizonte, Brazil.
 
-- ARAUJO, P. A. M.; HADDADI, S. J.; SANTOS, F.; DA SILVA REIS, M; **DOS REIS, J. C.** 2024. Topic Modeling Influence in Sentiment Analysis from User-generated Product Reviews. In Proceedings of the 32nd International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE’24). Reggio Emilia, Italy.
+- ARAUJO, P. A. M.; HADDADI, S. J.; SANTOS, F.; DA SILVA REIS, M; **DOS REIS, J. C.** 2024. [Topic Modeling Influence in Sentiment Analysis from User-generated Product Reviews.](https://ieeexplore.ieee.org/abstract/document/10880303) In Proceedings of the 32nd International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE’24). Reggio Emilia, Italy.
 
 - SANTOS, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. SERIEMA: A Framework to Enhance Clustering Stability, Compactness, and Separation by Fusing Multimodal Data. In Proceedings of the 29th International Conference on Natural Language & Information Systems (NLDB’24). Turin, Italy. [Best Paper Contender]
 
@@ -522,6 +524,7 @@ date: 2026-01-12
 
 ## Short Articles in Conference’s Proceedings
 ### 2025
+
 - REGINO, A. G; **DOS REIS, J. C.** 2025. Enhancing Knowledge Graphs with Large Language Models: Contributions to E-commerce Question Answering Systems. In Concourse of Thesis and Dissertations at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25). [Honorable mention for the Thesis Award]
 
 - OLIVEIRA, H. M. D.; OLIVEIRA, G. D.; VIRIATO, P. J. S.; REGINO, A. G.; SILVA, E.; **DOS REIS, J. C.** 2025. StudYard: Aprimorando o Engajamento e a Autonomia do Estudante apoiado por IA Generativa. Concurso Integrado de Desenvolvimento de Soluções de Tecnologia e Objetos de Aprendizagem para a Educação (Apps.Edu). Congresso Brasileiro de Informática na Educação (CBIE).

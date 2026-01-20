@@ -106,7 +106,7 @@ work:
     company_logo: ''
     date_start: 2022-03-01
     date_end: 2026-02-28
-  - position: Deputy of the Information Systems Departament at the Institute of Computing
+  - position: Deputy of the Information Systems Department at the Institute of Computing
     company_name: University of Campinas, Brazil
     company_url: ''
     company_logo: ''
