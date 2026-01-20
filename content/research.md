@@ -12,9 +12,9 @@ date: 2026-01-12
 
 - [Application of Large Language Models for online monitoring of industrial processes](https://aaiims-unicamp.github.io/). Industry Project in partnership with Petrobras S. A.  PI
 
-- [H.IAAC: Hub for Artificial Intelligence and Cognitive Architecture](https://hiaac.unicamp.br/en/about-the-hub/). Associate Researcher.
-
 - Construction and Use of Knowledge Bases in Automated Question and Answer Systems. Industry Project in partnership with GoBots Intelligent Solutions Ltda. PI
+
+- [H.IAAC: Hub for Artificial Intelligence and Cognitive Architecture](https://hiaac.unicamp.br/en/about-the-hub/). Associate Researcher.
 
 
 ## Concluded Scientific Projects as Principal Investigator
@@ -23,7 +23,7 @@ date: 2026-01-12
 
 - KGevol: Dynamic Knowledge Graphs Extracted from Unstructured Textual Information. FAPESP Research grant. 
 
-- [EvOLoD: Linked Data Evolution on the Semantic Web](bv.fapesp.br/en/auxilios/98006/evolod-linked-data-evolution-on-the-semantic-web/). FAPESP Young Investigator grant. PI
+- [EvOLoD: Linked Data Evolution on the Semantic Web](bv.fapesp.br/en/auxilios/98006/evolod-linked-data-evolution-on-the-semantic-web/). FAPESP Young Investigator grant. 
 
 - [Managing the Effects of Linked Data Evolution](https://bv.fapesp.br/en/auxilios/101612/managing-the-effects-of-linked-data-evolution/). FAPESP Sprint grant with Swinburne University of Technology, Australia. 
 
@@ -31,7 +31,7 @@ date: 2026-01-12
 
 - Interactive Construction of Knowledge Graphs for Clinical Information Capture. FAPESP Research Industrial Grant with Precision Data Ltda. 
 
-- Methods for semantic analysis of dialog flows in natural language in Portuguese. Industry Project in partnership with CI&T Software S/A. PI
+- Methods for semantic analysis of dialog flows in natural language in Portuguese. Industry Project in partnership with CI&T Software S/A. 
 
 - [iMEanT: Methods for Dealing with Meanings and Intentions on Interactive Collaborative Systems](www.bv.fapesp.br/en/bolsas/157059/imeant-methods-for-dealing-with-meanings-and-intentions-on-interactive-collaborative-systems/). Postdoctoral FAPESP grant.
 
@@ -40,7 +40,7 @@ date: 2026-01-12
 
 - Networked Remote Education for All - a low-cost virtual environment for vulnerable populations. FAPESP Research Grant with NIED. 
 
-- [Socioenactive Systems: Investigating New Dimensions in the Design of Interaction](interhad.nied.unicamp.br/projetos/socio-enactive-systems). FAPESP Thematic Project grant. 
+- [Socioenactive Systems: Investigating New Dimensions in the Design of Interaction](https://socioenactive.ic.unicamp.br/en/). FAPESP Thematic Project grant. 
 
 - Arapuan: Interoperability of agricultural data in eScience. CNPq Research grant. 
 
@@ -48,7 +48,7 @@ date: 2026-01-12
 
 - [OpenDesign: Techniques and Artifacts for the Socially Aware Design of Computing Systems](https://interhad.nied.unicamp.br/projetos/opendesign). FAPESP/MCTI/MC/CGI grant. 
 
-- Modeling and Developing Actor Database Applications. A grant from the Danish Agency for Science and Higher Education (International Network Programme with the University of Copenhagen, Denmark)
+- Modeling and Developing Actor Database Applications. A grant from the Danish Agency for Science and Higher Education. International Network Programme with the University of Copenhagen, Denmark
 
 - DynaMO: Reconciliation of Dynamic Medical Knowledge Organization Systems. Grant from the Luxembourg National Research Fund at the Luxembourg Institute of Science and Technology  
 
