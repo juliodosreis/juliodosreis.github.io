@@ -561,7 +561,7 @@ date: 2026-01-12
 - **DOS REIS, J. C.** 2016. Adaptation des Mappings entre Systèmes d'Organisation de la Connaissance du domaine Biomédical. In Proceedings of the 16th Conference on Knowledge Extraction and Management (EGC’2016). Reims, France. RNTI E-30. pp. 23-24. (In French)
 
 ### 2015
-- MOTA, M. S.; **DOS REIS, J. C.**; GOUTTE, S.; SANTANCHE, A. 2015. Multiscale Dataspace for Organism-centric Analysis. In Proceedings of the XXX Brazilian Symposium on Databases (SBBD´2015). Petrópolis, Rio de Janeiro, Brasil, pp. 93-98. [Best Short Paper Award]
+- MOTA, M. S.; **DOS REIS, J. C.**; GOUTTE, S.; SANTANCHE, A. 2015. Multiscale Dataspace for Organism-centric Analysis. In Proceedings of the XXX Brazilian Symposium on Databases (SBBD´2015). Petrópolis, Rio de Janeiro, Brasil, pp. 93-98. [**Best Short Paper Award**]
 
 - PANTOJA, F. L.; **DOS REIS, J. C.**; SANTANCHE, A. 2015. Semantic Interpretation of Biological Identification Keys. In Proceedings of the XXX Brazilian Symposium on Databases (SBBD´2015). Petrópolis, Rio de Janeiro, Brasil, pp. 99-104.
 

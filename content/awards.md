@@ -51,11 +51,13 @@ date: 2026-01-12
 
 - Best Short Paper Award at the XXX Brazilian Symposium on Databases (SBBD), Brazil
 
+### 2013
 - 2nd Project Prize Award at the 3rd Extended Semantic Web Summer School, Greece 
+
+### 2012
+- M.Sc. Thesis finalist at the 2011 Concourse of Thesis promoted by the Brazilian Computer Society, Brazil
 
 ### 2011
 - Best 2011 M.Sc. Thesis Award by the Institute of Computing at the University of Campinas, Brazil
-
-- M.Sc. Thesis finalist at the 2011 Concourse of Thesis promoted by the Brazilian Computer Society, Brazil
 
 - Best Paper Award at the International Conference on Information Society in 2011, United Kingdom
