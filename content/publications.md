@@ -24,9 +24,9 @@ date: 2026-01-12
 
 - FIGUEIREDO, E.; ROSA, F.; **DOS REIS, J. C.**; DAMETTO, M.; BONACIN, R. 2024. [The Reuse of Electronic Health Records Information Models in the Oncology Domain: Studies with the BioFrame Framework](https://pubmed.ncbi.nlm.nih.gov/39127228/). Journal of Biomedical Informatics (JBI). ISSN: 1532-0464.
 
-- VICTORELLI, E. Z.; **DOS REIS, J. C.** 2024. [Adopting Human-data Interaction Guidelines and Participatory Practices for Supporting Inexperienced Designers in Information Visualization Applications.](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/2592) Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804. 30(1), 35–54. https://doi.org/10.5753/jbcs.2024.259
+- VICTORELLI, E. Z.; **DOS REIS, J. C.** 2024. [Adopting Human-data Interaction Guidelines and Participatory Practices for Supporting Inexperienced Designers in Information Visualization Applications.](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/2592) Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804. 30(1), pp. 35–54.
 
-- HADDADI, S. J.; FARSHIDVARD, A.; DOS SANTOS SILVA, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. [Customer churn prediction in imbalanced datasets with resampling methods: A comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035881). Expert Systems with Applications (ESWA). Vol (246) ISSN: 0957-4174. Vol (246).
+- HADDADI, S. J.; FARSHIDVARD, A.; DOS SANTOS SILVA, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. [Customer churn prediction in imbalanced datasets with resampling methods: A comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035881). Expert Systems with Applications (ESWA). Vol (246) ISSN: 0957-4174. 
 
 - GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS. M. C. C. 2024. [Enactive Interaction in Technology-based Learning Environments: A Systematic Literature Review. Educational Technology & Society](<https://doi.org/10.30191/ETS.202404_27(2).RP02>). Vol 27(2), pp. 87-113.
 
@@ -68,9 +68,9 @@ date: 2026-01-12
 
 ### 2020
 
-- VICTORELLI, E. Z.; **DOS REIS, J. C.**; HORNUNG, H.; PRADO, A. B. 2020. [Understanding human-data interaction: Literature review and recommendations for design. International Journal of Human-Computer Studies (IJHCS)](https://www.sciencedirect.com/science/article/pii/S1071581919301193). ISSN: 1071-5819. Vol. 134, pp. 13-32.
+- VICTORELLI, E. Z.; **DOS REIS, J. C.**; HORNUNG, H.; PRADO, A. B. 2020. [Understanding human-data interaction: Literature review and recommendations for design](https://www.sciencedirect.com/science/article/pii/S1071581919301193). International Journal of Human-Computer Studies (IJHCS). ISSN: 1071-5819. Vol. 134, pp. 13-32.
 
-- ARAUJO, R. J.; **DOS REIS, J. C.**; BONACIN, R. 2020. [Understanding Interface Recoloring Aspects by Colorblind People: A User Study. International Journal of Universal Access in the Information Society (UAIS)](https://link.springer.com/article/10.1007/s10209-018-0631-7). ISSN: 1615-5289. Vol. 19(1), pp. 81-98.
+- ARAUJO, R. J.; **DOS REIS, J. C.**; BONACIN, R. 2020. [Understanding Interface Recoloring Aspects by Colorblind People: A User Study](https://link.springer.com/article/10.1007/s10209-018-0631-7). International Journal of Universal Access in the Information Society (UAIS). ISSN: 1615-5289. Vol. 19(1), pp. 81-98.
 
 - MENDONÇA, R. R.; BRITO, D. F.; ROSA, F. F., **DOS REIS, J. C.**; BONACIN, R. 2020. [A Framework for Detecting Intentions of Criminal Acts in Social Media: A Case Study on Twitter](https://doi.org/10.3390/info11030154). Information. ISSN 2078-2489. Vol. 11(3), pp. 154.
 
@@ -82,11 +82,11 @@ date: 2026-01-12
 
 - BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2019. [Universal Participatory Design: Achievements and Challenges. SBC Journal on Interactive Systems](https://seer.ufrgs.br/jis/article/view/87740). ISSN: 2236-3297. Vol 10(1), pp.1-15.
 
-- MOREIRA, E. A.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2019. [Tangible Artifacts and the Evaluation of Affective States by Children. Brazilian Journal of Computers in Education (RBIE)](www.br-ie.org/pub/index.php/rbie/article/view/7753/6041). ISSN: 1414-5685. Vol 27(1), pp. 58-82. DOI: 10.5753/RBIE.2019.27.01.58
+- MOREIRA, E. A.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2019. [Tangible Artifacts and the Evaluation of Affective States by Children](https://journals-sol.sbc.org.br/index.php/rbie/article/view/4756). Brazilian Journal of Computers in Education (RBIE). ISSN: 1414-5685. Vol 27(1), pp. 58-82. DOI: 10.5753/RBIE.2019.27.01.58
 
 ### 2018
 
-- BONACIN, R.; **DOS REIS, J. C.**; PERCIANI, E. M.; NABUCO, O. 2018. [Exploring Intentions on Electronic Health Records Retrieval: Studies with Collaborative Scenarios](www.iieta.org/journals/isi/paper/10.3166/ISI.23.2.111-135). Ingénierie des Systèmes d'Information. Lavoisier. ISSN: 1633-1311. Vol 23 (2), pp.111-135. doi:10.3166/isi.23.2.111-135
+- BONACIN, R.; **DOS REIS, J. C.**; PERCIANI, E. M.; NABUCO, O. 2018. [Exploring Intentions on Electronic Health Records Retrieval: Studies with Collaborative Scenarios](https://www.iieta.org/journals/isi/paper/10.3166/ISI.23.2.111-135). Ingénierie des Systèmes d'Information. Lavoisier. ISSN: 1633-1311. Vol 23 (2), pp.111-135. doi:10.3166/isi.23.2.111-135
 
 - **DOS REIS, J. C.**; BONACIN, R.; JENSEN, C. J.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2018. [Designing Interactive Mechanisms to Support the Communication of Users’ Intentions. Interacting with Computers (IwC)](https://academic.oup.com/iwc/article/30/4/315/5048872). Oxford. ISSN: 0953-5438. Vol. 30 (4), pp. 315–335
 
@@ -94,43 +94,43 @@ date: 2026-01-12
 
 ### 2016
 
-- MOTA, M. S.; **DOS REIS, J. C.**; GOUTTE, S.; SANTANCHE, A. 2016. [Multiscaling a Graph-based Dataspace. Journal of Information and Data Management (JIDM)](www.lis.ic.unicamp.br/wp-content/uploads/2016/10/multiscaling-graph-based.pdf). ISSN: 2178-7107. Vol. 7 (3), pp. 231–246.
+- MOTA, M. S.; **DOS REIS, J. C.**; GOUTTE, S.; SANTANCHE, A. 2016. [Multiscaling a Graph-based Dataspace](https://journals-sol.sbc.org.br/index.php/jidm/article/view/1593/1408). Journal of Information and Data Management (JIDM). ISSN: 2178-7107. Vol. 7 (3), pp. 231–246.
 
-- ABACHA, A. B.; **DOS REIS, J. C.**; MRABET, Y; PRUSKI, C.; DA SILVEIRA, M. 2016. [Towards Natural Language Question Generation for the Validation of Ontologies and Mappings](jbiomedsem.biomedcentral.com/articles/10.1186/s13326-016-0089-6). Journal of Biomedical Semantics (JBMS). ISSN: 2041-1480. Vol. 7 (1), pp. 1-15.
+- ABACHA, A. B.; **DOS REIS, J. C.**; MRABET, Y; PRUSKI, C.; DA SILVEIRA, M. 2016. [Towards Natural Language Question Generation for the Validation of Ontologies and Mappings](https://link.springer.com/article/10.1186/s13326-016-0089-6). Journal of Biomedical Semantics (JBMS). ISSN: 2041-1480. Vol. 7 (1), pp. 1-15.
 
 ### 2015
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2015. [DyKOSMap: A framework for mapping adaptation between biomedical knowledge organization systems](www.sciencedirect.com/science/article/pii/S1532046415000684). Journal of Biomedical Informatics (JBI). Elsevier. ISSN: 1532-0464. Vol. 55 (0), pp. 153-173.
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2015. [DyKOSMap: A framework for mapping adaptation between biomedical knowledge organization systems](https://www.sciencedirect.com/science/article/pii/S1532046415000684). Journal of Biomedical Informatics (JBI). Elsevier. ISSN: 1532-0464. Vol. 55 (0), pp. 153-173.
 
-- DA SILVEIRA, M.; **DOS REIS, J. C.**; PRUSKI, C. 2015. [Management of dynamic biomedical terminologies: Current status and future challenges](www.schattauer.de/en/magazine/subject-areas/journals-a-z/imia-yearbook/archive/issue/2242/manuscript/24700.html). Yearbook of Medical Informatics. IMIA. ISSN: 0943-4747. Vol. 10(1), pp. 125-133.
+- DA SILVEIRA, M.; **DOS REIS, J. C.**; PRUSKI, C. 2015. [Management of dynamic biomedical terminologies: Current status and future challenges](https://pubmed.ncbi.nlm.nih.gov/26293859/). Yearbook of Medical Informatics. IMIA. ISSN: 0943-4747. Vol. 10(1), pp. 125-133.
 
-- **DOS REIS, J. C.**; DINH, D.; DA SILVEIRA, M.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. [Recognizing Lexical and Semantic Change Patterns in Evolving Life Science Ontologies to Inform Mapping Adaptation](www.sciencedirect.com/science/article/pii/S0933365714001365). Artificial Intelligence in Medicine (AIIM). Elsevier. ISSN: 0933-3657. Vol. 63 (3), pp. 153-170.
+- **DOS REIS, J. C.**; DINH, D.; DA SILVEIRA, M.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. [Recognizing Lexical and Semantic Change Patterns in Evolving Life Science Ontologies to Inform Mapping Adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0933365714001365). Artificial Intelligence in Medicine (AIIM). Elsevier. ISSN: 0933-3657. Vol. 63 (3), pp. 153-170.
 
-- **DOS REIS, J. C.**; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. [State-of-the-art on Mapping Maintenance and Challenges towards a Fully Automatic Approach](dx.doi.org/10.1016/j.eswa.2014.08.047). Expert Systems with Applications (ESWA). Elsevier. ISSN: 0957-4174. Vol. 42 (3), pp. 1465-1478.
+- **DOS REIS, J. C.**; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. [State-of-the-art on Mapping Maintenance and Challenges towards a Fully Automatic Approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417414005296). Expert Systems with Applications (ESWA). Elsevier. ISSN: 0957-4174. Vol. 42 (3), pp. 1465-1478.
 
 ### 2014
 
-- DINH, D.; **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [Identifying Relevant Concept Attributes to Support Mapping Maintenance Under Ontology Evolution](dx.doi.org/10.1016/j.websem.2014.05.002). Journal of Web Semantics (JWS). Elsevier. ISSN: 1570-8268. Vol. 29 (0), pp. 53-66.
+- DINH, D.; **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [Identifying Relevant Concept Attributes to Support Mapping Maintenance Under Ontology Evolution](https://www.sciencedirect.com/science/article/abs/pii/S1570826814000444). Journal of Web Semantics (JWS). Elsevier. ISSN: 1570-8268. Vol. 29 (0), pp. 53-66.
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [Understanding semantic mapping evolution by observing changes in biomedical ontologies](dx.doi.org/10.1016/j.jbi.2013.09.006). Journal of Biomedical Informatics (JBI). Elsevier. ISSN: 1532-0464. Vol. 47, pp. 71-82.
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [Understanding semantic mapping evolution by observing changes in biomedical ontologies](https://pubmed.ncbi.nlm.nih.gov/24076436/). Journal of Biomedical Informatics (JBI). Elsevier. Vol. 47, pp. 71-82. ISSN: 1532-0464.
 
-- **DOS REIS, J. C.**; BONACIN, R; BARANAUSKAS, M. C. C. 2014. [Addressing universal access in social networks: an inclusive search mechanism](link.springer.com/article/10.1007/s10209-013-0290-7). International Journal of Universal Access in the Information Society (UAIS). Springer. ISSN: 1615-5289. Vol. 13 (2), pp. 125-145.
+- **DOS REIS, J. C.**; BONACIN, R; BARANAUSKAS, M. C. C. 2014. [Addressing universal access in social networks: an inclusive search mechanism](https://link.springer.com/article/10.1007/s10209-013-0290-7). International Journal of Universal Access in the Information Society (UAIS). Springer. ISSN: 1615-5289. Vol. 13 (2), pp. 125-145.
 
 ### 2013
 
-- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; BARANAUSKAS, M.C.C. 2013. [An Ontological Model for Supporting Intention-based Information Sharing on Collaborative Problem Solving](hal.archives-ouvertes.fr/docs/00/83/37/13/PDF/IJCent_VSUB.pdf). International Journal of Collaborative Enterprise (IJCEnt). Inderscience. Vol. 3 (2/3), pp. 130-150.
+- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; BARANAUSKAS, M.C.C. 2013. [An Ontological Model for Supporting Intention-based Information Sharing on Collaborative Problem Solving](https://hal.science/hal-00833713/document). International Journal of Collaborative Enterprise (IJCEnt). Inderscience. Vol. 3 (2/3), pp. 130-150.
 
-- FIGUEIREDO, A. M. C.; **DOS REIS, J. C.**; RODRIGUES, M. A. 2012. [Improving Access to Software Architecture Knowledge: An Ontology-based Search Approach](infonomics-society.ie/wp-content/uploads/ijmip/published-papers/volume-3-2013/Improving-Access-to-Software-Architecture-Knowledge-An-Ontology-based-Search-Approach.pdf). International Journal Multimedia and Image Processing (IJMIP). Vol. 3 (1/2), pp. 143-149.
+- FIGUEIREDO, A. M. C.; **DOS REIS, J. C.**; RODRIGUES, M. A. 2012. [Improving Access to Software Architecture Knowledge: An Ontology-based Search Approach](https://infonomics-society.org/wp-content/uploads/ijmip/published-papers/volume-3-2013/Improving-Access-to-Software-Architecture-Knowledge-An-Ontology-based-Search-Approach.pdf). International Journal Multimedia and Image Processing (IJMIP). Vol. 3 (1/2), pp. 143-149.
 
 ### 2012
 
-- PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; **DOS REIS, J. C.** 2012. [Towards a Culturally Aware Design for Social Software](infonomics-society.org/wp-content/uploads/ijds/volume-3-2012/Towards-a-Culturally-Aware-Design-for-Social-Software.pdf). International Journal for Digital Society (IJDS). Vol. 3, (1), pp. 595-604.
+- PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; **DOS REIS, J. C.** 2012. [Towards a Culturally Aware Design for Social Software](https://infonomics-society.org/wp-content/uploads/ijds/volume-3-2012/Towards-a-Culturally-Aware-Design-for-Social-Software.pdf). International Journal for Digital Society (IJDS). Vol. 3, (1), pp. 595-604.
 
 ### 2011
 
-- **DOS REIS, J. C.**; BONACIN, R; BARANAUSKAS, M. C. C. 2011. [A Semiotic-Based Approach for Search Mechanism in Social Network Services](santec.tudor.lu/_media/team/dosreis/webportals_final.pdf). International Journal of Web Portals (IJWP). Vol. 3 (3), pp. 27-40.
+- **DOS REIS, J. C.**; BONACIN, R; BARANAUSKAS, M. C. C. 2011. [A Semiotic-Based Approach for Search Mechanism in Social Network Services](https://dl.acm.org/doi/abs/10.4018/jwp.2011070103). International Journal of Web Portals (IJWP). Vol. 3 (3), pp. 27-40.
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [O uso de Ferramentas de Mineração de Texto para Modelar Significados em Redes Sociais Inclusivas](santec.tudor.lu/_media/team/dosreis/fonte_jcr_vfinal.pdf). Revista Fonte. Vol. 8 (11), pp. 59-69. (in Portuguese)
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [O uso de Ferramentas de Mineração de Texto para Modelar Significados em Redes Sociais Inclusivas](https://www.researchgate.net/publication/265048074_O_uso_de_Ferramentas_de_Mineracao_de_Texto_para_Modelar_Significados_em_Redes_Sociais_Inclusivas). Revista Fonte. Vol. 8 (11), pp. 59-69. (in Portuguese)
 
 ## Books
 
@@ -176,21 +176,21 @@ date: 2026-01-12
 
 ### 2015
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2015. [The DyKOSMap approach for analyzing and supporting the mapping maintenance problem in biomedical Knowledge Organization Systems](link.springer.com/chapter/10.1007/978-3-662-46641-4_12). In The Semantic Web: ESWC 2012 – Satellite Events. LNCS. Springer. Vol. 7540, pp. 163–175.
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2015. [The DyKOSMap approach for analyzing and supporting the mapping maintenance problem in biomedical Knowledge Organization Systems](https://link.springer.com/chapter/10.1007/978-3-662-46641-4_12). In The Semantic Web: ESWC 2012 – Satellite Events. LNCS. Springer. Vol. 7540, pp. 163–175.
 
 ### 2013
 
-- BONACIN, R.; HORNUNG, H.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2013. [Pragmatic Aspects of Collaborative Problem Solving: Towards a Framework for Conceptualizing Dynamic Knowledge](link.springer.com/chapter/10.1007/978-3-642-40654-6_25). In ICEIS 2012 – Revised Selected Papers. LNBIP. Springer. Vol. 141, pp. 410-426.
+- BONACIN, R.; HORNUNG, H.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2013. [Pragmatic Aspects of Collaborative Problem Solving: Towards a Framework for Conceptualizing Dynamic Knowledge](https://link.springer.com/chapter/10.1007/978-3-642-40654-6_25). In ICEIS 2012 – Revised Selected Papers. LNBIP. Springer. Vol. 141, pp. 410-426.
 
-- **DOS REIS, J. C.**; BONACIN, R. 2013. [Possibilitando o Acesso Participativo e Universal ao Conhecimento: Um Mecanismo de Busca Inclusivo](www.grupoa.com.br/livros/tecnologia-da-educacao-e-educacao-a-distancia/codesign-de-redes-digitais/9788565848633). In Codesign de Redes Digitais: Tecnologia e educação a serviço da inclusão social. Porto Alegre, Penso Editora. pp. 156-173 (in Portuguese)
+- **DOS REIS, J. C.**; BONACIN, R. 2013. [Possibilitando o Acesso Participativo e Universal ao Conhecimento: Um Mecanismo de Busca Inclusivo](https://drive.google.com/file/d/1CAl8EpUCPvqT4uvxkCzc6tIsLm8q3eNr/view?usp=sharing). In Codesign de Redes Digitais: Tecnologia e educação a serviço da inclusão social. Porto Alegre, Penso Editora. pp. 156-173 (In Portuguese)
 
-- HORNUNG, H.; **DOS REIS, J. C.**; BONACIN, R. 2013. [Sistemas Inclusivos sob a ótica da Web Pragmática](www.grupoa.com.br/livros/tecnologia-da-educacao-e-educacao-a-distancia/codesign-de-redes-digitais/9788565848633). In Codesign de Redes Digitais: Tecnologia e educação a serviço da inclusão social. Porto Alegre, Penso Editora. pp. 275-293 (in Portuguese)
+- HORNUNG, H.; **DOS REIS, J. C.**; BONACIN, R. 2013. [Sistemas Inclusivos sob a ótica da Web Pragmática](https://drive.google.com/file/d/1Fl2uvLiSOh20wIgknWQyH71R_Xk9Nj3k/view?usp=sharing). In Codesign de Redes Digitais: Tecnologia e educação a serviço da inclusão social. Porto Alegre, Penso Editora. pp. 275-293 (In Portuguese)
 
 ### 2011
 
-- **DOS REIS, J. C.**; BONACIN, R; BARANAUSKAS, M. C. C. 2011. [Prospecting an Inclusive Search Mechanism for Social Network Services](link.springer.com/chapter/10.1007/978-3-642-19802-1_38?LI=true). In ICEIS 2010 – Revised Selected Papers. LNBIP. Springer. Vol. 73, pp. 555-570.
+- **DOS REIS, J. C.**; BONACIN, R; BARANAUSKAS, M. C. C. 2011. [Prospecting an Inclusive Search Mechanism for Social Network Services](https://link.springer.com/chapter/10.1007/978-3-642-19802-1_38?LI=true). In ICEIS 2010 – Revised Selected Papers. LNBIP. Springer. Vol. 73, pp. 555-570.
 
-- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2011. [Designing Mobile Phone Interfaces for Collaborative Learning in Everyday Life](santec.tudor.lu/_media/team/dosreis/caplivro_mobile.pdf). In Mobile Phones: Technology, Networks and User Issues. Micaela C. Barnes and Neil P. Meyers (Eds.), Nova Science Publishers, Inc. pp. 133-154
+- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2011. [Designing Mobile Phone Interfaces for Collaborative Learning in Everyday Life](https://drive.google.com/file/d/1LG5C9nA3BVE3u15fKt4eigDKLJehfesO/view?usp=sharing). In Mobile Phones: Technology, Networks and User Issues. Micaela C. Barnes and Neil P. Meyers (Eds.), Nova Science Publishers, Inc. pp. 133-154. ISBN: 978-61209-247-8
 
 ## Full Articles in Conference’s Proceedings
 
@@ -334,15 +334,15 @@ date: 2026-01-12
 
 ### 2020
 
-- VIRGINIO, L.; **DOS REIS, J. C.** 2020. [Health IT and Patient Safety: Finding Relations Between EMRAM and SAFER Guides](www.jhi-sbis.saude.ws/ojs-jhi/index.php/jhi-sbis/article/view/825/428). In Proceedings of the XVII Brazilian Congress in Health Informatics. Virtual Event. [**Best Paper Nominee**]
+- VIRGINIO, L.; **DOS REIS, J. C.** 2020. [Health IT and Patient Safety: Finding Relations Between EMRAM and SAFER Guides](https://jhi.sbis.org.br/index.php/jhi-sbis/article/download/825/428/3454). In Proceedings of the XVII Brazilian Congress in Health Informatics. Virtual Event. [**Best Paper Nominee**]
 
-- SANT’ANNA, D. T.; CAUS, R. O.; RAMOS, L. S.; HOCHGREB, V.; **DOS REIS, J. C.** 2020. [Generating Knowledge Graphs from Unstructured Texts: Experiences in the E-commerce Field for Question Answering](ceur-ws.org/Vol-2722/nliwod2020-paper-3.pdf). In 6th International Workshop on Natural Language Interfaces for the Web of Data (NLIWOD’20) co-located at the 19th International Semantic Web Conference (ISWC'20). Virtual event.
+- SANT’ANNA, D. T.; CAUS, R. O.; RAMOS, L. S.; HOCHGREB, V.; **DOS REIS, J. C.** 2020. [Generating Knowledge Graphs from Unstructured Texts: Experiences in the E-commerce Field for Question Answering](https://ceur-ws.org/Vol-2722/nliwod2020-paper-3.pdf). In 6th International Workshop on Natural Language Interfaces for the Web of Data (NLIWOD’20) co-located at the 19th International Semantic Web Conference (ISWC'20). Virtual event.
 
 - GOTTARDI, T; MEDEIROS. C. B.; **DOS REIS, J. C.** 2020. [Understanding Semantic Search on Scientific Repositories: Steps towards Meaningful Findability](https://repository.publisso.de/resource/frl:6424226/data). Workshop on Research data management for linked open science (DaMaLOS’20) co-located at the 19th International Semantic Web Conference (ISWC'20). Virtual event.
 
-- REGINO, A. G.; **DOS REIS, J. C.** 2020. [Discovering Semantically Broken Links in LOD Datasets](ceur-ws.org/Vol-2821/paper3.pdf). In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp. 17-26. Virtual event.
+- REGINO, A. G.; **DOS REIS, J. C.** 2020. [Discovering Semantically Broken Links in LOD Datasets](https://ceur-ws.org/Vol-2821/paper3.pdf). In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp. 17-26. Virtual event.
 
-- ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2020. [Representing Scientific Literature Evolution via Temporal Knowledge Graphs](ceur-ws.org/Vol-2821/paper5.pdf). In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp. 33-42. Virtual event.
+- ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2020. [Representing Scientific Literature Evolution via Temporal Knowledge Graphs](https://ceur-ws.org/Vol-2821/paper5.pdf). In 6th Managing the Evolution and Preservation of the Data Web (MEPDaW’20) co-located at the 19th International Semantic Web Conference (ISWC'20), pp. 33-42. Virtual event.
 
 - VICTORELLI, E. Z; **DOS REIS, J. C.** 2020. [Human-Data Interaction Design Guidelines for Visualization Systems](https://dl.acm.org/doi/abs/10.1145/3424953.3426511). In: In Proceedings of the XIX Brazilian Symposium on Human Factors in Computing Systems (IHC'20). pp. 191-200. Virtual event.
 
@@ -370,7 +370,7 @@ date: 2026-01-12
 
 - VICTORELLI, E. Z.; **DOS REIS, J. C.**; DOS SANTOS, A. A. S.; SCHIOZER, D. J. 2019. [Design Process for Human-Data Interaction: Combining Guidelines with Semio-Participatory Techniques](www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=77445). In Proceedings of the 21th International Conference on Enterprise Information Systems (ICEIS’19). Heraklion, Crete – Greece, pp. 410-421.
 
-- WANG, Y.; **DOS REIS, J. C.**; BORGGREN, K. M.; SALLES, M. A.; MEDEIROS, C. B.; ZHOU, Y. 2019. [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](openproceedings.org/2019/conf/edbt/EDBT19_paper_297.pdf). In Proceedings of the 22nd International Conference on Extending Database Technology (EDBT’19). Lisbon, Portugal, pp. 512-523.
+- WANG, Y.; **DOS REIS, J. C.**; BORGGREN, K. M.; SALLES, M. A.; MEDEIROS, C. B.; ZHOU, Y. 2019. [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](https://openproceedings.org/2019/conf/edbt/EDBT19_paper_297.pdf). In Proceedings of the 22nd International Conference on Extending Database Technology (EDBT’19). Lisbon, Portugal, pp. 512-523.
 
 - VENERO, S. K.; **DOS REIS, J. C.**; MONTECCHI, L.; RUBIRA, C. M. F. 2019. [Towards a Metamodel for Supporting Decisions in Knowledge-Intensive Processes](https://dl.acm.org/doi/10.1145/3297280.3297290). In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC’19), Limassol, Cyprus, pp. 75-84.
 
@@ -380,13 +380,13 @@ date: 2026-01-12
 
 - CACEFFO, R.; MOREIRA, E. A.; BONACIN, R.; **DOS REIS, J. C.**; CARBAJAL, M. L.; D’ABREU, J. V. V.; BRENNAND, C. V. L. T; LOMBELLO, L.; VALENTE, J. A.; BARANAUSKAS, M.C.C. 2019. [Collaborative meaning construction in social enactive systems: Study with the mBot](https://link.springer.com/chapter/10.1007/978-3-030-21814-0_18). In Proceedings of the 21st International Conference on Human-Computer Interaction (HCII’19). Orlando, Florida, US. LNCS, Vol. 11590, pp. 237–255.
 
-- ROSSANEZ, A.; **DOS REIS, J. C.** 2019. [Generating Knowledge Graphs from Scientific Literature of Degenerative Diseases](ceur-ws.org/Vol-2427/SEPDA_2019_paper_8.pdf). In the 4th International Workshop on Semantics-Powered Data Mining and Analytics (SEPDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19), Auckland, New Zealand, pp. 12-23.
+- ROSSANEZ, A.; **DOS REIS, J. C.** 2019. [Generating Knowledge Graphs from Scientific Literature of Degenerative Diseases](https://ceur-ws.org/Vol-2427/SEPDA_2019_paper_8.pdf). In the 4th International Workshop on Semantics-Powered Data Mining and Analytics (SEPDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19), Auckland, New Zealand, pp. 12-23.
 
-- REGINO, A. G.; **DOS REIS, J. C.**; MATSOUI, J.; BONACIN, R.; MORSHED, A.; SELLIS, T. 2019. [Understanding Link Changes in LOD via the Evolution of Life Science Datasets](ceur-ws.org/Vol-2477/paper_4.pdf). Workshop Semantic Web solutions for large-scale biomedical data analytics (SeWeBMeDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19). Auckland, New Zealand, pp. 40-54.
+- REGINO, A. G.; **DOS REIS, J. C.**; MATSOUI, J.; BONACIN, R.; MORSHED, A.; SELLIS, T. 2019. [Understanding Link Changes in LOD via the Evolution of Life Science Datasets](https://ceur-ws.org/Vol-2477/paper_4.pdf). Workshop Semantic Web solutions for large-scale biomedical data analytics (SeWeBMeDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19). Auckland, New Zealand, pp. 40-54.
 
-- YAMAMOTO, V. E.; **DOS REIS, J. C.** 2019. [Updating Ontology Alignments in Life Sciences based on New Concepts and their Context](ceur-ws.org/Vol-2477/paper_2.pdf). Workshop Semantic Web solutions for large-scale biomedical data analytics (SeWeBMeDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19). Auckland, New Zealand, pp. 16-30.
+- YAMAMOTO, V. E.; **DOS REIS, J. C.** 2019. [Updating Ontology Alignments in Life Sciences based on New Concepts and their Context](https://ceur-ws.org/Vol-2477/paper_2.pdf). Workshop Semantic Web solutions for large-scale biomedical data analytics (SeWeBMeDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19). Auckland, New Zealand, pp. 16-30.
 
-- DESTRO, J. M.; **DOS REIS, J. C.**; TORRES, R.; RICARTE, I. L. M. 2019. [Ontology changes-driven semantic refinement of cross-language biomedical ontology alignments](ceur-ws.org/Vol-2477/paper_1.pdf). Workshop Semantic Web solutions for large-scale biomedical data analytics (SeWeBMeDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19). Auckland, New Zealand, pp. 1-15.
+- DESTRO, J. M.; **DOS REIS, J. C.**; TORRES, R.; RICARTE, I. L. M. 2019. [Ontology changes-driven semantic refinement of cross-language biomedical ontology alignments](https://ceur-ws.org/Vol-2477/paper_1.pdf). Workshop Semantic Web solutions for large-scale biomedical data analytics (SeWeBMeDA'19) co-located at the 18th International Semantic Web Conference (ISWC'19). Auckland, New Zealand, pp. 1-15.
 
 - DESTRO, J. M.; **DOS REIS, J. C.**; TORRES, R.; RICARTE, I. L. M. 2019. [Evolution-based refinement of cross-language ontology alignments](https://sol.sbc.org.br/index.php/sbbd/article/view/8808/8709). In Proceedings of the 34th Brazilian Symposium on Databases (SBBD'19). Fortaleza, Ceará, Brazil, pp. 61-72.
 
@@ -408,9 +408,9 @@ date: 2026-01-12
 
 - GONCALVES, F. M.; JENSEN, F. R.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2018. [Enhancing Problem Clarification Artifacts with Online Deliberation](www.scitepress.org/PublicationsDetail.aspx?ID=XUpmyb8oWsU=&t=1). In Proceedings of the 13th International Conference on Software Technologies (ICSOFT’18). Porto, Portugal, pp. 288-295.
 
-- **DOS REIS, J. C.**; BRITO, M. F. 2018. [Transparência para Humanos e Máquinas: Um framework para Publicar Dados Abertos Interconectados Semanticamente Descritos](portaldeconteudo.sbc.org.br/index.php/wtrans/article/view/3094). In Proceedings of the XXXVIII Congress of the Brazilian Computer Science Society (CSBC’18) – WSTrans’18. Natal, Brazil. (In Portuguese)
+- **DOS REIS, J. C.**; BRITO, M. F. 2018. [Transparência para Humanos e Máquinas: Um framework para Publicar Dados Abertos Interconectados Semanticamente Descritos](https://portaldeconteudo.sbc.org.br/index.php/wtrans/article/view/3094). In Proceedings of the XXXVIII Congress of the Brazilian Computer Science Society (CSBC’18) – WSTrans’18. Natal, Brazil. (In Portuguese)
 
-- FRANÇA, B. B. N.; **DOS REIS, J. C.**; AZEVEDO, R. J. 2018. [Desafios Sociotécnicos e Prospeções para Promover Transparência de Dados na Universidade](portaldeconteudo.sbc.org.br/index.php/wtrans/article/view/3091). In Proceedings of the XXXVIII Congress of the Brazilian Computer Science Society (CSBC’18) – WSTrans’18. Natal, Brazil. (In Portuguese)
+- FRANÇA, B. B. N.; **DOS REIS, J. C.**; AZEVEDO, R. J. 2018. [Desafios Sociotécnicos e Prospeções para Promover Transparência de Dados na Universidade](https://portaldeconteudo.sbc.org.br/index.php/wtrans/article/view/3091). In Proceedings of the XXXVIII Congress of the Brazilian Computer Science Society (CSBC’18) – WSTrans’18. Natal, Brazil. (In Portuguese)
 
 - BONACIN, R.; CALADO, I; **DOS REIS, J. C.** 2018. [A Metamodel for Supporting Interoperability in Heterogeneous Ontology Networks](https://link.springer.com/chapter/10.1007/978-3-319-94541-5_19). In Proceedings of the 18th International Conference on Informatics and Semiotics in Organisations (ICISO’18). Reading, UK, Vol. 527, Springer, pp. 187-196.
 
@@ -420,15 +420,15 @@ date: 2026-01-12
 
 - MOREIRA, E. A.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2017. [TangiSAM: Tangible Artifacts for Evaluation of Affective States](https://dl.acm.org/citation.cfm?id=3160525). In Proceedings of the XVI Brazilian Symposium on Human Factors in Computing Systems (IHC’17). Joinville – Santa Catarina, Brazil. pp 451-460 (In Portuguese)
 
-- DESTRO, J. M.; **DOS REIS, J. C.**; CARVALHO, A. M. B. R., RICARTE, I. L. M. 2017. [Experimental Studies for Revealing Key Factors of Ontology Cross-Language Alignments](ceur-ws.org/Vol-1908/paper2.pdf). In Proceedings of the Brazilian Ontology Research Seminar (ONTOBRAS’17). Brasília, Brazil.
+- DESTRO, J. M.; **DOS REIS, J. C.**; CARVALHO, A. M. B. R., RICARTE, I. L. M. 2017. [Experimental Studies for Revealing Key Factors of Ontology Cross-Language Alignments](https://ceur-ws.org/Vol-1908/paper2.pdf). In Proceedings of the Brazilian Ontology Research Seminar (ONTOBRAS’17). Brasília, Brazil.
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M.C.C. 2017. [Recognizing Intentions in Free Text Messages: Studies with Portuguese Language](ieeexplore.ieee.org/document/8003837/). In Proceedings of the 26th IEEE International Conference on Enabling Technologies (WETICE’17). Poznan, Poland. pp. 302-309.
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M.C.C. 2017. [Recognizing Intentions in Free Text Messages: Studies with Portuguese Language](https://ieeexplore.ieee.org/document/8003837/). In Proceedings of the 26th IEEE International Conference on Enabling Technologies (WETICE’17). Poznan, Poland. pp. 302-309.
 
 - ARAUJO, R. J.; **DOS REIS, J. C.**; BONACIN, R. 2017. [Colors Similarity Computation for User Interface Adaptation](https://link.springer.com/chapter/10.1007/978-3-319-58706-6_27). In Proceedings of the 19th International Conference on Human-Computer Interaction (HCII’17). Vancouver, Canada. LNCS, Vol. 10277, pp. 333–345.
 
 - GONCALVES, F. M.; DUARTE, E. F.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2017. [An Analysis of Online Discussion Platforms for Academic Deliberation Support](https://link.springer.com/chapter/10.1007/978-3-319-58562-8_8). In Proceedings of the 19th International Conference on Human-Computer Interaction (HCII’17). Vancouver, Canada. LNCS, Vol. 10283, pp. 91–109.
 
-- DESTRO, J. M.; **DOS REIS, J. C.**; CARVALHO, A. M. B. R.; RICARTE, I. L. M. 2017. [Influence of Semantic Similarity Measures on Ontology Cross-language Mappings](dl.acm.org/citation.cfm?id=3019836). In Proceedings of the ACM Symposium on Applied Computing (SAC’17). The Semantic Web and Applications. Marrakech, Morocco, pp. 323-329.
+- DESTRO, J. M.; **DOS REIS, J. C.**; CARVALHO, A. M. B. R.; RICARTE, I. L. M. 2017. [Influence of Semantic Similarity Measures on Ontology Cross-language Mappings](https://dl.acm.org/citation.cfm?id=3019836). In Proceedings of the ACM Symposium on Applied Computing (SAC’17). The Semantic Web and Applications. Marrakech, Morocco, pp. 323-329.
 
 ### 2016
 
@@ -438,93 +438,93 @@ date: 2026-01-12
 
 - PANTOJA, F. L.; CAVOTO, P.; **DOS REIS, J. C.**; SANTANCHE, A. 2016 [Generating Knowledge Networks from Phenotypic Descriptions](www.lis.ic.unicamp.br/wp-content/uploads/2016/12/1095anav.pdf). In Proceedings of the IEEE 12th International Conference on eScience. Baltimore, Maryland, USA, pp. 51-60.
 
-- ARAUJO, R. J.; **DOS REIS, J. C.**; BONACIN, R. 2016. [Ontology-based Adaptive Interfaces for Colorblind Users](link.springer.com/chapter/10.1007/978-3-319-40250-5_3). In Proceedings of the 18th International Conference on Human-Computer Interaction (HCII’16). Toronto, Canada. LNCS. Vol. 9737, pp. 27-37.
+- ARAUJO, R. J.; **DOS REIS, J. C.**; BONACIN, R. 2016. [Ontology-based Adaptive Interfaces for Colorblind Users](https://link.springer.com/chapter/10.1007/978-3-319-40250-5_3). In Proceedings of the 18th International Conference on Human-Computer Interaction (HCII’16). Toronto, Canada. LNCS. Vol. 9737, pp. 27-37.
 
-- **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M. 2016. [Intention-based Information Retrieval of Electronic Health Records](ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7536465&url=http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7536465). In Proceedings of the 25th IEEE International Conference on Enabling Technologies (WETICE’16). Paris, France, pp. 217-222 [**Best Paper Award**]
+- **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M. 2016. [Intention-based Information Retrieval of Electronic Health Records](https://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7536465&url=http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7536465). In Proceedings of the 25th IEEE International Conference on Enabling Technologies (WETICE’16). Paris, France, pp. 217-222 [**Best Paper Award**]
 
-- **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M.; BARANAUSKAS, M.C.C. 2016. [Analysis and Representation of Illocutions from Electronic Health Records](link.springer.com/chapter/10.1007/978-3-319-42102-5_24). In Proceedings of the 17th International Conference on Informatics and Semiotics in Organisations (ICISO’16). Campinas, Brazil. Vol. 477, pp. 209-218.
+- **DOS REIS, J. C.**; BONACIN, R.; PERCIANI, E. M.; BARANAUSKAS, M.C.C. 2016. [Analysis and Representation of Illocutions from Electronic Health Records](https://link.springer.com/chapter/10.1007/978-3-319-42102-5_24). In Proceedings of the 17th International Conference on Informatics and Semiotics in Organisations (ICISO’16). Campinas, Brazil. Vol. 477, pp. 209-218.
 
 - **DOS REIS, J. C.**; JENSEN, C. J.; BONACIN, R.; HORNUNG, H.; BARANAUSKAS, M.C.C. 2016. [Expressive icons for the communication of intentions](www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=OZYBjMn35tw=&t=1). In Proceedings of the 18th International Conference on Enterprise Information Systems (ICEIS’16). Roma, Italy. Vol 2, pp. 388-399. [**Best Paper Nominee**]
 
 ### 2015
 
-- **DOS REIS, J. C.**; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. [Heuristiques pour l’adaptation des mappings entre ontologies dynamiques](www.santec.lu/_media/project/dynamo/egc_cameraready.pdf). In Proceedings of the 15th Conference on Knowledge Extraction and Management (EGC’15). Luxembourg, pp. 239-250. (In French) [**Best Paper Nominee**]
+- **DOS REIS, J. C.**; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2015. [Heuristiques pour l’adaptation des mappings entre ontologies dynamiques](https://editions-rnti.fr/render_pdf.php?p=1002084). In Proceedings of the 15th Conference on Knowledge Extraction and Management (EGC’15). Luxembourg, pp. 239-250. (In French) [**Best Paper Nominee**]
 
-- JENSEN, C. J.; **DOS REIS, J. C.**; BONACIN, R. 2015. [An Interaction Design Method to Support the Expression of User Intentions in Collaborative Systems](link.springer.com/chapter/10.1007/978-3-319-20901-2_20). In Proceedings of the 17th International Conference on Human-Computer Interaction (HCII’15). LNCS. Vol. 9169, pp. 214-226.
+- JENSEN, C. J.; **DOS REIS, J. C.**; BONACIN, R. 2015. [An Interaction Design Method to Support the Expression of User Intentions in Collaborative Systems](https://link.springer.com/chapter/10.1007/978-3-319-20901-2_20). In Proceedings of the 17th International Conference on Human-Computer Interaction (HCII’15). LNCS. Vol. 9169, pp. 214-226.
 
-- ABACHA, A. B.; KARANASIOU, A; MRABET, Y; **DOS REIS, J. C.** 2015. [LIST-LUX: Disorder Identification from Clinical Texts](alt.qcri.org/semeval2015/cdrom/pdf/SemEval074.pdf). In Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval-2015) associated with NAACL-HLT'15. Denver, Colorado, USA, pp.427-432.
+- ABACHA, A. B.; KARANASIOU, A; MRABET, Y; **DOS REIS, J. C.** 2015. [LIST-LUX: Disorder Identification from Clinical Texts](https://alt.qcri.org/semeval2015/cdrom/pdf/SemEval074.pdf). In Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval-2015) associated with NAACL-HLT'15. Denver, Colorado, USA, pp.427-432.
 
-- GONCALVES, F. M.; **DOS REIS, J. C.**; PRADO, A.; BARANAUSKAS, M.C.C. 2015. [On the Fly Design: Evolving a Collaborative System to Support Active Learning](br-ie.org/pub/index.php/sbie/article/view/5194/3582). In Proceedings of the XXVI Brazilian Symposium on Informatics in Education (SBIE’15). Maceió – Alagoas, Brazil, pp. 394-403.
+- GONCALVES, F. M.; **DOS REIS, J. C.**; PRADO, A.; BARANAUSKAS, M.C.C. 2015. [On the Fly Design: Evolving a Collaborative System to Support Active Learning](https://br-ie.org/pub/index.php/sbie/article/view/5194/3582). In Proceedings of the XXVI Brazilian Symposium on Informatics in Education (SBIE’15). Maceió – Alagoas, Brazil, pp. 394-403.
 
 - GONCALVES, F. M.; **DOS REIS, J. C.**; BARANAUSKAS, M.C.C. 2015. [Desenhando a Interação e Colaboração em Sistemas de Aprendizado Ativo](https://www.researchgate.net/publication/286458042_Desenhando_a_Interacao_e_Colaboracao_em_Sistemas_de_Aprendizado_Ativo). In Proceedings of the XIV Brazilian Symposium on Human Factors in Computing Systems (IHC’15). Salvador – Bahia, Brazil, pp. 262-271. (In portuguese)
 
 ### 2014
 
-- ABACHA, A. B.; **DOS REIS, J. C.**; MRABET, Y. 2014. [Question Generation for the Validation of Mapping Adaptation](www.zora.uzh.ch/98982/10/Question%20Generation%20for%20the%20Validation%20of%20Mapping%20Adaptation.pdf). In Proceedings of the 6th International Symposium on Semantic Mining in Biomedicine (SMBM'14). Aveiro, Portugal, pp. 27-31.
+- ABACHA, A. B.; **DOS REIS, J. C.**; MRABET, Y. 2014. [Question Generation for the Validation of Mapping Adaptation](https://drive.google.com/file/d/1DwLnkzsdSMmT--OkiU0up488a26jAB-V/view?usp=sharing). In Proceedings of the 6th International Symposium on Semantic Mining in Biomedicine (SMBM'14). Aveiro, Portugal, pp. 27-31.
 
-- **DOS REIS, J. C.**; DINH, D.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [The influence of similarity between concepts in evolving biomedical ontologies for mapping adaptation](hal.inria.fr/hal-01020913). In Proceedings of the 25th European Medical Informatics Conference (MIE’14). Istanbul, Turkey, pp. 1003–1007.
+- **DOS REIS, J. C.**; DINH, D.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [The influence of similarity between concepts in evolving biomedical ontologies for mapping adaptation](https://hal.inria.fr/hal-01020913). In Proceedings of the 25th European Medical Informatics Conference (MIE’14). Istanbul, Turkey, pp. 1003–1007.
 
-- **DOS REIS, J. C.**; DA SILVEIRA, M.; DINH, D.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2014. [Requirements for implementing mapping adaptation systems](hal.inria.fr/hal-01020917). In Proceedings of the 23st International Conference on Enabling Technologies (WETICE’14). Parma, Italy, pp. 406-410.
+- **DOS REIS, J. C.**; DA SILVEIRA, M.; DINH, D.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2014. [Requirements for implementing mapping adaptation systems](https://hal.inria.fr/hal-01020917). In Proceedings of the 23st International Conference on Enabling Technologies (WETICE’14). Parma, Italy, pp. 406-410.
 
-- DINH, D.; **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [Identifying change patterns of concept attributes in ontology evolution](2014.eswc-conferences.org/sites/default/files/papers/paper_87.pdf). In 11th Extended Semantic Web Conference (ESWC’14). LNCS. Vol. 8465, pp 768-783.
+- DINH, D.; **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2014. [Identifying change patterns of concept attributes in ontology evolution](https://2014.eswc-conferences.org/sites/default/files/papers/paper_87.pdf). In 11th Extended Semantic Web Conference (ESWC’14). LNCS. Vol. 8465, pp 768-783.
 
-- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; PEREIRA, R.; BARANAUSKAS, M.C.C. 2014. [Understanding pragmatic aspects with social values in web-mediated collaborative systems](link.springer.com/chapter/10.1007/978-3-319-07731-4_47). In 16th International Conference on Human-Computer Interaction (HCII’14). Heraklion, Crete, Greece. LNCS. Vol. 8521, pp. 471-482.
+- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; PEREIRA, R.; BARANAUSKAS, M.C.C. 2014. [Understanding pragmatic aspects with social values in web-mediated collaborative systems](https://link.springer.com/chapter/10.1007/978-3-319-07731-4_47). In 16th International Conference on Human-Computer Interaction (HCII’14). Heraklion, Crete, Greece. LNCS. Vol. 8521, pp. 471-482.
 
 ### 2013
 
-- **DOS REIS, J. C.**; DINH, D.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2013. [Mapping Adaptation Actions for the Automatic Reconciliation of Dynamic Ontologies](dl.acm.org/citation.cfm?doid=2505515.2505564). In Proceedings of the 22nd ACM International Conference on Information and Knowledge Management (CIKM’13). San Francisco, CA, USA, pp. 599-608.
+- **DOS REIS, J. C.**; DINH, D.; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2013. [Mapping Adaptation Actions for the Automatic Reconciliation of Dynamic Ontologies](https://dl.acm.org/citation.cfm?doid=2505515.2505564). In Proceedings of the 22nd ACM International Conference on Information and Knowledge Management (CIKM’13). San Francisco, CA, USA, pp. 599-608.
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2013. [Characterizing Semantic Mappings Adaptation via Biomedical KOS Evolution: A Case Study Investigating SNOMED CT and ICD](santec.tudor.lu/_media/team/dosreis/amia-2013.pdf). In Proceedings of the American Medical Informatics Association Annual Symposium (AMIA’13). Washington DC, USA, pp. 333-342.
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2013. [Characterizing Semantic Mappings Adaptation via Biomedical KOS Evolution: A Case Study Investigating SNOMED CT and ICD](https://drive.google.com/file/d/1RmDm7DF2GjWkcYT8GN5586DgcetU3UAJ/view?usp=sharing). In Proceedings of the American Medical Informatics Association Annual Symposium (AMIA’13). Washington DC, USA, pp. 333-342.
 
-- GROSS, A., **DOS REIS, J. C.**; HARTUNG, M.; PRUSKI, C.; RAHM, E. 2013. [Semi-Automatic Adaptation of Mappings between Life Science Ontologies](dbs.uni-leipzig.de/file/Semi-Automatic%20Adaptation%20of%20Mappings%20between%20Life%20Science%20Ontologies.pdf). In Proceedings of the 9th International Conference on Data Integration in the Life Sciences (DILS’13). LNCS. Vol. 7970, pp. 90-104
+- GROSS, A., **DOS REIS, J. C.**; HARTUNG, M.; PRUSKI, C.; RAHM, E. 2013. [Semi-Automatic Adaptation of Mappings between Life Science Ontologies](https://dbs.uni-leipzig.de/file/Semi-Automatic%20Adaptation%20of%20Mappings%20between%20Life%20Science%20Ontologies.pdf). In Proceedings of the 9th International Conference on Data Integration in the Life Sciences (DILS’13). LNCS. Vol. 7970, pp. 90-104
 
-- DINH, D.; **DOS REIS, J. C.**; DA SILVEIRA, M.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2013. [Identification des informations conceptuelles définissant un alignement entre ontologies médicales](www.santec.lu/_media/project/dynamo/siim_similarite.pdf). Actes du Symposium sur l’Ingénierie de l’Information Médicale (SIIM’13) avec IC’13. Lille, France. (in French)
+- DINH, D.; **DOS REIS, J. C.**; DA SILVEIRA, M.; PRUSKI, C.; REYNAUD-DELAÎTRE, C. 2013. [Identification des informations conceptuelles définissant un alignement entre ontologies médicales](https://drive.google.com/file/d/15DoQDzeJQiojrT-XwQpEpHbXzXKW-sFn/view?usp=sharing). Actes du Symposium sur l’Ingénierie de l’Information Médicale (SIIM’13) avec IC’13. Lille, France. (in French)
 
 ### 2012
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2012. [Analyzing and Supporting the Mapping Maintenance Problem in Biomedical Knowledge Organization Systems](www.santec.lu/_media/project/dynamo/simi2012_cameraready.pdf). In Proceedings of the Workshop on Semantic Interoperability in Medical Informatics collocated with ESWC’12. Heraklion, Greece, pp. 25-36
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2012. [Analyzing and Supporting the Mapping Maintenance Problem in Biomedical Knowledge Organization Systems](https://drive.google.com/file/d/1rDNYAJSHvkklDorK-COdqQpyuJOkQXaZ/view?usp=sharing). In Proceedings of the Workshop on Semantic Interoperability in Medical Informatics collocated with ESWC’12. Heraklion, Greece, pp. 25-36
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2012. [Vers une approche automatique pour la maintenance des mappings entre ressources termino-ontologiques du domaine de la santé](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxpY2lzYW50ZTIwMTJ8Z3g6NzI5YWNjYjFjZGM2OTE4Mg). Actes du l’atelier pour l'Interopérabilté Sémantique dans les applications en e-Santé avec IC’12. Paris, France. (in French)
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2012. [Vers une approche automatique pour la maintenance des mappings entre ressources termino-ontologiques du domaine de la santé](https://hal.science/hal-00787443). Actes du l’atelier pour l'Interopérabilté Sémantique dans les applications en e-Santé avec IC’12. Paris, France. (in French)
 
-- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; BARANAUSKAS, M.C.C. 2012. [An Ontological Model for Representing Pragmatic Aspects of Collaborative Problem Solving](ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6269777&url=http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6269777). In Proceedings of the IEEE 21st International Conference on Enabling Technologies (WETICE’12). Toulouse, France, pp. 444-449
+- BONACIN, R.; **DOS REIS, J. C.**; HORNUNG, H.; BARANAUSKAS, M.C.C. 2012. [An Ontological Model for Representing Pragmatic Aspects of Collaborative Problem Solving](https://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6269777&url=http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6269777). In Proceedings of the IEEE 21st International Conference on Enabling Technologies (WETICE’12). Toulouse, France, pp. 444-449
 
 - BONACIN, R.; HORNUNG, H.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. [Interacting with Dynamic Social Knowledge: Revealing Challenges through an Analysis of Pragmatic Aspects of Problem Solving](www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0004004800540063). In Proceedings of the 14th International Conference on Enterprise Information Systems (ICEIS’12). Wroclaw, Poland, pp. 54-63. [**Best Paper Nominee**]
 
-- HORNUNG, H.; BONACIN, R.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. [Identifying Pragmatic Patterns of Collaborative Problem Solving](santec.tudor.lu/_media/team/dosreis/iadis2012.pragmatic_patterns.vf.pdf). In Proceedings of the IADIS International Conference WWW/Internet (ICWI’12). Madrid, Spain, pp. 379-387
+- HORNUNG, H.; BONACIN, R.; **DOS REIS, J. C.**; PEREIRA, R.; BARANAUSKAS, M.C.C. 2012. [Identifying Pragmatic Patterns of Collaborative Problem Solving](https://drive.google.com/file/d/1sbLELDnly7ClMaW8_yhSmHHeK1FxANbI/view?usp=sharing). In Proceedings of the IADIS International Conference WWW/Internet (ICWI’12). Madrid, Spain, pp. 379-387.
 
 ### 2011
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [Beyond the Social Search: Personalizing the Semantic Search in Social Networks](link.springer.com/chapter/10.1007%2F978-3-642-21796-8_37). In Proceedings of the 14th International Conference on Human-Computer Interaction (HCII’11). LNCS. Vol. 6778, pp. 345-354
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [Beyond the Social Search: Personalizing the Semantic Search in Social Networks](https://link.springer.com/chapter/10.1007%2F978-3-642-21796-8_37). In Proceedings of the 14th International Conference on Human-Computer Interaction (HCII’11). LNCS. Vol. 6778, pp. 345-354
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [An Assisted Process for Building Semiotic Web Ontology](santec.tudor.lu/_media/team/dosreis/iciso-2011.pdf). In Proceedings of the 13th International Conference on Informatics and Semiotics in Organisations (ICISO’11), Leeuwarden, Holland, Vol. 1, pp. 167-174
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [An Assisted Process for Building Semiotic Web Ontology](https://drive.google.com/file/d/1FFzmngWQXAV5iLuQDcS_o8yB0zKxb9tH/view?usp=sharing). In Proceedings of the 13th International Conference on Informatics and Semiotics in Organisations (ICISO’11), Leeuwarden, Holland, Vol. 1, pp. 167-174
 
-- ALMEIDA, L. D. A; HAYASHI, E. C. S.; **DOS REIS, J. C.**; COSTA, P. D. P; BARANAUSKAS, M.C.C.; DE MARTINO, J. M. 2011. [Augmenting Accessibility in Social Networks: a Virtual Presenter](santec.tudor.lu/_media/team/dosreis/iceis_2011_164_cr.pdf). In Proceedings of the 13th International Conference on Enterprise Information Systems (ICEIS’11). Beijing, China, pp. 225-234
+- ALMEIDA, L. D. A; HAYASHI, E. C. S.; **DOS REIS, J. C.**; COSTA, P. D. P; BARANAUSKAS, M.C.C.; DE MARTINO, J. M. 2011. [Augmenting Accessibility in Social Networks: a Virtual Presenter](https://drive.google.com/file/d/1GbF7bONiBNXU-DlnDtVleM2uvPO7UTzn/view?usp=sharing). In Proceedings of the 13th International Conference on Enterprise Information Systems (ICEIS’11). Beijing, China, pp. 225-234
 
-- PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; **DOS REIS, J. C.** 2011. [Interaction Design of Social Software: Clarifying requirements through a culturally aware artifact](ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5978455&url=http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5978455). In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 310-315. [**Best Paper Award**]
+- PEREIRA, R.; MIRANDA, L. C.; BARANAUSKAS, M. C. C.; PICCOLO, L. S. G.; ALMEIDA, L. D. A.; **DOS REIS, J. C.** 2011. [Interaction Design of Social Software: Clarifying requirements through a culturally aware artifact](https://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5978455&url=http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5978455). In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 310-315. [**Best Paper Award**]
 
-- FIGUEIREDO, A. M. C.; **DOS REIS, J. C.**; RODRIGUES, M. A. 2011. [Semantic Search for Software Architecture Knowledge: A proposal for Virtual Communities Environment](ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=5978450). In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 287-291
+- FIGUEIREDO, A. M. C.; **DOS REIS, J. C.**; RODRIGUES, M. A. 2011. [Semantic Search for Software Architecture Knowledge: A proposal for Virtual Communities Environment](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=5978450). In Proceedings of the International Conference on Information Society (i-Society’11). London, UK, Vol. 1, pp. 287-291
 
 ### 2010 and before
 
 - **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. [New Perspectives for Search in Social Networks: A Challenge for Inclusion](www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0002897000530062). In Proceedings of the 12th International Conference on Enterprise Information Systems (ICEIS’10). Funchal, Portugal, pp. 53-62
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. [A Semiotic-based Approach to the design of Web Ontologies](santec.tudor.lu/_media/team/dosreis/iciso-2010.pdf). In Proceedings of the 12th International Conference on Informatics and Semiotics in Organisations (ICISO’10). Reading, UK. pp. 60-67
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. [A Semiotic-based Approach to the design of Web Ontologies](https://drive.google.com/file/d/1GKo8r7tODpYbBFwsAM8WfMa7ULPIeuHy/view?usp=sharing). In Proceedings of the 12th International Conference on Informatics and Semiotics in Organisations (ICISO’10). Reading, UK. pp. 60-67
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. [Search Informed by a Semiotic Approach in Social Network Services](ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5536586&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5536586). In Proceedings of the 4th International Workshop Web2Touch. Tozeur, Tunisia, pp. 321-326
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. [Search Informed by a Semiotic Approach in Social Network Services](https://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5536586&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5536586). In Proceedings of the 4th International Workshop Web2Touch. Tozeur, Tunisia, pp. 321-326
 
-- ALMEIDA, L. D. A; HAYASHI, E. C. S.; **DOS REIS, J. C.**; MARTINS, M. C.; BARANAUSKAS, M.C.C. 2010. [Conversas Online: A Synchronous Communication Tool Integrated to Inclusive Social Networks](dl.acm.org/citation.cfm?id=1999600). In Proceedings of the 11th Brazilian Symposium on Human Factors in Computer Systems (IHC’10). Belo Horizonte, Brazil, pp. 51-60
+- ALMEIDA, L. D. A; HAYASHI, E. C. S.; **DOS REIS, J. C.**; MARTINS, M. C.; BARANAUSKAS, M.C.C. 2010. [Conversas Online: A Synchronous Communication Tool Integrated to Inclusive Social Networks](https://dl.acm.org/citation.cfm?id=1999600). In Proceedings of the 11th Brazilian Symposium on Human Factors in Computer Systems (IHC’10). Belo Horizonte, Brazil, pp. 51-60
 
 - **DOS REIS, J. C.**; BARANAUSKAS, M. C. C.; BONACIN, R. 2010. [Busca em Sistemas Sócio-Culturais Online: Desafios e Recomendações](www.inf.pucminas.br/sbc2010/anais/pdf/semish/st01_04.pdf). In Proceedings of the XXX Congress of the Brazilian Computer Science Society (CSBC’10) - SEMISH’10. Belo Horizonte, Brazil, pp. 380-394. (in Portuguese)
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. Ferramentas e Técnicas de Mineração de Texto em Redes Sociais Inclusivas: Promovendo Meios para o Acesso Universal ao Conhecimento. In Proceedings of the Conference IADIS Ibero-Americana WWW/Internet 2010 (CIAWI’10). Carvoeiro, Portugal, pp. 155-162. (in Portuguese)
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2010. [Ferramentas e Técnicas de Mineração de Texto em Redes Sociais Inclusivas: Promovendo Meios para o Acesso Universal ao Conhecimento](https://drive.google.com/file/d/1wqhrEALWANYtwm4zA1ZITj70MkYF0l50/view?usp=sharing). In Proceedings of the Conference IADIS Ibero-Americana WWW/Internet 2010 (CIAWI’10). Carvoeiro, Portugal, pp. 155-162. (In Portuguese)
 
-- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2009. [Mobile Phones Interfaces for Informal Education](link.springer.com/chapter/10.1007/978-3-642-02774-1_56). In 13th International Conference on Human-Computer Interaction (HCII’09). LNCS. Vol. 5621, pp. 515-524
+- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2009. [Mobile Phones Interfaces for Informal Education](https://link.springer.com/chapter/10.1007/978-3-642-02774-1_56). In 13th International Conference on Human-Computer Interaction (HCII’09). LNCS. Vol. 5621, pp. 515-524
 
-- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2009. [Developing Informal Education through Mobile Collaborative Learning](santec.tudor.lu/_media/team/dosreis/cate-2009.pdf). In Proceedings of the 12th IASTED International Conference on Computers and Advanced Technology in Education (CATE’09). St Thomas, US Virgin Islands, pp. 1-7
+- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2009. [Developing Informal Education through Mobile Collaborative Learning](https://drive.google.com/file/d/1J-lw8ng2BtrQ_Mq2D0zLsHlCoCgzM80k/view?usp=sharing). In Proceedings of the 12th IASTED International Conference on Computers and Advanced Technology in Education (CATE’09). St Thomas, US Virgin Islands, pp. 1-7
 
-- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2009. [Using Multimedia in the Mobile Collaborative Learning](santec.tudor.lu/_media/team/dosreis/m-icte-2009.pdf). In Proceedings of the V International Conference on Multimedia and Information and Communication Technologies in Education (m-ICTE’09). Lisbon, Portugal, Vol. 2, pp. 869-873
+- **DOS REIS, J. C.**; BONACIN, R.; MARTINS, M. C. 2009. [Using Multimedia in the Mobile Collaborative Learning](https://drive.google.com/file/d/1QZNZyRu6aTEkvtpsNyaTJrGMePOGaxKA/view?usp=sharing). In Proceedings of the V International Conference on Multimedia and Information and Communication Technologies in Education (m-ICTE’09). Lisbon, Portugal, Vol. 2, pp. 869-873
 
-- BONACIN, R.; BARANAUSKAS, M. C. C.; **DOS REIS, J. C.** 2007. [Aspectos Pragmáticos da Interação com Sistemas de Governo Eletrônico Flexíveis](www.clihc.org/2007/papers/AspectosPragmaticos_ID20_longpaper.pdf). In Proceedings of the Workshop on Perspectives, Challenges and Opportunities for Human-Computer Interaction in Latin America (CLIHC’07) collocated with INTERACT’07. Rio de Janeiro, Brazil. (in Portuguese)
+- BONACIN, R.; BARANAUSKAS, M. C. C.; **DOS REIS, J. C.** 2007. [Aspectos Pragmáticos da Interação com Sistemas de Governo Eletrônico Flexíveis](https://drive.google.com/file/d/18w-UV46L-QTy_SCFSplAVT8El5YxxSiY/view?usp=sharing). In Proceedings of the Workshop on Perspectives, Challenges and Opportunities for Human-Computer Interaction in Latin America (CLIHC’07) collocated with INTERACT’07. Rio de Janeiro, Brazil. (in Portuguese)
 
 ## Short Articles in Conference’s Proceedings
 
@@ -532,7 +532,7 @@ date: 2026-01-12
 
 - REGINO, A. G; **DOS REIS, J. C.** 2025. [Enhancing Knowledge Graphs with Large Language Models: Contributions to E-commerce Question Answering Systems](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/38152). In Concourse of Thesis and Dissertations at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25). **[Honorable mention for the Thesis Award]**
 
-- OLIVEIRA, H. M. D.; OLIVEIRA, G. D.; VIRIATO, P. J. S.; REGINO, A. G.; SILVA, E.; **DOS REIS, J. C.** 2025. StudYard: Aprimorando o Engajamento e a Autonomia do Estudante apoiado por IA Generativa. Concurso Integrado de Desenvolvimento de Soluções de Tecnologia e Objetos de Aprendizagem para a Educação (Apps.Edu). Congresso Brasileiro de Informática na Educação (CBIE).
+- OLIVEIRA, H. M. D.; OLIVEIRA, G. D.; VIRIATO, P. J. S.; REGINO, A. G.; SILVA, E.; **DOS REIS, J. C.** 2025. [StudYard: Aprimorando o Engajamento e a Autonomia do Estudante apoiado por IA Generativa](https://sol.sbc.org.br/index.php/cbie_estendido/article/view/38922). Concurso Integrado de Desenvolvimento de Soluções de Tecnologia e Objetos de Aprendizagem para a Educação (Apps.Edu). Congresso Brasileiro de Informática na Educação (CBIE).
 
 ### 2024
 
@@ -558,9 +558,9 @@ date: 2026-01-12
 
 ### 2018
 
-- **DOS REIS, J. C.** 2018. [Mapping Refinement based on Ontology Evolution: A Context-Matching Approach](ceur-ws.org/Vol-2228/short6.pdf). In Proceedings of the Brazilian Seminar on Ontology Research in Brazil (ONTOBRAS’18). São Paulo, Brazil, pp. 251-256.
+- **DOS REIS, J. C.** 2018. [Mapping Refinement based on Ontology Evolution: A Context-Matching Approach](https://ceur-ws.org/Vol-2228/short6.pdf). In Proceedings of the Brazilian Seminar on Ontology Research in Brazil (ONTOBRAS’18). São Paulo, Brazil, pp. 251-256.
 
-- RAMOS, P. A. T.; **DOS REIS, J. C.**; SCHIOZER, D. J.; DOS SANTOS, A. A. S. 2018. [Estudando as dificuldades de interação em software para gerenciamento de campos de petróleo](portaldeconteudo.sbc.org.br/index.php/ihc_estendido/article/view/4179). In Proceedings of the XVII Brazilian Symposium on Human Factors in Computing Systems (IHC’18). Belém – Pará, Brazil. (in Portuguese)
+- RAMOS, P. A. T.; **DOS REIS, J. C.**; SCHIOZER, D. J.; DOS SANTOS, A. A. S. 2018. [Estudando as dificuldades de interação em software para gerenciamento de campos de petróleo](https://portaldeconteudo.sbc.org.br/index.php/ihc_estendido/article/view/4179). In Proceedings of the XVII Brazilian Symposium on Human Factors in Computing Systems (IHC’18). Belém – Pará, Brazil. (in Portuguese)
 
 - **DOS REIS, J. C.**; BONACIN, R.; CORREA, A.; PEREIRA, F. E. D.; PIEROZZI, I.; TORQUATO, S. A.; CARDOSO, J. L.; JESUS, K. R. E.; ARAUJO, O. F. N. A. 2018. [Framework for Designing Cognitive Assistants to Support Agricultural Production Systems](https://ieeexplore.ieee.org/document/8495950). In Proceedings of the 27th IEEE International Conference on Enabling Technologies (WETICE’18). Paris, France, pp. 280-283
 
@@ -580,15 +580,15 @@ date: 2026-01-12
 
 ### 2014
 
-- **DOS REIS, J. C.**; BONACIN, R. 2014. [Interação na Web ubíqua e multimodal: interconectando pessoas em uma Internet heterogênea e dinâmica](dl.acm.org/citation.cfm?id=2738145). In XIII Brazilian Symposium on Human Factors in Computing Systems (IHC’14). Foz do Iguaçu, Brazil. pp. 433-436. (In Portuguese)
+- **DOS REIS, J. C.**; BONACIN, R. 2014. [Interação na Web ubíqua e multimodal: interconectando pessoas em uma Internet heterogênea e dinâmica](https://dl.acm.org/citation.cfm?id=2738145). In XIII Brazilian Symposium on Human Factors in Computing Systems (IHC’14). Foz do Iguaçu, Brazil. pp. 433-436. (In Portuguese)
 
 - JENSEN, C. J.; **DOS REIS, J. C.**; BONACIN, R. 2014. [Desafios para Expressão e Compartilhamento de Intenções em Sistemas Colaborativos na Web](www.faccamp.br/wcf/anaiswcf2014.pdf). In X FACCAMP Computing Workshop. Campo Limpo, Brazil, pp. 21-24. (In Portuguese)
 
 ### 2013
 
-- **DOS REIS, J. C.** 2013. [Maintaining Mappings Valid between Dynamic KOS](eswc-conferences.org/sites/default/files/phd2013/dos_reis.pdf). In Proceedings of the 10th Extended Semantic Web Conference (ESWC’13). LNCS. Vol. 7882, pp. 650-655.
+- **DOS REIS, J. C.** 2013. [Maintaining Mappings Valid between Dynamic KOS](https://eswc-conferences.org/sites/default/files/phd2013/dos_reis.pdf). In Proceedings of the 10th Extended Semantic Web Conference (ESWC’13). LNCS. Vol. 7882, pp. 650-655.
 
-- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2013. [Analyzing the Evolution of Semantic Correspondences between SNOMED CT and ICD-9-CM](hal.archives-ouvertes.fr/docs/00/83/26/48/PDF/AnalyzingMappingsEvolution.pdf). In Proceedings of the International E-health, Telemedicine and Health ICT Forum (Med-e-Tel’13). Luxembourg, pp. 689-693
+- **DOS REIS, J. C.**; PRUSKI, C.; DA SILVEIRA, M.; REYNAUD-DELAÎTRE, C. 2013. [Analyzing the Evolution of Semantic Correspondences between SNOMED CT and ICD-9-CM](https://hal.archives-ouvertes.fr/docs/00/83/26/48/PDF/AnalyzingMappingsEvolution.pdf). In Proceedings of the International E-health, Telemedicine and Health ICT Forum (Med-e-Tel’13). Luxembourg, pp. 689-693
 
 ### 2012
 
@@ -596,9 +596,9 @@ date: 2026-01-12
 
 ### 2011
 
-- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [Constructing Web Ontologies Informed by Semantic Analysis Method: Heuristics and Transformation Rules](santec.tudor.lu/_media/team/dosreis/iceis_2011_146_cr.pdf). In Proceedings of the 13th International Conference on Enterprise Information Systems (ICEIS’11). Beijing, China, pp. 203-206
+- **DOS REIS, J. C.**; BONACIN, R.; BARANAUSKAS, M. C. C. 2011. [Constructing Web Ontologies Informed by Semantic Analysis Method: Heuristics and Transformation Rules](https://santec.tudor.lu/_media/team/dosreis/iceis_2011_146_cr.pdf). In Proceedings of the 13th International Conference on Enterprise Information Systems (ICEIS’11). Beijing, China, pp. 203-206
 
-- LIMA, T. C. & **DOS REIS, J. C.** 2011. [Gender in the Digital Age: Women's Participation in Designing Social Software](link.springer.com/chapter/10.1007/978-3-642-22098-2_90). In Proceedings of the 14th International Conference on Human-Computer Interaction (HCII’11). LNCS. Vol. 173, pp. 449-453
+- LIMA, T. C. & **DOS REIS, J. C.** 2011. [Gender in the Digital Age: Women's Participation in Designing Social Software](https://link.springer.com/chapter/10.1007/978-3-642-22098-2_90). In Proceedings of the 14th International Conference on Human-Computer Interaction (HCII’11). LNCS. Vol. 173, pp. 449-453
 
 ### 2010
 
@@ -610,11 +610,11 @@ date: 2026-01-12
 
 ### 2014
 
-- **DOS REIS, J. C.** 2014. [Mapping Adaptation between Biomedical Knowledge Organization Systems](santec.tudor.lu/_media/team/dosreis/dos_reis_julio_cesar_24102014_vfinal.pdf). Ph.D. Thesis. Computer Science Department, University of Paris-Sud, Orsay, France.
+- **DOS REIS, J. C.** 2014. [Mapping Adaptation between Biomedical Knowledge Organization Systems](https://drive.google.com/file/d/1FDaa0TsLP8u3S8mc0JfdB2aA2qTCouqm/view?usp=sharing). Ph.D. Thesis. Computer Science Department, University of Paris-Sud, Orsay, France.
 
 ### 2011
 
-- **DOS REIS, J. C.** 2011. [Search Informed by a Semiotic Approach in Inclusive Social Network Services](www.bibliotecadigital.unicamp.br/document/?code=000798651). M.Sc. Thesis. Institute of Computing, University of Campinas. Campinas, Brazil.
+- **DOS REIS, J. C.** 2011. [Search Informed by a Semiotic Approach in Inclusive Social Network Services](https://drive.google.com/file/d/1T8gWPMJxYePg_IA5AtC01QcfxKG_8ak1/view?usp=sharing). M.Sc. Thesis. Institute of Computing, University of Campinas. Campinas, Brazil.
 
 ## Patents and Software
 
