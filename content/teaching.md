@@ -7,11 +7,11 @@ date: 2026-01-12
 
 ### Undergraduate
 
-- MC750: Human-Computer Interface Construction - [Syllabus (in Portuguese)](../static/syllabus/PDD-MC750.pdf)
+- MC750: Human-Computer Interface Construction - [Syllabus (in Portuguese)](https://github.com/juliodosreis/juliodosreis.github.io/blob/764bd7d711bf0cc1bcd7ebada6aa2534b674e193/static/syllabus/PDD-MC750.pdf)
 
 ### Graduate
 
-- MO656: Introduction to the Semantic Web - [Syllabus (in Portuguese)](../static/syllabus/PDD-MO656.pdf)
+- MO656: Introduction to the Semantic Web - [Syllabus (in Portuguese)](https://github.com/juliodosreis/juliodosreis.github.io/blob/764bd7d711bf0cc1bcd7ebada6aa2534b674e193/static/syllabus/PDD-MO656.pdf)
 
 ## Past Courses
 
