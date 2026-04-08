@@ -196,7 +196,20 @@ date: 2026-01-12
 
 ### 2026
 
-- PERES, S. B. D.; **DOS REIS, J. C.** 2026. PENS4Kids: A Child-Oriented Scale Instrument for Player Experience of Need Satisfaction. In Proceedings of the 28th International Conference on Human-Computer Interaction (HCII’26). Montreal, Canadá. LNCS. (to be published)
+- SILVA, E.; BARROS, G. L.; ARROYO, A. N.; RODRIGUES, M. E.; FURTADO, P. H. T.; **DOS REIS, J. C.** 2026. QUEST: A RAG-based Planning Memory to Augment Task Solving of LLM-based Cognitive Agents. In 14th International Workshop on Engineering Multi-Agent Systems (EMAS 2026) collocated with the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’26), Paphos, Cyprus (to be published)
+
+-  SILVA, F. S.; SOARES, J. L.; NETO, S. F. G.; **DOS REIS, J. C.**; REIS, M. S. 2026. ARARA: A LLM-based Multi-Agent Development Framework for Conversational Recommender Systems. In 14th International Workshop on Engineering Multi-Agent Systems (EMAS 2026) collocated with the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’26), Paphos, Cyprus (to be published)
+
+- FLEXA, R. G.; MOHAMED, A. H.; SANTOS, F.; VILLAS, L. A.; **DOS REIS, J. C.** 2026. Bridging Reflective and Semantic Memory for Lifelong Learning in LLM-based Agents. In 14th International Workshop on Engineering Multi-Agent Systems (EMAS 2026) collocated with the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’26), Paphos, Cyprus (to be published)
+
+- SOUZA, E.; REGINO, A. G.; **DOS REIS, J. C.** 2026. NORKE: A Framework for Normative Rule-Centric Knowledge Graph Construction using Language Models. In 7th International Workshop on Knowledge Graph Construction collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik, Croatia (to be published)
+
+- SOARES, J. L.; ; **DOS REIS, J. C.**; REIS, M. S. 2026. CausalKGAT: Enhancing GNN-based Recommenders with Causal Graphs. In Causal Neuro-symbolic Artificial Intelligence (Causal NeSy): Toward Agentic LLMs with Neuro-Symbolic and Graph Based Reasoning collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik , Croatia (to be published)
+
+- FERREIRA, M. A.; **DOS REIS, J. C.**; REIS, M. S. 2026. Causal-Constructed Similarity Graph Learning for Customer Churn Prediction. In Causal Neuro-symbolic Artificial Intelligence (Causal NeSy): Toward Agentic LLMs with Neuro-Symbolic and Graph Based Reasoning collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik, Croatia (to be published)
+
+- PERES, S. B. D.; **DOS REIS, J. C.** 2026. PENS4Kids: A Child-Oriented Instrument for
+Evaluating Player Experience of Need Satisfaction. In Proceedings of the 28th International Conference on Human-Computer Interaction (HCII’26). Montreal, Canadá. LNCS. (to be published)
 
 
 ### 2025
@@ -532,6 +545,11 @@ date: 2026-01-12
 - BONACIN, R.; BARANAUSKAS, M. C. C.; **DOS REIS, J. C.** 2007. [Aspectos Pragmáticos da Interação com Sistemas de Governo Eletrônico Flexíveis](https://drive.google.com/file/d/18w-UV46L-QTy_SCFSplAVT8El5YxxSiY/view?usp=sharing). In Proceedings of the Workshop on Perspectives, Challenges and Opportunities for Human-Computer Interaction in Latin America (CLIHC’07) collocated with INTERACT’07. Rio de Janeiro, Brazil. (in Portuguese)
 
 ## Short Articles in Conference’s Proceedings
+
+### 2026
+
+- **DOS REIS, J. C.** 2026. Agentic Learning Ecosystem for Open, Negotiated, and Accountable Education. In 7th International Workshop on Agents for Societal Impact collocated with the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’26), Paphos, Cyprus (to be published)
+
 
 ### 2025
 
