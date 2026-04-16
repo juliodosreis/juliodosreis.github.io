@@ -9,6 +9,7 @@ date: 2026-01-12
 - Eryck Pedro da Silva. [Arquitetura multiagentes com base em LLMs para auxiliar tomadas de decisão](https://aaiims-unicamp.github.io/products/).  Start: 01/12/2024. 
 
 ### Ph.D. Candidates
+
 - Fillipe dos Santos Silva. From Stable Clusters to Personalized Recommendations: Integrating Structured and Textual Data. IC/UNICAMP (H.IAAC – Industry Research Scholarship). Supervision with Prof. Marcelo da Silva Reis.
 
 - Victor Jesus Sotelo Chico. Multimodal knowledge representation combining text and triple encoding for question-answering systems. IC/UNICAMP (Capes scholarship – GoBots industry research partnership).
@@ -16,7 +17,10 @@ date: 2026-01-12
 - Paula Jeniffer dos Santos Viriato. Personalization of Automated Generation of Educational Tasks Based on Learning Analytics. IC/UNICAMP.
 
 ### M.Sc. Candidates
-- Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/ UNICAMP.
+
+- Mariana Aparecida Ferreira. Deep learning based on causally constructed similarity graphs applied to churn prediction. IC/UNICAMP. Supervision with Prof. Marcelo Reis.
+
+- Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/UNICAMP.
 
 - Maria Clara Castro Higino de Sousa. Exploring Artificial Intelligence techniques in selection study groups and data collection in research clinics. IC/UNICAMP.
 
@@ -26,13 +30,22 @@ date: 2026-01-12
 
 - Ana Consuelo Portilho Paixão. Generative AI-based Feedback Assistant for Question Answering. IC/UNICAMP
 
-- Ronaldinho Vega Centeno Olivera. IC/UNICAMP. Adaptando Modelos de Linguagem para RAG. (Petrobras Industry Research Partnership)
+- Ronaldinho Vega Centeno Olivera. IC/UNICAMP. Adaptando Modelos de Linguagem para RAG. (Petrobras Industry Research Partnership). Supervision with Prof. Allan Mariano.
 
 - Felipe Duarte Dominges. Compact LLMs for Portuguese Multiple Choice Questionnaire Generation: Accessible AI in Education. IC/UNICAMP
 
 - Alejandro Núñez Arroyo. Systematic evaluation framework for LLM-based multi-agent systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
 
+- Alejandro Núñez Arroyo. Systematic evaluation framework for LLM-based multi-agent systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
+
+- Lucas Treviso Bandeira. Long Planning in LLM-based Agents. (Petrobras Industry Research Partnership)
+
+- Rafael Rodrigues Dias. User Context-Aware Memory Management for Coherent
+Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Marcelo Reis.
+
+
 ### Undergraduate Students
+
 - Gabriel Lopes de Barros. 2025. Memory-based planning in cognitive multi-agent systems based on LLMs. (Petrobras Industry Research Partnership)
 
 - Guilherme de Godoi Monteiro. 2025. Paradigmas conversacionais e suas implicações no mecanismo de planejamento em sistemas multiagentes baseados em LLMs. (Petrobras Industry Research Partnership)
@@ -48,6 +61,7 @@ date: 2026-01-12
 - Rafael Roque de Souza. Framework for task-oriented chatbot development. IC/UNICAMP. (CI&T – Industry Research Scholarship) 01/02/2022 until 28/02/2023.
 
 ### Doctorates
+
 - Sheila Venero. Conceptual Modeling and Automated Planning for Knowledge-Intensive Processes under Uncertainty. IC/UNICAMP. (CNPq scholarship). Supervision with Prof. Cecília Mary Fischer Rubira and Prof. Leonardo Montecchi. Ph.D. thesis. Defense: 14/11/2025.
 
 - Geovanna Evelyn Espinoza Taype. A Socioenactive System Empowered by AI Studied through Emotional Contagion Phenomenon. IC/UNICAMP (FAPESP scholarship). Supervision with Prof. Maria Cecília Calani Baranauskas. Ph.D. thesis. Defense: 22/08/2025.
@@ -63,6 +77,7 @@ date: 2026-01-12
 - Juliana Medeiros Destro. [Cross-Language Ontology Matching](repositorio.unicamp.br/bitstream/REPOSIP/335171/1/Destro_JulianaMedeiros_D.pdf). Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
 
 ### Masters
+
 - Sadeeq Olalekan Bello. Cognitive Architecture-Driven Ensemble Learning for Real-Time Churn Prediction. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 19/12/2024. Supervision with Prof. Marcelo da Silva Reis.
 
 - William Ferreira da Silva Filho. MAEVE: A Dataset Generator Framework for Predicting Customer Behavior in Digital Marketing. IC/ UNICAMP (H.IAAC – industry research). M.Sc. thesis. Defense: 26/11/2024.

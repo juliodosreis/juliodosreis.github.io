@@ -34,7 +34,7 @@ date: 2026-01-12
 
 ### Graduate
 
-- MO810: Topics in Artificial Intelligence - Multi-agent systems based on language models
+- MO656: Introduction to the Semantic Web
 
 - MO903: Scientific Writing
 
