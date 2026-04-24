@@ -144,6 +144,12 @@ date: 2026-01-12
 
 ## Book Chapters
 
+### 2026
+
+- REGINO, A. G.; SHIMIZU, G. Y.; ZAGATTI, F. R.; LOPES, F. L.; BONACIN, R.; **DOS REIS, J. C.**; CIFERRI, C. D. A. 2026. A Comparative Study of Regression Models for Price Prediction in Automotive E-commerce. In Communications in Computer and Information Science Springer (to be published).
+
+- OLIVERA, R. V. C.; SOUZA, A. M.; **DOS REIS, J. C.** 2026. Enhancing Dense Retrieval Robustness via Grounded Multi-Query Expansion: Extensive Assessment of the RFG Framework. In Communications in Computer and Information Science Springer (to be published).
+
 ### 2025
 
 - ZEVALLOS-QUISPE, J. M.; REGINO, A.; CHICO, V. J. S.; HOCHGREB, V.; **DOS REIS, J. C.** 2025. [UpKG: A Framework for Integrating and Evaluating Novel Domains into Knowledge Graphs](https://doi.org/10.1007/978-3-031-87569-4_10). In Knowledge Discovery, Knowledge Engineering and Knowledge Management. IC3K 2023. Communications in Computer and Information Science Springer. Volume 2454; Chapter 10, Springer. F. Coenen et al. (Eds.): IC3K2023, CCIS2454, pp.1–29.

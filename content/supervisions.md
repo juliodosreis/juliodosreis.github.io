@@ -16,6 +16,9 @@ date: 2026-01-12
 
 - Paula Jeniffer dos Santos Viriato. Personalization of Automated Generation of Educational Tasks Based on Learning Analytics. IC/UNICAMP.
 
+- Juliano Leonardo Soraes. Causal Reasoning Augmented Agents for Adaptive Knowledge
+Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
+
 ### M.Sc. Candidates
 
 - Mariana Aparecida Ferreira. Deep learning based on causally constructed similarity graphs applied to churn prediction. IC/UNICAMP. Supervision with Prof. Marcelo Reis.
@@ -26,7 +29,7 @@ date: 2026-01-12
 
 - Rodrigo Oliveira Caus. Combining Frequently Asked Questions and Generative Models for Question Answering in e-Commerce. IC/UNICAMP (GoBots Industry Research Partnership).
 
-- Júlia Ferreira Tessler. Learning by teaching via LLM-Based Agents. IC/UNICAMP.
+- Júlia Ferreira Tessler. Learning by teaching via LLM-Based Agents. IC/UNICAMP. Supervision with Dr. Eryck Pedro da Silva.
 
 - Ana Consuelo Portilho Paixão. Generative AI-based Feedback Assistant for Question Answering. IC/UNICAMP
 
@@ -34,9 +37,8 @@ date: 2026-01-12
 
 - Felipe Duarte Dominges. Compact LLMs for Portuguese Multiple Choice Questionnaire Generation: Accessible AI in Education. IC/UNICAMP
 
-- Alejandro Núñez Arroyo. Systematic evaluation framework for LLM-based multi-agent systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
-
-- Alejandro Núñez Arroyo. Systematic evaluation framework for LLM-based multi-agent systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
+- Alejandro Núñez Arroyo. U-Eval: A Domain Agnostic Framework for Automated Test Case Generation
+and Systematic Evaluation of LLM-Based Multi-Agent Systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
 
 - Lucas Treviso Bandeira. Long Planning in LLM-based Agents. (Petrobras Industry Research Partnership)
 
@@ -62,19 +64,19 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 ### Doctorates
 
-- Sheila Venero. Conceptual Modeling and Automated Planning for Knowledge-Intensive Processes under Uncertainty. IC/UNICAMP. (CNPq scholarship). Supervision with Prof. Cecília Mary Fischer Rubira and Prof. Leonardo Montecchi. Ph.D. thesis. Defense: 14/11/2025.
+- Sheila Venero. [Conceptual Modeling and Automated Planning for Knowledge-Intensive Processes under Uncertainty.](https://repositorio.unicamp.br/acervo/detalhe/1531915) IC/UNICAMP. (CNPq scholarship). Supervision with Prof. Cecília Mary Fischer Rubira and Prof. Leonardo Montecchi. Ph.D. thesis. Defense: 14/11/2025.
 
-- Geovanna Evelyn Espinoza Taype. A Socioenactive System Empowered by AI Studied through Emotional Contagion Phenomenon. IC/UNICAMP (FAPESP scholarship). Supervision with Prof. Maria Cecília Calani Baranauskas. Ph.D. thesis. Defense: 22/08/2025.
+- Geovanna Evelyn Espinoza Taype. [A Socioenactive System Empowered by AI Studied through Emotional Contagion Phenomenon.](https://repositorio.unicamp.br/acervo/detalhe/1522520) IC/UNICAMP (FAPESP scholarship). Supervision with Prof. Maria Cecília Calani Baranauskas. Ph.D. thesis. Defense: 22/08/2025.
 
 - André Gomes Regino. Enhancing Knowledge Graphs with Large Language Models: Contributions to E-commerce Question Answering Systems. IC/UNICAMP (CNPq scholarship – GoBots industry research partnership). Ph.D. thesis. Defense: 25/04/2025.
 
-- Luiz Aparecido Virginio Junior. Addressing Patient Safety in Healthcare: The Heath Information Technology Safety Maturity Model. Ph.D. thesis. Defense: 27/05/2024. IC/UNICAMP (CNPq scholarship).
+- Luiz Aparecido Virginio Junior. [Addressing Patient Safety in Healthcare: The Heath Information Technology Safety Maturity Model.](https://repositorio.unicamp.br/acervo/detalhe/1398860) Ph.D. thesis. Defense: 27/05/2024. IC/UNICAMP (CNPq scholarship).
 
-- Anderson Rossanez. Entity Evolution in Temporal Knowledge Graphs. Ph.D. thesis. Defense: 24/05/2024. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres.
+- Anderson Rossanez. [Entity Evolution in Temporal Knowledge Graphs](https://repositorio.unicamp.br/acervo/detalhe/1398630). Ph.D. thesis. Defense: 24/05/2024. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres.
 
-- Eliane Zambon Victorelli Dias. [Design and Evaluation of the user experience in Human-Data Interaction: An approach combining guidelines and participatory design](repositorio.unicamp.br/jspui/bitstream/REPOSIP/359648/1/Victorelli_ElianeZambon_D.pdf). Ph.D. thesis. Defense: 16/03/2021. IC/UNICAMP.
-
-- Juliana Medeiros Destro. [Cross-Language Ontology Matching](repositorio.unicamp.br/bitstream/REPOSIP/335171/1/Destro_JulianaMedeiros_D.pdf). Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
+- Eliane Zambon Victorelli Dias. [Design and Evaluation of the user experience in Human-Data Interaction: An approach combining guidelines and participatory design](https://repositorio.unicamp.br/acervo/detalhe/1164217). Ph.D. thesis. Defense: 16/03/2021. IC/UNICAMP. 
+ 
+- Juliana Medeiros Destro. [Cross-Language Ontology Matching](https://repositorio.unicamp.br/acervo/detalhe/1093544). Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
 
 ### Masters
 
@@ -102,7 +104,7 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 - Marcos Vinícius Macêdo Borges. [Semantic-enhanced recommendation of video lectures relying on ontology-based annotations](repositorio.unicamp.br/jspui/bitstream/REPOSIP/360339/1/Borges_MarcosViniciusMacedo_M.pdf). M.Sc. thesis. Defense: 10/03/2021. IC/UNICAMP (FAPESP scholarship). 
 
-- André Gomes Regino. [Link Maintenance in the Semantic Web](repositorio.unicamp.br/bitstream/REPOSIP/359985/1/Regino_AndreGomes_M.pdf). M.Sc. thesis. Defense: 09/03/2021. IC/UNICAMP (FAPESP scholarship). 
+- André Gomes Regino. [Link Maintenance in the Semantic Web](https://repositorio.unicamp.br/acervo/detalhe/1164477). M.Sc. thesis. Defense: 09/03/2021. IC/UNICAMP (FAPESP scholarship). 
 
 - Jeanfranco David Farfan Escobedo. [Context-based intention classification in natural language dialog flow processing](repositorio.unicamp.br/jspui/bitstream/REPOSIP/359679/1/FarfanEscobedo_JeanfrancoDavid_M.pdf). M.Sc. thesis. Defense: 02/03/2021. IC/UNICAMP (Wavy – industry research scholarship).
 
