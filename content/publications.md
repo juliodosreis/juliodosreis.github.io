@@ -202,6 +202,10 @@ date: 2026-01-12
 
 ### 2026
 
+- POLASTRI, P. C.; LINHALIS. F.; **DOS REIS, J. C.** 2026. Assessing Graduate Students' Perceptions in Exploring Generative AI for Scientific Writing. In Brazilian Computer Society Congress (CSBC'26). 7º Workshop sobre as Implicações da Computação na Sociedade (WICS). Gramado, Brazil. (to be published)
+
+- MOURA, E. M. M.; SANTOS, G. C.; ANDRADE, R. L. S.; GUIMARÃES, M.; **DOS REIS, J. C.** 2026. Reinterpretação Contemporânea da Tartaruga LOGO: Desenvolvimento de um protótipo educacional. In Brazilian Computer Society Congress (CSBC'26). 2º Workshop sobre Inovação, Desenvolvimento, Educação, Inclusão com Ações Maker (IDEIA). Gramado, Brazil. [In Portuguese] (to be published)
+
 - VEROL, F.; REGINO, A. G.; ZAGATTI, F. R.; ROSA, F. F.; **DOS REIS, J. C.**; BONACIN, R. 2026. Domain-Specific Fine-Tuning of Large Language Models for Pharmacological Question Answering". In XXVI Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2026), Ouro Preto, MG, Brazil. (to be published)
 
 - SILVA, E.; BARROS, G. L.; ARROYO, A. N.; RODRIGUES, M. E.; FURTADO, P. H. T.; **DOS REIS, J. C.** 2026. QUEST: A RAG-based Planning Memory to Augment Task Solving of LLM-based Cognitive Agents. In 14th International Workshop on Engineering Multi-Agent Systems (EMAS 2026) collocated with the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’26), Paphos, Cyprus (to be published)
@@ -212,13 +216,12 @@ date: 2026-01-12
 
 - SOUZA, E.; REGINO, A. G.; **DOS REIS, J. C.** 2026. NORKE: A Framework for Normative Rule-Centric Knowledge Graph Construction using Language Models. In 7th International Workshop on Knowledge Graph Construction collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik, Croatia (to be published)
 
-- SOARES, J. L.; **DOS REIS, J. C.**; REIS, M. S. 2026. CausalKGAT: Enhancing GNN-based Recommenders with Causal Graphs. In 2nd Causal Neuro-symbolic Artificial Intelligence (Causal NeSy): Toward Agentic LLMs with Neuro-Symbolic and Graph Based Reasoning collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik , Croatia (to be published)
+- SOARES, J. L.; **DOS REIS, J. C.**; REIS, M. S. 2026. CausalKGAT: Enhancing GNN-based Recommenders with Causal Graphs. In 2nd Causal Neuro-symbolic Artificial Intelligence (Causal NeSy): Toward Agentic LLMs with Neuro-Symbolic and Graph Based Reasoning collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik, Croatia (to be published)
 
 - FERREIRA, M. A.; **DOS REIS, J. C.**; REIS, M. S. 2026. Causal-Constructed Similarity Graph Learning for Customer Churn Prediction. In 2nd Causal Neuro-symbolic Artificial Intelligence (Causal NeSy): Toward Agentic LLMs with Neuro-Symbolic and Graph Based Reasoning collocated with 23rd European Semantic Web Conference (ESWC’26), Dubrovnik, Croatia (to be published)
 
 - PERES, S. B. D.; **DOS REIS, J. C.** 2026. PENS4Kids: A Child-Oriented Instrument for
 Evaluating Player Experience of Need Satisfaction. In Proceedings of the 28th International Conference on Human-Computer Interaction (HCII’26). Montreal, Canadá. LNCS. (to be published)
-
 
 ### 2025
 
