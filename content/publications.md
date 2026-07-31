@@ -8,6 +8,10 @@ date: 2026-01-12
 
 ### 2026
 
+- OLIVEIRA, R.; HERNANDEZ, A.; GARBIN, M. **DOS REIS, J. C.**; AZEVEDO, R. 2026. [Automatic Question Generation with Large Language Models: A Survey](https://dl.acm.org/doi/10.1145/3832773). ACM Computing Surveys. ISSN: 0360-0300.
+
+- ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2026. [Knowledge Graph Centrality Measurements: A Comparative Study](https://doi.org/10.1007/s42979-026-05132-z). SN Computer Science (SNCS). Vol (7), 613. ISSN: 2662-995X.
+
 - KALIDAS, V.; ROSSANEZ, A.; REGINO, A. G., **DOS REIS, J. C.**; TORRES, R. S. 2026. [ELSA-Compliant Explainable Recommender Systems](https://dl.acm.org/doi/10.1145/3797875). ACM Transactions on Recommender Systems (TORS). EISSN: 2770-6699. 
 
 - CHICO, V. J. S.; REGINO, A.; **DOS REIS, J. C.** 2026. [BENCH4T3: A Framework to Create Benchmarks for Text-to-Triples Alignment Generation](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5809). Journal of the Brazilian Computer Society (JBCS). ISSN: 1678-4804. Vol. 32(1), pp. 85–101. 
@@ -28,7 +32,7 @@ date: 2026-01-12
 
 - HADDADI, S. J.; FARSHIDVARD, A.; DOS SANTOS SILVA, F.; **DOS REIS, J. C.**; DA SILVA REIS, M. 2024. [Customer churn prediction in imbalanced datasets with resampling methods: A comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035881). Expert Systems with Applications (ESWA). ISSN: 0957-4174. Vol 246. 
 
-- GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS. M. C. C. 2024. [Enactive Interaction in Technology-based Learning Environments: A Systematic Literature Review. Educational Technology & Society](<https://doi.org/10.30191/ETS.202404_27(2).RP02>). Vol 27(2), pp. 87-113.
+- GONCALVES, D. A.; CACEFFO, R.; VALENTE, J. A.; BONACIN, R.; **DOS REIS, J. C.**; BARANAUSKAS. M. C. C. 2024. [Enactive Interaction in Technology-based Learning Environments: A Systematic Literature Review.](<https://doi.org/10.30191/ETS.202404_27(2).RP02>) Educational Technology & Society. Vol 27(2), pp. 87-113.
 
 - GASPAR, R.D.P.; GONÇALVES, V.P.; FILHO, G.P.R.; **DOS REIS, J. C.**; FERRUCIO, F. R.; BONACIN, R. 2024. [Toward improved co-designing home care solutions based on personas and design thinking with older users](https://doi.org/10.1007/s10209-022-00940-5). Universal Access Information Society (UAIS), Vol. 23, pp. 305–328.
 
@@ -201,6 +205,8 @@ date: 2026-01-12
 ## Full Articles in Conference’s Proceedings
 
 ### 2026
+
+
 
 - POLASTRI, P. C.; LINHALIS. F.; **DOS REIS, J. C.** 2026. Assessing Graduate Students' Perceptions in Exploring Generative AI for Scientific Writing. In Brazilian Computer Society Congress (CSBC'26). 7º Workshop sobre as Implicações da Computação na Sociedade (WICS). Gramado, Brazil. (to be published)
 
