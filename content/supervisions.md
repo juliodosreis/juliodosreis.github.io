@@ -21,7 +21,7 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
 ### M.Sc. Candidates
 
-- Mariana Aparecida Ferreira. Deep learning based on causally constructed similarity graphs applied to churn prediction. IC/UNICAMP. Supervision with Prof. Marcelo Reis.
+- Ronaldinho Vega Centeno Olivera. IC/UNICAMP. Adaptando Modelos de Linguagem para RAG. (Petrobras Industry Research Partnership). Supervision with Prof. Allan Mariano.
 
 - Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/UNICAMP.
 
@@ -32,8 +32,6 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 - Júlia Ferreira Tessler. Learning by teaching via LLM-Based Agents. IC/UNICAMP. Supervision with Dr. Eryck Pedro da Silva.
 
 - Ana Consuelo Portilho Paixão. Generative AI-based Feedback Assistant for Question Answering. IC/UNICAMP
-
-- Ronaldinho Vega Centeno Olivera. IC/UNICAMP. Adaptando Modelos de Linguagem para RAG. (Petrobras Industry Research Partnership). Supervision with Prof. Allan Mariano.
 
 - Felipe Duarte Dominges. Compact LLMs for Portuguese Multiple Choice Questionnaire Generation: Accessible AI in Education. IC/UNICAMP
 
@@ -79,6 +77,8 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 - Juliana Medeiros Destro. [Cross-Language Ontology Matching](https://repositorio.unicamp.br/acervo/detalhe/1093544). Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
 
 ### Masters
+
+- Mariana Aparecida Ferreira. CAUSE-GNN: Deep learning based on causally constructed similarity graphs applied to churn prediction. IC/UNICAMP. M.Sc. thesis. Defense: 31/07/2026. Supervision with Prof. Marcelo Reis.
 
 - Sadeeq Olalekan Bello. Cognitive Architecture-Driven Ensemble Learning for Real-Time Churn Prediction. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 19/12/2024. Supervision with Prof. Marcelo da Silva Reis.
 
