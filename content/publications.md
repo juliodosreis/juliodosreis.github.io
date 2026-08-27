@@ -206,7 +206,23 @@ date: 2026-01-12
 
 ### 2026
 
+- ARROYO, A. N.; **DOS REIS, J. C.** 2026. MCPForge: Automatic Generation of Certified Tool-Use Benchmarks for LLM Agents. In the Proceedings of the 2nd International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS’26). Part of the 18th International Joint Conference on Computational Intelligence (IJCCI’25). Angers, France.
 
+- MORAIS, R.; SANTOS, F. A.; VILLAS, L. A.; **DOS REIS, J. C.** 2026. A Planner Cache for Short-Term Memory Management in LLM-Based Agents. In the Proceedings of the 2nd International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS’26). Part of the 18th International Joint Conference on Computational Intelligence (IJCCI’25). Angers, France.
+
+- ANTUNES, T. P.;  D’ANDRÉA, L. B.; XAVIER, C.; FREITAS, V. H.; REGINO, A. G.; **DOS REIS, J. C.** 2026. LLM-based Multi-Agents for Sponsored-Product Campaign Management in E-commerce. In the Proceedings of the 2nd International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS’26). Part of the 18th International Joint Conference on Computational Intelligence (IJCCI’25). Angers, France.
+
+- BENEVIDES, F. L.; MONAR, J. E. S.; **DOS REIS, J. C.** 2026. Sponsored Discovery Mechanism for the Web of Open Agents. In the Proceedings of the 2nd International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS’26). Part of the 18th International Joint Conference on Computational Intelligence (IJCCI’25). Angers, France.
+
+- CHICO, V. J. S.; REGINO, A. G.; **DOS REIS, J. C.** 2026. PoRTA: A Benchmark for Semantic Alignment Between RDF Triples and Portuguese Natural Language. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Engineering and Ontology Development (KEOD’26). Angers, France.
+
+- CHICO, V. J. S.; REGINO, A. G.; **DOS REIS, J. C.** 2026. Grammar Bias: Neurosymbolic Embeddings for Directionally Robust KG-RAG. In the proceedings of the 3rd International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs ([RAGE-KG'26](https://2026.rage-kg.org/)). Co-located with the The 25th International Semantic Web Conference (ISWC'26). Bari, Italy
+
+- RODRIGUES, M. E.; DE SOUZA, A. M.; **DOS REIS, J. C.** 2026. On the Limits of Triple-Only Retrieval for GraphRAG: Evidence from Zero-Shot Ontology-Guided Exploration. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Discovery and Information Retrieval (KDIR’26). Angers, France.
+
+- NABARRO, C. B. M.; REGINO, A. G.; **DOS REIS, J. C.**;  BONACIN, R. 2026.  Uma Abordagem Baseada em Inteligência Artificial Generativa, PBL e Metodologias Ágeis para o Ensino de Modelagem de Sistemas. XXXVII Simpósio Brasileiro de Informática na Educação (SBIE 2026). Congresso Brasileiro de Informática na Educação (CBIE'26). Goiânia, Brazil. [In Portuguese]
+
+- BANDEIRA, L. T.; ROCHA, D. A.; SILVA, E.; **DOS REIS, J. C.** 2026. Stagent: A Finite-State Machine Architecture for Traceable LLM Agents. In XX Workshop-School on Agents, Environments, and Applications (WESAAC'26). SBC. Cuiabá, Brazil.  
 
 - POLASTRI, P. C.; LINHALIS. F.; **DOS REIS, J. C.** 2026. Assessing Graduate Students' Perceptions in Exploring Generative AI for Scientific Writing. In Brazilian Computer Society Congress (CSBC'26). 7º Workshop sobre as Implicações da Computação na Sociedade (WICS). Gramado, Brazil. (to be published)
 

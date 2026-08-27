@@ -3,10 +3,15 @@ title: 'Awards'
 date: 2026-01-12
 #type: landing
 ---
+
+### 2026
+
+- Best Paper Award at the 14th International Workshop on Engineering Multi-Agent Systems (EMAS’26) co-located with the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’26).
+
 ### 2025
 - Honorable mention to Best Ph.D. Thesis Award at the Concourse of Thesis and Dissertations (Student André Regino) at the XXXI Brazilian Symposium on Multimedia and Web (WebMedia’25)
 
-- Best Paper Award, 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025).
+- Best Paper Award at the 17th International Conference on Knowledge Engineering and Ontology Development (KEOD/IC3K 2025).
 
 - Best Paper Award at the XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25).
 
