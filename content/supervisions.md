@@ -19,6 +19,9 @@ date: 2026-01-12
 - Juliano Leonardo Soraes. Causal Reasoning Augmented Agents for Adaptive Knowledge
 Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
+- Jesamin Melissa Zevallos Quispe. Under definition. IC/UNICAMP
+
+
 ### M.Sc. Candidates
 
 - Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/UNICAMP.
@@ -38,7 +41,9 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 - Lucas Treviso Bandeira. Long Planning in LLM-based Agents. (Petrobras Industry Research Partnership)
 
 - Rafael Rodrigues Dias. User Context-Aware Memory Management for Coherent
-Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Marcelo Reis.
+Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
+
+- José Ernesto Stelzer Monar. Under definition. IC/UNICAMP
 
 
 ### Undergraduate Students
@@ -79,7 +84,7 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 - Ronaldinho Vega Centeno Olivera. Context-Aware Fine-Tuning for RAG Systems in Specialized Domains. (Petrobras Industry Research Partnership). M.Sc. thesis. Defense: 30/09/2026. Supervision with Prof. Allan Mariano.
 
-- Mariana Aparecida Ferreira. CAUSE-GNN: Causal Selection and Similarity Graph Learning for Customer Churn Prediction. IC/UNICAMP. M.Sc. thesis. Defense: 31/07/2026. Supervision with Prof. Marcelo Reis.
+- Mariana Aparecida Ferreira. CAUSE-GNN: Causal Selection and Similarity Graph Learning for Customer Churn Prediction. IC/UNICAMP. M.Sc. thesis. Defense: 31/07/2026. Supervision with Prof. Marcelo da Silva Reis.
 
 - Sadeeq Olalekan Bello. Cognitive Architecture-Driven Ensemble Learning for Real-Time Churn Prediction. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 19/12/2024. Supervision with Prof. Marcelo da Silva Reis.
 
