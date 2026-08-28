@@ -12,7 +12,7 @@ date: 2026-01-12
 
 - Fillipe dos Santos Silva. From Stable Clusters to Personalized Recommendations: Integrating Structured and Textual Data. IC/UNICAMP (H.IAAC – Industry Research Scholarship). Supervision with Prof. Marcelo da Silva Reis.
 
-- Victor Jesus Sotelo Chico. Multimodal knowledge representation combining text and triple encoding for question-answering systems. IC/UNICAMP (Capes scholarship – GoBots industry research partnership).
+- Victor Jesus Sotelo Chico. Multimodal knowledge representation combining text and triple encoding for question-answering systems. IC/UNICAMP.
 
 - Paula Jeniffer dos Santos Viriato. Personalization of Automated Generation of Educational Tasks Based on Learning Analytics. IC/UNICAMP.
 
@@ -20,8 +20,6 @@ date: 2026-01-12
 Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
 ### M.Sc. Candidates
-
-- Ronaldinho Vega Centeno Olivera. IC/UNICAMP. Adaptando Modelos de Linguagem para RAG. (Petrobras Industry Research Partnership). Supervision with Prof. Allan Mariano.
 
 - Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/UNICAMP.
 
@@ -35,8 +33,7 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
 - Felipe Duarte Dominges. Compact LLMs for Portuguese Multiple Choice Questionnaire Generation: Accessible AI in Education. IC/UNICAMP
 
-- Alejandro Núñez Arroyo. U-Eval: A Domain Agnostic Framework for Automated Test Case Generation
-and Systematic Evaluation of LLM-Based Multi-Agent Systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
+- Alejandro Núñez Arroyo. U-Eval: A Domain Agnostic Framework for Automated Test Case Generation and Systematic Evaluation of LLM-Based Multi-Agent Systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
 
 - Lucas Treviso Bandeira. Long Planning in LLM-based Agents. (Petrobras Industry Research Partnership)
 
@@ -46,19 +43,21 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 ### Undergraduate Students
 
-- Gabriel Lopes de Barros. 2025. Memory-based planning in cognitive multi-agent systems based on LLMs. (Petrobras Industry Research Partnership)
+- Gabriel Lopes de Barros. 2026. Memory-based planning in cognitive multi-agent systems based on LLMs. (Petrobras Industry Research Partnership)
 
-- Guilherme de Godoi Monteiro. 2025. Paradigmas conversacionais e suas implicações no mecanismo de planejamento em sistemas multiagentes baseados em LLMs. (Petrobras Industry Research Partnership)
+- Guilherme de Godoi Monteiro. 2026. Conversational paradigms and their implications for the planning mechanism in LLM-based multi-agent systems. (Petrobras Industry Research Partnership)
 
-- Lucas Bellusci D'Andréa. 2025. Data processing and integration for autonomous campaign management in marketplaces based on AI agents. (GoBots Industry Research Partnership)
-
-- Tiago Perrupato Antunes. 2025. AI Agents for Autonomous Management of Advertising Campaigns in Marketplaces. (GoBots Industry Research Partnership)
 
 ## Alumni
 
 ### Postdoctoral researchers
 
+- Roberto Massi de Oliveira. An LLM-Based Multi-Agent Approach for the Personalized Generation of Learning-Supportive Assessment Activities. (FAPESP). 01/04/2026.
+
+- Éliton Meireles de Moura. Maker Education and Artificial Intelligence. 15/04/2024 until 14/04/2026.
+
 - Rafael Roque de Souza. Framework for task-oriented chatbot development. IC/UNICAMP. (CI&T – Industry Research Scholarship) 01/02/2022 until 28/02/2023.
+
 
 ### Doctorates
 
@@ -78,7 +77,9 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 ### Masters
 
-- Mariana Aparecida Ferreira. CAUSE-GNN: Deep learning based on causally constructed similarity graphs applied to churn prediction. IC/UNICAMP. M.Sc. thesis. Defense: 31/07/2026. Supervision with Prof. Marcelo Reis.
+- Ronaldinho Vega Centeno Olivera. Context-Aware Fine-Tuning for RAG Systems in Specialized Domains. (Petrobras Industry Research Partnership). M.Sc. thesis. Defense: 30/09/2026. Supervision with Prof. Allan Mariano.
+
+- Mariana Aparecida Ferreira. CAUSE-GNN: Causal Selection and Similarity Graph Learning for Customer Churn Prediction. IC/UNICAMP. M.Sc. thesis. Defense: 31/07/2026. Supervision with Prof. Marcelo Reis.
 
 - Sadeeq Olalekan Bello. Cognitive Architecture-Driven Ensemble Learning for Real-Time Churn Prediction. IC/UNICAMP (H.IAAC – industry research scholarship). M.Sc. thesis. Defense: 19/12/2024. Supervision with Prof. Marcelo da Silva Reis.
 
@@ -123,13 +124,18 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 - Cristiane Josely Jensen. [Interaction Design of Mechanisms to Support Users Expressing Intentions in Collaborative Systems](www.cc.faccamp.br/Dissertacoes/CristianeJoselyJensen.pdf). M.Sc. thesis. Defense: 04/11/2015. FACCAMP, Brazil. Supervision with Prof. Rodrigo Bonacin.
 
 ### Undergraduate Students – Bachelor Final Projects
+
+- Filipe Lacerda Benevides. 2026. [Sponsored Discovery Mechanism for the Web of Open Agents.](https://www.ic.unicamp.br/~reltech/PFG/2026/PFG-26-10.pdf) Bachelor Final Project. IC-PFG-26-10.  IC/UNICAMP
+
+- Gabriel Castilho Mazzeu. 2026. [SocialQuizzles: Gamifying Collaborative Online Quiz Solving.](https://www.ic.unicamp.br/~reltech/PFG/2026/PFG-26-09.pdf) Bachelor Final Project. IC-PFG-26-09.  IC/UNICAMP
+
 - Bruno Amaral Teixeira de Freitas. 2025. Strive: Orquestração de cobranças coletivas via pagamentos instantâneos. Bachelor Final Project. IC-PFG-25-49.  IC/UNICAMP
 
-- Tiago Feliciano Gomes. 2025. Moderando Conteúdo Textual via Sistema Multiagentes com Modelos de Linguagem. Bachelor Final Project. IC-PFG-25-03.  IC/UNICAMP
+- Tiago Feliciano Gomes. 2025. [Moderando Conteúdo Textual via Sistema Multiagentes com Modelos de Linguagem.](https://www.ic.unicamp.br/~reltech/PFG/2025/PFG-25-03.pdf) Bachelor Final Project. IC-PFG-25-03.  IC/UNICAMP
 
-- Henrique Minetto Duarte Oliveira, Gabriel Dias de Oliveira. 2025. Design e Desenvolvimento de um Sistema de Apoio à Aprendizagem integrado com IA Generativa. Bachelor Final Project. IC-PFG-25-02.  IC/UNICAMP
+- Henrique Minetto Duarte Oliveira, Gabriel Dias de Oliveira. 2025. [Design e Desenvolvimento de um Sistema de Apoio à Aprendizagem integrado com IA Generativa.](https://www.ic.unicamp.br/~reltech/PFG/2025/PFG-25-02.pdf) Bachelor Final Project. IC-PFG-25-02.  IC/UNICAMP
 
-- Mauricio Lorenzetti Bezerra. 2023. Monitoramento cardíaco não-invasivo aplicado à predição de estados afetivos. Bachelor Final Project. IC-PFG-23-56.  IC/UNICAMP
+- Mauricio Lorenzetti Bezerra. 2023. [Monitoramento cardíaco não-invasivo aplicado à predição de estados afetivos.](https://www.ic.unicamp.br/~reltech/PFG/2023/PFG-23-56.pdf) Bachelor Final Project. IC-PFG-23-56.  IC/UNICAMP
 
 - Andreis G. M. Purim. 2023. [Active Learning for Natural Language Data Annotation](https://www.ic.unicamp.br/~reltech/PFG/2023/PFG-23-55.pdf).  Bachelor Final Project. IC-PFG-23-55.  IC/UNICAMP
 
@@ -182,6 +188,11 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 - Guilherme Pereira Gribeler. 2018. [Semantic Metadata Extraction from Subtitles of Video Lectures](https://www.ic.unicamp.br/~reltech/PFG/2018/PFG-18-25.pdf). Bachelor Final Project. IC-PFG-18-25. IC/UNICAMP
 
 ### Scientific Initiation Students
+
+- Lucas Bellusci D'Andréa. 2026. Data processing and integration for autonomous campaign management in marketplaces based on AI agents. (GoBots Industry Research Partnership)
+
+- Tiago Perrupato Antunes. 2026. AI Agents for Autonomous Management of Advertising Campaigns in Marketplaces. (GoBots Industry Research Partnership)
+
 - Gabriel Castilho Mazzeu. 2025. Designing Gamificação visando Engajamento em ambiente de Aprendizagem Digital. (PIBIC scholarship)
 
 - Victor Honório Pereira da Silva. 2025. Um assistente conversacional em ambiente de aprendizagem digital. (PIBIC scholarship)
