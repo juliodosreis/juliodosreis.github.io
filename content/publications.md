@@ -206,6 +206,12 @@ date: 2026-01-12
 
 ### 2026
 
+- SOUZA, E.; REGINO, A. G.; **DOS REIS, J. C.** 2026. Forget Chunks: Explainable Retrieval via Normative Knowledge Graphs. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Engineering and Ontology Development (KEOD’26). Angers, France.
+
+- ARAUJO, P. A. M.; REIS, M. S; **DOS REIS, J. C.** 2026. Assessing Pre-Trained LLMs for Topic-Modeling Based Sentiment Analysis. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Engineering and Ontology Development (KEOD’26). Angers, France.
+
+- SOUSA, M. C. C. H.; REGINO, A. G.; **DOS REIS, J. C.**  2026. Knowledge Extraction from Clinical Trial Protocols Using Large Language Models for Automated Patient Matching. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Engineering and Ontology Development (KEOD’26). Angers, France.
+
 - ARROYO, A. N.; **DOS REIS, J. C.** 2026. MCPForge: Automatic Generation of Certified Tool-Use Benchmarks for LLM Agents. In the Proceedings of the 2nd International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS’26). Part of the 18th International Joint Conference on Computational Intelligence (IJCCI’25). Angers, France.
 
 - MORAIS, R.; SANTOS, F. A.; VILLAS, L. A.; **DOS REIS, J. C.** 2026. A Planner Cache for Short-Term Memory Management in LLM-Based Agents. In the Proceedings of the 2nd International Conference on Agentic and Generative Techniques in Intelligent Computational Systems (AGENTICS’26). Part of the 18th International Joint Conference on Computational Intelligence (IJCCI’25). Angers, France.
