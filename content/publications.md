@@ -206,7 +206,7 @@ date: 2026-01-12
 
 ### 2026
 
-- SOUZA, E.; REGINO, A. G.; **DOS REIS, J. C.** 2026. Forget Chunks: Explainable Retrieval via Normative Knowledge Graphs. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Discovery and Information Retrieval (KDIR’26). Angers, France.
+- SOUZA, E.; OLIVEIRA, E. C.; CARVALHO, C.; REGINO, A. G.; **DOS REIS, J. C.** 2026. Forget Chunks: Explainable Retrieval via Normative Knowledge Graphs. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Discovery and Information Retrieval (KDIR’26). Angers, France.
 
 - ARAUJO, P. A. M.; REIS, M. S; **DOS REIS, J. C.** 2026. Assessing Pre-Trained LLMs for Topic-Modeling Based Sentiment Analysis. In Proceedings of the 18th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K). 18th International Conference on Knowledge Discovery and Information Retrieval (KDIR’26). Angers, France.
 
