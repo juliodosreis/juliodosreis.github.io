@@ -45,7 +45,7 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
 - Rodrigo Gonçalves Flexa. Long-Term Memory Management in Language Agents through Continuous Curation and Multifactorial Retrieval. IC/UNICAMP. (Petrobras Industry Research Partnership). Supervision with Prof. Leandro Aparecido Villas.
 
-- Lucas Treviso Bandeira. Long Planning in LLM-based Agents. (Petrobras Industry Research Partnership)
+- Lucas Treviso Bandeira. Long-Horizon Planning for LLM Agents through Online Plan Evolution. (Petrobras Industry Research Partnership)
 
 - Rafael Rodrigues Dias. User Context-Aware Memory Management for Coherent
 Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
