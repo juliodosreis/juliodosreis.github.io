@@ -8,6 +8,8 @@ date: 2026-01-12
 
 ### 2026
 
+- REGINO, A. G.; BONACIN, R.; **DOS REIS, J. C.** 2026. A Framework to Restore Semantically Affected Links in LOD Datasets. Transactions on Graph Data and Knowledge (TGDK). ISSN 2942-7517. Vol. 4 (3).
+
 - OLIVEIRA, R.; HERNANDEZ, A.; GARBIN, M. **DOS REIS, J. C.**; AZEVEDO, R. 2026. [Automatic Question Generation with Large Language Models: A Survey](https://dl.acm.org/doi/10.1145/3832773). ACM Computing Surveys. ISSN: 0360-0300.
 
 - ROSSANEZ, A.; TORRES, R. S.; **DOS REIS, J. C.** 2026. [Knowledge Graph Centrality Measurements: A Comparative Study](https://doi.org/10.1007/s42979-026-05132-z). SN Computer Science (SNCS). Vol (7), 613. ISSN: 2662-995X.

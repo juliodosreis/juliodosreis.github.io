@@ -70,7 +70,7 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 - Geovanna Evelyn Espinoza Taype. [A Socioenactive System Empowered by AI Studied through Emotional Contagion Phenomenon.](https://repositorio.unicamp.br/acervo/detalhe/1522520) IC/UNICAMP (FAPESP scholarship). Supervision with Prof. Maria Cecília Calani Baranauskas. Ph.D. thesis. Defense: 22/08/2025.
 
-- André Gomes Regino. Enhancing Knowledge Graphs with Large Language Models: Contributions to E-commerce Question Answering Systems. IC/UNICAMP (CNPq scholarship – GoBots industry research partnership). Ph.D. thesis. Defense: 25/04/2025.
+- André Gomes Regino. [Enhancing Knowledge Graphs with Large Language Models: Contributions to E-commerce Question Answering Systems.](https://repositorio.unicamp.br/acervo/detalhe/1555368) IC/UNICAMP (CNPq scholarship – GoBots industry research partnership). Ph.D. thesis. Defense: 25/04/2025.
 
 - Luiz Aparecido Virginio Junior. [Addressing Patient Safety in Healthcare: The Heath Information Technology Safety Maturity Model.](https://repositorio.unicamp.br/acervo/detalhe/1398860) Ph.D. thesis. Defense: 27/05/2024. IC/UNICAMP (CNPq scholarship).
 
@@ -82,7 +82,7 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 ### Masters
 
-- Ronaldinho Vega Centeno Olivera. Context-Aware Fine-Tuning for RAG Systems in Specialized Domains. (Petrobras Industry Research Partnership). M.Sc. thesis. Defense: 30/09/2026. Supervision with Prof. Allan Mariano.
+- Ronaldinho Vega Centeno Olivera. Context-Aware Fine-Tuning for RAG Systems in Specialized Domains. (Petrobras Industry Research Partnership). M.Sc. thesis. Defense: 02/10/2026. Supervision with Prof. Allan Mariano.
 
 - Mariana Aparecida Ferreira. CAUSE-GNN: Causal Selection and Similarity Graph Learning for Customer Churn Prediction. IC/UNICAMP. M.Sc. thesis. Defense: 31/07/2026. Supervision with Prof. Marcelo da Silva Reis.
 
