@@ -202,4 +202,4 @@ awards:
     awarder: XIX Workshop-School on Agents, Environments, and Applications (WESAAC’25)
 ---
 
-I’m an Associate Professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at UNICAMP and Assistant Researcher at the Luxembourg Institute of Science and Technology, Luxembourg. Acted as Director of the Nucleus of Informatics Applied to Education (NIED/Unicamp). Currently, Head of the Laboratory of Human-Digital Artifact Interaction (LInterHAD) and Associate Researcher at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC).
+I’m an Associate Professor at the Institute of Computing of the University of Campinas (UNICAMP), Brazil. Former postdoctoral researcher at UNICAMP and Assistant Researcher at the Luxembourg Institute of Science and Technology, Luxembourg. Acted as Director of the Nucleus of Informatics Applied to Education (NIED/Unicamp). Currently, Head of the Laboratory of Human-Digital Artifact Interaction (LInterHAD) and Coordinator of the Startup Accelerator Center at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC).

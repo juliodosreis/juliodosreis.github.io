@@ -2,7 +2,7 @@
 date: 2026-01-12
 #type: landing
 ---
-## Current Students
+## Current
 
 ### Postdoctoral researchers
 
@@ -55,12 +55,14 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 ### Undergraduate Students
 
+- Carlos Eduardo Milani Xavier. 2026. E-commerce Sponsored Product Campaign Management via ReAct Agents.  (GoBots Industry Research Partnership)
+
 - Gabriel Lopes de Barros. 2026. Memory-based planning in cognitive multi-agent systems based on LLMs. (Petrobras Industry Research Partnership)
 
 - Guilherme de Godoi Monteiro. 2026. Conversational paradigms and their implications for the planning mechanism in LLM-based multi-agent systems. (Petrobras Industry Research Partnership)
 
 
-## Alumni
+## Former
 
 ### Postdoctoral researchers
 
