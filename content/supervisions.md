@@ -8,6 +8,9 @@ date: 2026-01-12
 
 - Eryck Pedro da Silva. [Arquitetura multiagentes com base em LLMs para auxiliar tomadas de decisão](https://aaiims-unicamp.github.io/products/).  Start: 01/12/2024. 
 
+- Paula Geralda Barbosa Coelho. Gestão em Transferência Tecnológica e Inovação para o
+Hub de Inteligência Artificial e Arquiteturas Cognitivas - H.IAAC. Start: 01/08/2026
+
 ### Ph.D. Candidates
 
 - Fillipe dos Santos Silva. From Stable Clusters to Personalized Recommendations: Integrating Structured and Textual Data. IC/UNICAMP (H.IAAC – Industry Research Scholarship). Supervision with Prof. Marcelo da Silva Reis.
@@ -38,6 +41,10 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
 - Alejandro Núñez Arroyo. U-Eval: A Domain Agnostic Framework for Automated Test Case Generation and Systematic Evaluation of LLM-Based Multi-Agent Systems. IC/UNICAMP. (Petrobras Industry Research Partnership)
 
+- Renan dos Santos Morais. TriCache Manager: Structuring and Managing Short-Term Memory in LLM-Based Agents. IC/UNICAMP. (Petrobras Industry Research Partnership). Supervision with Prof. Leandro Aparecido Villas.
+
+- Rodrigo Gonçalves Flexa. Long-Term Memory Management in Language Agents through Continuous Curation and Multifactorial Retrieval. IC/UNICAMP. (Petrobras Industry Research Partnership). Supervision with Prof. Leandro Aparecido Villas.
+
 - Lucas Treviso Bandeira. Long Planning in LLM-based Agents. (Petrobras Industry Research Partnership)
 
 - Rafael Rodrigues Dias. User Context-Aware Memory Management for Coherent
@@ -66,7 +73,7 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 
 ### Doctorates
 
-- Sheila Venero. [Conceptual Modeling and Automated Planning for Knowledge-Intensive Processes under Uncertainty.](https://repositorio.unicamp.br/acervo/detalhe/1531915) IC/UNICAMP. (CNPq scholarship). Supervision with Prof. Cecília Mary Fischer Rubira and Prof. Leonardo Montecchi. Ph.D. thesis. Defense: 14/11/2025.
+- Sheila Katherine Venero Ferro. [Conceptual Modeling and Automated Planning for Knowledge-Intensive Processes under Uncertainty.](https://repositorio.unicamp.br/acervo/detalhe/1531915) IC/UNICAMP. (CNPq scholarship). Supervision with Prof. Cecília Mary Fischer Rubira and Prof. Leonardo Montecchi. Ph.D. thesis. Defense: 14/11/2025.
 
 - Geovanna Evelyn Espinoza Taype. [A Socioenactive System Empowered by AI Studied through Emotional Contagion Phenomenon.](https://repositorio.unicamp.br/acervo/detalhe/1522520) IC/UNICAMP (FAPESP scholarship). Supervision with Prof. Maria Cecília Calani Baranauskas. Ph.D. thesis. Defense: 22/08/2025.
 
