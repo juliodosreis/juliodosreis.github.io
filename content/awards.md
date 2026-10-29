@@ -27,7 +27,11 @@ date: 2026-01-12
 
 - Best Paper Award at the 25th International Conference on Human-Computer Interaction (HCII’23)
 
+- Funding Award in the CONNECT program by the Alexander von Humboldt Foundation, Germany
+
 ### 2022
+- Invited participant in the 12th Brazilian-German Frontiers of Science and Technology Symposium (BRAGFOST'22)
+
 - 3rd Best Master Dissertation at the Concourse of Thesis and Dissertations (Student André Regino) at the XXVIII Brazilian Symposium on Multimedia and Web (WebMedia’22)
 
 - Best Student Paper Award at the 14th International Conference on Knowledge Engineering and Ontology Development (KEOD’22)
