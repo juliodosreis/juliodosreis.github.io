@@ -27,8 +27,6 @@ Retrieval. IC/UNICAMP. Supervision with Prof. Marcelo da Silva Reis.
 
 ### M.Sc. Candidates
 
-- Sandyara Beatriz Doro Peres. VeeMo: A Universal Exergame for Kindergarten. IC/UNICAMP.
-
 - Maria Clara Castro Higino de Sousa. Exploring Artificial Intelligence techniques in selection study groups and data collection in research clinics. IC/UNICAMP.
 
 - Rodrigo Oliveira Caus. Combining Frequently Asked Questions and Generative Models for Question Answering in e-Commerce. IC/UNICAMP (GoBots Industry Research Partnership).
@@ -90,6 +88,8 @@ Personalization in Conversational Agents. IC/UNICAMP. Supervision with Prof. Mar
 - Juliana Medeiros Destro. [Cross-Language Ontology Matching](https://repositorio.unicamp.br/acervo/detalhe/1093544). Ph.D. thesis. Defense: 10/07/2019. IC/UNICAMP. Supervised in conjunction with Prof. Ricardo da Silva Torres and Prof. Ivan Ricarte.
 
 ### Masters
+
+- Sandyara Beatriz Doro Peres. VeeMo: An Inclusive Exergame for Physical Education. IC/UNICAMP.  M.Sc. thesis. Defense: 16/11/2026. 
 
 - Ronaldinho Vega Centeno Olivera. Context-Aware Fine-Tuning for RAG Systems in Specialized Domains. (Petrobras Industry Research Partnership). M.Sc. thesis. Defense: 02/10/2026. Supervision with Prof. Allan Mariano.
 
