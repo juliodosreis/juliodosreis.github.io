@@ -4,17 +4,17 @@ date: 2026-01-12
 ---
 ## Ongoing Scientific Projects
 
+- [Application of Large Language Models for online monitoring of industrial processes](https://aaiims-unicamp.github.io/). Industry Project in partnership with Petrobras S. A.  PI
+
+- [H.IAAC: Hub for Artificial Intelligence and Cognitive Architecture](https://hiaac.unicamp.br/en/nas/). Coordinator of the Startup Acceleration Center
+
+- [A Multi-Agent LLM-based Approach to Personalized Generation of Learning Activities](https://bv.fapesp.br/pt/auxilios/118872/uma-abordagem-multiagentes-baseada-em-llms-para-geracao-personalizada-de-atividades-avaliativas-de-a/). FAPESP Research grant. PI
+
 - Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Universal. PI
 
 - Customization of Automated Generation of Multiple-Choice Questions in the Portuguese Language. CNPq Research Productivity Grant. PI
 
-- [A Multi-Agent LLM-based Approach to Personalized Generation of Learning Activities](https://bv.fapesp.br/pt/auxilios/118872/uma-abordagem-multiagentes-baseada-em-llms-para-geracao-personalizada-de-atividades-avaliativas-de-a/). FAPESP Research grant. PI
-
-- [Application of Large Language Models for online monitoring of industrial processes](https://aaiims-unicamp.github.io/). Industry Project in partnership with Petrobras S. A.  PI
-
 - Construction and Use of Knowledge Bases in Automated Question and Answer Systems. Industry Project in partnership with GoBots Intelligent Solutions Ltda. PI
-
-- [H.IAAC: Hub for Artificial Intelligence and Cognitive Architecture](https://hiaac.unicamp.br/en/about-the-hub/). Associate Researcher.
 
 
 ## Concluded Scientific Projects as Principal Investigator
